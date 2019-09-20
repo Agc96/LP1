@@ -4,6 +4,8 @@
     <logicalFolder name="HeaderFiles"
                    displayName="Header Files"
                    projectFiles="true">
+      <itemPath>constantes.h</itemPath>
+      <itemPath>funciones.h</itemPath>
       <itemPath>utilidades.h</itemPath>
     </logicalFolder>
     <logicalFolder name="ResourceFiles"
@@ -13,6 +15,7 @@
     <logicalFolder name="SourceFiles"
                    displayName="Source Files"
                    projectFiles="true">
+      <itemPath>funciones.cpp</itemPath>
       <itemPath>main.cpp</itemPath>
       <itemPath>utilidades.cpp</itemPath>
     </logicalFolder>
@@ -38,6 +41,12 @@
       </toolsSet>
       <compileType>
       </compileType>
+      <item path="constantes.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="funciones.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="funciones.h" ex="false" tool="3" flavor2="0">
+      </item>
       <item path="main.cpp" ex="false" tool="1" flavor2="0">
       </item>
       <item path="utilidades.cpp" ex="false" tool="1" flavor2="0">
@@ -65,6 +74,12 @@
           <developmentMode>5</developmentMode>
         </asmTool>
       </compileType>
+      <item path="constantes.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="funciones.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="funciones.h" ex="false" tool="3" flavor2="0">
+      </item>
       <item path="main.cpp" ex="false" tool="1" flavor2="0">
       </item>
       <item path="utilidades.cpp" ex="false" tool="1" flavor2="0">

@@ -21,6 +21,7 @@
 #define MAX_DECIMAL 8
 #define MAX_ENTERO 6
 #define MAX_RESUMEN 20
+#define MAX_LIMITE 10
 #define PRECISION 2
 
 #endif /* CONSTANTES_H */

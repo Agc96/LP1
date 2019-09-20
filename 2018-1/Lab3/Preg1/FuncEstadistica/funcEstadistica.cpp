@@ -82,6 +82,9 @@ double desvEstandar(T datos[], int numDatos) {
 template <typename T1, typename T2>
 int distFrecuencias(T1 datos[], int numDatos, T2 limites[], int numLimites,
         int frecuencias[]) {
+    for (int i = 0; i <= numLimites; i++) {
+        frecuencias[i] = 0;
+    }
     for (int i = 0; i < numDatos; i++) {
         bool pendienteAgregar = true;
         for (int j = 0; pendienteAgregar && j < numLimites; j++) {

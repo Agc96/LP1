@@ -16,9 +16,11 @@ using namespace std;
 
 int main() {
     // Declaración de variables
-    int numCiudades = 0, numRegistros, numCaracteres, *fechas, *horas,
-            *duraciones, maxFecha, maxHora, maxFechaIndice, minFecha, minHora,
-            minFechaIndice, minDuracion, maxDuracion;
+    int numCiudades = 0, numRegistros, *fechas, *horas, *duraciones, maxFecha,
+            maxHora, maxFechaIndice, minFecha, minHora, minFechaIndice,
+            minDuracion, maxDuracion;
+    int limitesIntensidades[MAX_LIMITE] = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10};
+    int limitesDuraciones[MAX_LIMITE] = {10, 20, 30, 40, 50, 60, 70, 80, 90, 100};
     double *intensidades, minIntensidad, maxIntensidad;
     char c;
     // Escribir título del reporte
@@ -117,16 +119,26 @@ int main() {
         cout << setw(MAX_DECIMAL) << mediana(duraciones, numRegistros);
         espacios(MAX_RESUMEN - MAX_DECIMAL);
         cout << endl;
-        // TODO: Distribución de frecuencias
+        // Distribución de frecuencias
+        int* frecuenciasIntensidades = new int[MAX_LIMITE + 1];
+        int* frecuenciasDuraciones = new int[MAX_LIMITE + 1];
+        distFrecuencias(intensidades, numRegistros, limitesIntensidades,
+                MAX_LIMITE, frecuenciasIntensidades);
+        distFrecuencias(duraciones, numRegistros, limitesDuraciones,
+                MAX_LIMITE, frecuenciasDuraciones);
+        cout << "DISTRIBUCION DE FRECUENCIAS:" << endl;
+        // TODO
         // Colocar cantidad de registros
         separacion('/', MAX_LINEA);
         cout << "CANTIDAD DE REGISTROS: " << numRegistros;
         separacion('/', MAX_LINEA);
         // Limpiar los arreglos dinámicos
-        delete intensidades;
-        delete duraciones;
-        delete fechas;
-        delete horas;
+        delete[] intensidades;
+        delete[] duraciones;
+        delete[] fechas;
+        delete[] horas;
+        delete[] frecuenciasIntensidades;
+        delete[] frecuenciasDuraciones;
         // Verificar si terminó el programa
         if (cin.eof()) break;
         cin.clear();
