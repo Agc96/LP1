@@ -43,3 +43,6 @@
 **/dist/*
 **/nbdist/
 **/.nb-gradle/
+
+### Correcciones ###
+Correcciones/
