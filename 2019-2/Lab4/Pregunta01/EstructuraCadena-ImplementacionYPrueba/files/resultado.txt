@@ -1,0 +1,45 @@
+Prueba de inicialización y longitud
+------------------------------------------------------------------------------------------------------------------------
+Cadena: "" (longitud = 0)
+Cadena: "####################" (longitud = 20)
+Cadena: "****************************************************************************************************" (longitud = 100)
+Cadena: "[Desbordamiento]" (longitud = -1)
+========================================================================================================================
+Prueba de recortar cadenas
+------------------------------------------------------------------------------------------------------------------------
+Cadena: "            
+ Juan           Perez   
+    
+    Lopez       
+    " (longitud = 64)
+Cadena: "Juan Perez Lopez" (longitud = 16)
+========================================================================================================================
+Prueba de intercambiar cadenas
+------------------------------------------------------------------------------------------------------------------------
+- Lectura de la primera cadena
+Cadena: "Esta va a ser la primera cadena" (longitud = 31)
+- Lectura de la segunda cadena
+Cadena: "Esta cadena debería ser intercambiada con la anterior" (longitud = 54)
+- Intercambio de cadenas:
+Cadena: "Esta cadena debería ser intercambiada con la anterior" (longitud = 54)
+Cadena: "Esta va a ser la primera cadena" (longitud = 31)
+========================================================================================================================
+Prueba de sobrecarga de operadores
+------------------------------------------------------------------------------------------------------------------------
+- Lectura e impresión usando operadores >> y <<
+Esta cadena deberia leerse y luego copiarse usando sobrecarga de operadores
+ - Asignacion usando operador &
+Cadena: "Esta cadena deberia leerse y luego copiarse usando sobrecarga de operadores" (longitud = 75)
+Cadena: "Esta cadena deberia leerse y luego copiarse usando sobrecarga de operadores" (longitud = 75)
+- Agregación usando operador +=
+Cadena: "Esta es la primera parte de la primera cadena larga" (longitud = 51)
+Cadena: ", y aqui se vienen mas caracteres" (longitud = 33)
+Cadena: "Esta es la primera parte de la primera cadena larga, y aqui se vienen mas caracteres" (longitud = 84)
+- Agregación usando operador +
+Cadena: "Esta es la primera parte de la segunda cadena larga" (longitud = 51)
+Cadena: ", y aqui se vienen mas caracteres" (longitud = 33)
+Cadena: "Esta es la primera parte de la segunda cadena larga, y aqui se vienen mas caracteres" (longitud = 84)
+- Comparación usando operadores ==, <, >
+  - ¿cad01 == cad02? 1
+  - ¿cad03 < cad07? 1
+  - ¿cad05 > cad06? 1
