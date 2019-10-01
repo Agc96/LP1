@@ -18,8 +18,7 @@ struct Cadena {
     bool overF = false;
 };
 
-void inicializa(Cadena&, char, int = MAX_CADENA);
-void inicializa(Cadena&);
+void inicializa(Cadena&, char = '\0', int = MAX_CADENA);
 void leer(ifstream&, Cadena&, char = '\n');
 void imprimir(ofstream&, Cadena&);
 int longitud(Cadena&);

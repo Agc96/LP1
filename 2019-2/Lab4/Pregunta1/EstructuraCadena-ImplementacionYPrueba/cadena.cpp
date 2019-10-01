@@ -6,15 +6,18 @@
  */
 
 #include "cadena.h"
-#include <iostream>
 using namespace std;
 
 void inicializa(Cadena& cadena, char car, int cant) {
     if (cant <= MAX_CADENA) {
-        for (int i = 0; i < cant; i++) {
-            cadena.cadena[i] = car;
+        if (car != '\0') {
+            for (int i = 0; i < cant; i++) {
+                cadena.cadena[i] = car;
+            }
+            cadena.longitud = cant;
+        } else {
+            cadena.longitud = 0;
         }
-        cadena.longitud = cant;
         cadena.overF = false;
     } else {
         cadena.overF = true;
@@ -27,7 +30,7 @@ void inicializa(Cadena& cadena) {
 }
 
 void leer(ifstream& arch, Cadena& cadena, char car) {
-    for (cadena.longitud = 0; cadena.longitud < MAX_CADENA; cadena.longitud++) {
+    for (cadena.longitud = 0; arch && cadena.longitud < MAX_CADENA; cadena.longitud++) {
         // Leer uno a uno los caracteres
         cadena.cadena[cadena.longitud] = arch.get();
         // Ver si llegamos al caracter de parada
@@ -140,17 +143,15 @@ Cadena operator +(const Cadena& cad01, const Cadena& cad02) {
 
 int comparacion(const Cadena& cad01, const Cadena& cad02) {
     // Si las longitudes son diferentes, se comparan las longitudes
-    if (cad01.longitud != cad02.longitud) {
-        return cad01.longitud - cad02.longitud;
-    }
-    // Si las longitudes son iguales, se compara caracter por caracter
-    for (int i = 0; i < cad01.longitud; i++) {
+    int minLongitud = (cad01.longitud < cad02.longitud) ? cad01.longitud : cad02.longitud;
+    // Comparar caracter por caracter
+    for (int i = 0; i < minLongitud; i++) {
         if (cad01.cadena[i] != cad02.cadena[i]) {
             return cad01.cadena[i] - cad02.cadena[i];
         }
     }
-    // Si llegamos a este punto, el contenido de las cadenas son iguales
-    return 0;
+    // Comparar las longitudes si es que una cadena es subcadena de la otra
+    return cad01.longitud - cad02.longitud;
 }
 
 bool operator ==(const Cadena& cad01, const Cadena& cad02) {
