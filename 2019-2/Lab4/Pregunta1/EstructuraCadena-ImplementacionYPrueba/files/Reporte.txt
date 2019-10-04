@@ -1,0 +1,47 @@
+Prueba de inicialización y longitud
+- Nada: "" (longitud = 0)
+- 100 guiones: "****************************************************************************************************" (longitud = 100)
+- 20 numerales: "####################" (longitud = 20)
+- Desbordamiento: "[Desbordamiento]" (longitud = -1)
+
+Prueba de lectura y recorte de cadenas
+- Antes del recorte: "            
+ Juan           Perez   
+    
+    Lopez       
+    " (longitud = 64)
+- Despues del recorte: "Juan Perez Lopez" (longitud = 16)
+
+Prueba de intercambiar cadenas
+- Primera cadena: "Esta es por el momento la primera cadena" (longitud = 40)
+- Segunda cadena: "Esta cadena debería ser intercambiada con la anterior" (longitud = 54)
+- Primera cadena: "Esta cadena debería ser intercambiada con la anterior" (longitud = 54)
+- Segunda cadena: "Esta es por el momento la primera cadena" (longitud = 40)
+
+Pruebas de lectura e impresión usando operadores >> y <<
+Esta cadena deberia leerse y luego copiarse usando sobrecarga de operadores
+
+ Prueba de asignacion usando operador &
+- Primera cadena: "Esta cadena deberia leerse y luego copiarse usando sobrecarga de operadores" (longitud = 75)
+- Segunda cadena: "Esta cadena deberia leerse y luego copiarse usando sobrecarga de operadores" (longitud = 75)
+
+Prueba de agregación usando operador +=
+- Primera cadena: "Esta es la primera parte de la primera cadena larga" (longitud = 51)
+- Segunda cadena: ", y aqui se vienen mas caracteres" (longitud = 33)
+- Primera cadena: "Esta es la primera parte de la primera cadena larga, y aqui se vienen mas caracteres" (longitud = 84)
+
+Prueab de agregación usando operador +
+- Primera cadena: "Esta es la primera parte de la segunda cadena larga" (longitud = 51)
+- Segunda cadena: ", y aqui se vienen mas caracteres" (longitud = 33)
+- Tercera cadena: "Esta es la primera parte de la segunda cadena larga, y aqui se vienen mas caracteres" (longitud = 84)
+
+Prueba de comparación usando operadores ==, <, >
+- ¿cad01 == cad02?: Verdadero
+- ¿cad04 == cad06?: Verdadero
+- ¿cad05 == cad07?: Falso
+- ¿cad03 < cad07?: Verdadero
+- ¿cad01 < cad03?: Verdadero
+- ¿cad04 < cad06?: Falso
+- ¿cad05 > cad06?: Verdadero
+- ¿cad07 > cad05?: Verdadero
+- ¿cad04 > cad06?: Falso

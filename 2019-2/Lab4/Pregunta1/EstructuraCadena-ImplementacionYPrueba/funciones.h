@@ -8,16 +8,14 @@
 #ifndef FUNCIONES_H
 #define FUNCIONES_H
 
+#include <iostream>
+#include <iomanip>
 #include <fstream>
-#include "cadena.h"
+#include "cadena.h" // TODO: Cambiar nombre por el header del alumno
 using namespace std;
 
-void pruebaInicializacionLongitud(ofstream&);
-void pruebaRecortarCadenas(ofstream&, ifstream&);
-void pruebaIntercambiarCadenas(ofstream&, ifstream&);
-void pruebaSobrecarga(ofstream&, ifstream&);
-
-void imprimirDetalle(ofstream&, Cadena&);
-void separacion(ofstream&, char);
+void jpPruebaCadenas();
+void jpImprimirCadena(ofstream&, Cadena&, const char*);
+void jpImprimirComparacion(ofstream&, bool, const char*);
 
 #endif /* FUNCIONES_H */

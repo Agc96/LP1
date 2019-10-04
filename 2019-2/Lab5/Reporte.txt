@@ -1,0 +1,594 @@
+REPORTE DE ALMACENES
+========================================================================================================================
+ALMACÉN 1
+  No    Producto
+   1     JR86507
+   2     OT32425
+   3     JR86507
+   4     WL09498
+   5     IT60920
+   6     YF17264
+   7     TL56384
+   8     JR86507
+   9     OT32425
+  10     UK47509
+  11     FQ88002
+  12     JR86507
+  13     BP15881
+  14     IG92877
+  15     YR12572
+ALMACÉN 2
+  No    Producto
+   1     SB26669
+   2     DX44682
+   3     WS24612
+   4     MB82598
+   5     FZ98234
+   6     IG92877
+   7     FZ98234
+   8     CE69353
+   9     SW29687
+  10     FZ98234
+  11     UE09721
+  12     BB53001
+ALMACÉN 3
+  No    Producto
+   1     NL61668
+   2     IT60920
+   3     FQ88002
+   4     UK47509
+   5     BF72860
+   6     DX44682
+   7     CI87702
+   8     KS19431
+   9     SB26669
+  10     BP15881
+  11     UK47509
+  12     HL94468
+  13     YF17264
+  14     NL61668
+  15     YF17264
+  16     RW87354
+  17     YF17264
+  18     SW29687
+ALMACÉN 4
+  No    Producto
+   1     KS19431
+   2     DX44682
+   3     WL09498
+   4     FQ88002
+   5     KS19431
+   6     SW29687
+   7     IO29421
+   8     TL56384
+   9     BP15881
+  10     CI87702
+  11     FQ88002
+  12     NL61668
+  13     YR12572
+ALMACÉN 5
+  No    Producto
+   1     YR12572
+   2     BB53001
+   3     JI98835
+   4     FT98440
+   5     BF72860
+   6     YR12572
+   7     YW28008
+   8     YY65200
+   9     BF72860
+  10     WL09498
+  11     TL56384
+  12     YW28008
+  13     YR12572
+  14     WS24612
+  15     FZ98234
+  16     UE09721
+  17     YW28008
+  18     YW80393
+  19     OT32425
+ALMACÉN 6
+  No    Producto
+   1     IT60920
+   2     YW28008
+   3     UK47509
+   4     SB26669
+   5     YF17264
+   6     BP15881
+   7     YW28008
+ALMACÉN 7
+  No    Producto
+   1     FZ98234
+   2     YW28008
+   3     FZ98234
+   4     OT32425
+   5     DX44682
+   6     SB26669
+   7     KS19431
+   8     DX44682
+   9     IG92877
+  10     NL61668
+  11     UE09721
+  12     UE09721
+  13     IT60920
+  14     YW80393
+  15     IO29421
+  16     IG92877
+ALMACÉN 8
+  No    Producto
+   1     FT98440
+   2     KS19431
+   3     YY65200
+   4     YR12572
+   5     KS19431
+   6     CE69353
+   7     DX44682
+   8     IT60920
+   9     BF72860
+  10     JI98835
+  11     YW28008
+  12     BP15881
+  13     UE09721
+  14     KS19431
+  15     JI98835
+  16     YF17264
+  17     YW28008
+ALMACÉN 9
+  No    Producto
+   1     YY65200
+   2     BP15881
+   3     FZ98234
+   4     WS24612
+   5     TL56384
+   6     YR12572
+   7     IO29421
+   8     UK47509
+   9     YR12572
+  10     DX44682
+  11     HL94468
+ALMACÉN 10
+  No    Producto
+   1     FZ98234
+   2     CI87702
+   3     WL09498
+   4     FT98440
+   5     WS24612
+   6     SW29687
+   7     IO29421
+   8     UK47509
+   9     HL94468
+  10     IG92877
+ALMACÉN 11
+  No    Producto
+   1     UK47509
+   2     JR86507
+   3     TL56384
+   4     YY65200
+   5     IO29421
+   6     YW80393
+   7     WS24612
+   8     SW29687
+   9     MB82598
+  10     KS19431
+  11     BP15881
+  12     IG92877
+  13     IT60920
+ALMACÉN 12
+  No    Producto
+   1     BP15881
+   2     SW29687
+   3     WS24612
+   4     YR12572
+   5     YW80393
+   6     FQ88002
+   7     YY65200
+   8     FT98440
+   9     CE69353
+  10     IT60920
+  11     CI87702
+  12     SW29687
+  13     DX44682
+ALMACÉN 13
+  No    Producto
+   1     OT32425
+   2     DX44682
+   3     UK47509
+   4     SW29687
+   5     HL94468
+   6     IO29421
+   7     WS24612
+   8     FT98440
+   9     JI98835
+  10     FQ88002
+  11     HL94468
+  12     WS24612
+  13     YW28008
+ALMACÉN 14
+  No    Producto
+   1     OT32425
+   2     BF72860
+   3     WL09498
+   4     FQ88002
+   5     TL56384
+   6     RW87354
+   7     OT32425
+   8     FZ98234
+   9     SB26669
+  10     YF17264
+  11     JR86507
+  12     NL61668
+  13     SW29687
+  14     YF17264
+  15     UE09721
+  16     FQ88002
+  17     WS24612
+  18     SB26669
+  19     HL94468
+  20     YR12572
+  21     WS24612
+  22     OT32425
+  23     FZ98234
+  24     BB53001
+  25     YW28008
+ALMACÉN 15
+  No    Producto
+   1     YY65200
+   2     FZ98234
+   3     YF17264
+   4     RW87354
+   5     YR12572
+   6     SW29687
+   7     JI98835
+   8     WS24612
+   9     JI98835
+  10     WL09498
+  11     FT98440
+  12     SW29687
+  13     JR86507
+  14     RW87354
+  15     FZ98234
+  16     CI87702
+  17     IG92877
+  18     FT98440
+  19     NL61668
+  20     UE09721
+  21     CI87702
+  22     OT32425
+  23     CI87702
+  24     WL09498
+  25     YR12572
+  26     IG92877
+  27     BB53001
+  28     IO29421
+  29     WL09498
+  30     JR86507
+  31     WS24612
+  32     CI87702
+  33     OT32425
+  34     JR86507
+  35     SW29687
+  36     TL56384
+  37     IT60920
+  38     RW87354
+  39     MB82598
+ALMACÉN 16
+  No    Producto
+   1     YW28008
+   2     RW87354
+   3     SB26669
+   4     MB82598
+   5     NL61668
+   6     FZ98234
+   7     WS24612
+   8     BF72860
+   9     WS24612
+  10     FT98440
+  11     HL94468
+  12     UK47509
+  13     WS24612
+  14     BF72860
+  15     JI98835
+  16     UK47509
+  17     TL56384
+  18     FZ98234
+  19     YW28008
+  20     YR12572
+  21     JR86507
+  22     FQ88002
+  23     SB26669
+  24     DX44682
+  25     BF72860
+  26     CI87702
+  27     SW29687
+  28     UK47509
+  29     WL09498
+  30     SW29687
+  31     JR86507
+  32     MB82598
+  33     BP15881
+  34     JR86507
+ALMACÉN 17
+  No    Producto
+   1     UE09721
+   2     RW87354
+   3     KS19431
+   4     WL09498
+   5     KS19431
+   6     JR86507
+   7     YW80393
+   8     MB82598
+ALMACÉN 18
+  No    Producto
+   1     YY65200
+   2     TL56384
+   3     FT98440
+   4     DX44682
+   5     BP15881
+   6     BB53001
+   7     DX44682
+   8     UK47509
+   9     IT60920
+  10     BB53001
+  11     JI98835
+  12     SB26669
+  13     RW87354
+  14     NL61668
+  15     UE09721
+ALMACÉN 19
+  No    Producto
+   1     FT98440
+   2     CE69353
+   3     CI87702
+   4     IG92877
+   5     YW28008
+   6     BP15881
+   7     IT60920
+   8     MB82598
+   9     YW28008
+  10     FT98440
+  11     KS19431
+  12     FT98440
+  13     YW80393
+  14     YY65200
+  15     KS19431
+  16     RW87354
+  17     YR12572
+  18     IG92877
+ALMACÉN 20
+  No    Producto
+   1     RW87354
+   2     FQ88002
+   3     YW80393
+   4     WL09498
+   5     RW87354
+   6     JR86507
+   7     WS24612
+   8     IO29421
+   9     FQ88002
+  10     BB53001
+  11     YW80393
+  12     JR86507
+ALMACÉN 21
+  No    Producto
+   1     TL56384
+   2     RW87354
+   3     YF17264
+   4     JR86507
+   5     YY65200
+   6     UK47509
+   7     IT60920
+   8     YF17264
+   9     JR86507
+  10     IT60920
+  11     YF17264
+  12     SB26669
+  13     FZ98234
+  14     YW80393
+  15     JR86507
+  16     NL61668
+  17     MB82598
+  18     CE69353
+  19     DX44682
+ALMACÉN 22
+  No    Producto
+   1     IG92877
+   2     BF72860
+   3     YW28008
+   4     IO29421
+   5     BB53001
+   6     SW29687
+   7     IT60920
+   8     SB26669
+   9     IO29421
+  10     CI87702
+  11     DX44682
+  12     DX44682
+  13     FQ88002
+  14     FT98440
+  15     YW28008
+  16     YF17264
+  17     UE09721
+  18     SB26669
+  19     JR86507
+  20     TL56384
+  21     CE69353
+ALMACÉN 23
+  No    Producto
+   1     FT98440
+   2     YY65200
+   3     DX44682
+   4     OT32425
+   5     MB82598
+   6     IG92877
+   7     BF72860
+   8     CI87702
+   9     BF72860
+  10     JI98835
+  11     IG92877
+  12     TL56384
+ALMACÉN 24
+  No    Producto
+   1     YR12572
+   2     FQ88002
+   3     YW80393
+   4     WS24612
+   5     TL56384
+   6     SW29687
+   7     OT32425
+   8     OT32425
+   9     HL94468
+  10     WS24612
+  11     RW87354
+  12     WS24612
+  13     YR12572
+  14     RW87354
+  15     DX44682
+ALMACÉN 25
+  No    Producto
+   1     RW87354
+   2     BP15881
+   3     SW29687
+   4     CE69353
+   5     UK47509
+   6     UE09721
+   7     YW80393
+   8     BF72860
+   9     JR86507
+  10     DX44682
+  11     DX44682
+  12     WL09498
+  13     IO29421
+  14     WS24612
+  15     YW28008
+  16     WL09498
+  17     BB53001
+  18     IO29421
+
+
+REPORTE DE PRODUCTOS
+========================================================================================================================
+Codigo      Nombre
+------------------------------------------------------------------------------------------------------------------------
+JS27568     Cocina a gas   meza vitroceramica FFEF 3013
+CI87702     Ipod Dock AD 7000W
+UH03336     Cocina electrica   Panel digital FFGF 304LS
+FZ98234     Memoria USB 4 GB
+TL56384     HP ENVY dv6 - 7382 LA
+IT60920     Home Theater Todoriki HTTP - RS 88
+CE69353     Parlantes inalambricos Bluetooth BTX 300
+WL09498     Radio audiovisual AVH - P8450BT
+SW29687     Telefono celular marca MiTel N 83 con camara de 3.5 MP
+FQ88002     Lapiz puntero Targus p ipad 3
+DX44682     Tostadora de pan con 4 slots 5632
+YY65200     Reproductor de discos Blu-Ray 3D 300 W
+ZY49698     Camara Digital Casio QV - R 300 LCD 3.45
+JI98835     Audifonos SE - MJ511HP K W
+JR86507     Equipo multifuncional Inyeccion de tinta MFC - J825DW
+RW87354     Samsung Galaxy S III mini 3G
+WS24612     Equipo se donido XBOOM CM 8530 - 1800W
+UK47509     Equipo laser multifuncional monocromatico DCP - 7065DN
+IG92877     Audifonos Action Fit SA4ACT04ON
+BP15881     HandyCam PJ 430.4 Full HD zoom 30.5
+YW28008     Mini grabadora recargable GDM - 15
+KS19431     Sintonizador digital con USB 2.0 y antena
+MB82598     Camara fotografica modelo FX1056
+FT98440     Celular Nokia ASHA 308.3 SIM card 2
+YR12572     Samsung Galaxy Tab 2 WiFi 10.1
+UE09721     Sony XPERIA Tecnologia 3G 1.5 GHz
+IO29421     Licuadora de 10 velocidades con filtro 12834
+HL94468     MP3 SA 3 MXX 2 GB
+OT32425     "Smart TV 42"" Led 3D Serie 7500 + Blu-ray DMP_BDT 220"
+TT61626     Centro de lavado electrico FFLE - 1011 MW cap kg 16
+BB53001     Reproductor DVD marca GRNA modelo 12.453
+SB26669     Notebook modelo M51G maraca Lenovo
+BF72860     Impresora Laser color Modelo PVGR
+YW80393     Cyber-Shot Serie WX 200 LCD 2.7
+NL61668     Televisor LCD 32.5 pulgadas marca TVsitos
+BL95867     Refrigeradora No frost 500 lt cap.
+YF17264     Estuche Flip cover Cod. 91125
+
+
+REPORTE DE PRODUCTOS
+========================================================================================================================
+Codigo      Nombre
+------------------------------------------------------------------------------------------------------------------------
+OT32425     "Smart TV 42"" Led 3D Serie 7500 + Blu-ray DMP_BDT 220"
+IG92877     Audifonos Action Fit SA4ACT04ON
+JI98835     Audifonos SE - MJ511HP K W
+ZY49698     Camara Digital Casio QV - R 300 LCD 3.45
+MB82598     Camara fotografica modelo FX1056
+FT98440     Celular Nokia ASHA 308.3 SIM card 2
+TT61626     Centro de lavado electrico FFLE - 1011 MW cap kg 16
+JS27568     Cocina a gas   meza vitroceramica FFEF 3013
+UH03336     Cocina electrica   Panel digital FFGF 304LS
+YW80393     Cyber-Shot Serie WX 200 LCD 2.7
+UK47509     Equipo laser multifuncional monocromatico DCP - 7065DN
+JR86507     Equipo multifuncional Inyeccion de tinta MFC - J825DW
+WS24612     Equipo se donido XBOOM CM 8530 - 1800W
+YF17264     Estuche Flip cover Cod. 91125
+TL56384     HP ENVY dv6 - 7382 LA
+BP15881     HandyCam PJ 430.4 Full HD zoom 30.5
+IT60920     Home Theater Todoriki HTTP - RS 88
+BF72860     Impresora Laser color Modelo PVGR
+CI87702     Ipod Dock AD 7000W
+FQ88002     Lapiz puntero Targus p ipad 3
+IO29421     Licuadora de 10 velocidades con filtro 12834
+HL94468     MP3 SA 3 MXX 2 GB
+FZ98234     Memoria USB 4 GB
+YW28008     Mini grabadora recargable GDM - 15
+SB26669     Notebook modelo M51G maraca Lenovo
+CE69353     Parlantes inalambricos Bluetooth BTX 300
+WL09498     Radio audiovisual AVH - P8450BT
+BL95867     Refrigeradora No frost 500 lt cap.
+BB53001     Reproductor DVD marca GRNA modelo 12.453
+YY65200     Reproductor de discos Blu-Ray 3D 300 W
+RW87354     Samsung Galaxy S III mini 3G
+YR12572     Samsung Galaxy Tab 2 WiFi 10.1
+KS19431     Sintonizador digital con USB 2.0 y antena
+UE09721     Sony XPERIA Tecnologia 3G 1.5 GHz
+SW29687     Telefono celular marca MiTel N 83 con camara de 3.5 MP
+NL61668     Televisor LCD 32.5 pulgadas marca TVsitos
+DX44682     Tostadora de pan con 4 slots 5632
+
+
+REPORTE DE CONTEO DE PRODUCTOS
+========================================================================================================================
+Nombre de Producto                                                    Código de Producto      Cantidad de Palets       
+------------------------------------------------------------------------------------------------------------------------
+"Smart TV 42"" Led 3D Serie 7500 + Blu-ray DMP_BDT 220"               OT32425                  13                       
+Audifonos Action Fit SA4ACT04ON                                       IG92877                  13                       
+Audifonos SE - MJ511HP K W                                            JI98835                  9                        
+Camara Digital Casio QV - R 300 LCD 3.45                              ZY49698                  0                        
+Camara fotografica modelo FX1056                                      MB82598                  9                        
+Celular Nokia ASHA 308.3 SIM card 2                                   FT98440                  14                       
+Centro de lavado electrico FFLE - 1011 MW cap kg 16                   TT61626                  0                        
+Cocina a gas   meza vitroceramica FFEF 3013                           JS27568                  0                        
+Cocina electrica   Panel digital FFGF 304LS                           UH03336                  0                        
+Cyber-Shot Serie WX 200 LCD 2.7                                       YW80393                  11                       
+Equipo laser multifuncional monocromatico DCP - 7065DN                UK47509                  14                       
+Equipo multifuncional Inyeccion de tinta MFC - J825DW                 JR86507                  20                       
+Equipo se donido XBOOM CM 8530 - 1800W                                WS24612                  20                       
+Estuche Flip cover Cod. 91125                                         YF17264                  13                       
+HP ENVY dv6 - 7382 LA                                                 TL56384                  13                       
+HandyCam PJ 430.4 Full HD zoom 30.5                                   BP15881                  12                       
+Home Theater Todoriki HTTP - RS 88                                    IT60920                  13                       
+Impresora Laser color Modelo PVGR                                     BF72860                  12                       
+Ipod Dock AD 7000W                                                    CI87702                  12                       
+Lapiz puntero Targus p ipad 3                                         FQ88002                  13                       
+Licuadora de 10 velocidades con filtro 12834                          IO29421                  12                       
+MP3 SA 3 MXX 2 GB                                                     HL94468                  8                        
+Memoria USB 4 GB                                                      FZ98234                  15                       
+Mini grabadora recargable GDM - 15                                    YW28008                  17                       
+Notebook modelo M51G maraca Lenovo                                    SB26669                  12                       
+Parlantes inalambricos Bluetooth BTX 300                              CE69353                  7                        
+Radio audiovisual AVH - P8450BT                                       WL09498                  13                       
+Refrigeradora No frost 500 lt cap.                                    BL95867                  0                        
+Reproductor DVD marca GRNA modelo 12.453                              BB53001                  9                        
+Reproductor de discos Blu-Ray 3D 300 W                                YY65200                  10                       
+Samsung Galaxy S III mini 3G                                          RW87354                  15                       
+Samsung Galaxy Tab 2 WiFi 10.1                                        YR12572                  16                       
+Sintonizador digital con USB 2.0 y antena                             KS19431                  12                       
+Sony XPERIA Tecnologia 3G 1.5 GHz                                     UE09721                  11                       
+Telefono celular marca MiTel N 83 con camara de 3.5 MP                SW29687                  17                       
+Televisor LCD 32.5 pulgadas marca TVsitos                             NL61668                  9                        
+Tostadora de pan con 4 slots 5632                                     DX44682                  19                       

@@ -4,19 +4,15 @@
     <logicalFolder name="HeaderFiles"
                    displayName="Header Files"
                    projectFiles="true">
-      <itemPath>cadena.h</itemPath>
       <itemPath>funciones.h</itemPath>
     </logicalFolder>
     <logicalFolder name="ResourceFiles"
                    displayName="Resource Files"
                    projectFiles="true">
-      <itemPath>files/Prueba.txt</itemPath>
-      <itemPath>files/Reporte.txt</itemPath>
     </logicalFolder>
     <logicalFolder name="SourceFiles"
                    displayName="Source Files"
                    projectFiles="true">
-      <itemPath>cadena.cpp</itemPath>
       <itemPath>funciones.cpp</itemPath>
       <itemPath>main.cpp</itemPath>
     </logicalFolder>
@@ -32,9 +28,6 @@
       <itemPath>Makefile</itemPath>
     </logicalFolder>
   </logicalFolder>
-  <sourceRootList>
-    <Elem>files</Elem>
-  </sourceRootList>
   <projectmakefile>Makefile</projectmakefile>
   <confs>
     <conf name="Debug" type="1">
@@ -45,14 +38,6 @@
       </toolsSet>
       <compileType>
       </compileType>
-      <item path="cadena.cpp" ex="false" tool="1" flavor2="0">
-      </item>
-      <item path="cadena.h" ex="false" tool="3" flavor2="0">
-      </item>
-      <item path="files/Prueba.txt" ex="false" tool="3" flavor2="0">
-      </item>
-      <item path="files/Reporte.txt" ex="false" tool="3" flavor2="0">
-      </item>
       <item path="funciones.cpp" ex="false" tool="1" flavor2="0">
       </item>
       <item path="funciones.h" ex="false" tool="3" flavor2="0">
@@ -80,14 +65,6 @@
           <developmentMode>5</developmentMode>
         </asmTool>
       </compileType>
-      <item path="cadena.cpp" ex="false" tool="1" flavor2="0">
-      </item>
-      <item path="cadena.h" ex="false" tool="3" flavor2="0">
-      </item>
-      <item path="files/Prueba.txt" ex="false" tool="3" flavor2="0">
-      </item>
-      <item path="files/Reporte.txt" ex="false" tool="3" flavor2="0">
-      </item>
       <item path="funciones.cpp" ex="false" tool="1" flavor2="0">
       </item>
       <item path="funciones.h" ex="false" tool="3" flavor2="0">

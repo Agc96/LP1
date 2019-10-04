@@ -6,114 +6,96 @@
  */
 
 #include "funciones.h"
-#include "cadena.h"
-#define MAX_LINEA 120
 using namespace std;
 
-void pruebaInicializacionLongitud(ofstream& resultado) {
-    Cadena cadena;
-    
-    resultado << "Prueba de inicialización y longitud" << endl;
-    separacion(resultado, '-');
-    
-    inicializa(cadena);
-    imprimirDetalle(resultado, cadena); // Nada (0)
-    
-    inicializa(cadena, '#', 20);
-    imprimirDetalle(resultado, cadena); // 20 numerales (20)
-    
-    inicializa(cadena, '*');
-    imprimirDetalle(resultado, cadena); // 100 guiones (100)
-    
-    inicializa(cadena, '&', 120);
-    imprimirDetalle(resultado, cadena); // [Desbordamiento] (-1)
-    
-    separacion(resultado, '=');
-}
-
-void pruebaRecortarCadenas(ofstream& resultado, ifstream& prueba) {
-    Cadena cadena;
-    
-    resultado << "Prueba de recortar cadenas" << endl;
-    separacion(resultado, '-');
-    
-    leer(prueba, cadena, '#');
-    imprimirDetalle(resultado, cadena); // [ws]Juan[ws]Perez[ws]Lopez[ws] (64)
-    
-    recortar(cadena);
-    imprimirDetalle(resultado, cadena); // Juan Perez Lopez (16)
-    
-    separacion(resultado, '=');
-}
-
-void pruebaIntercambiarCadenas(ofstream& resultado, ifstream& prueba) {
-    Cadena cad01, cad02;
-    
-    resultado << "Prueba de intercambiar cadenas" << endl;
-    separacion(resultado, '-');
-    
-    resultado << "- Lectura de la primera cadena" << endl;
-    leer(prueba, cad01, '#');
-    imprimirDetalle(resultado, cad01); // "Esta va a ser la primera cadena"
-    
-    resultado << "- Lectura de la segunda cadena" << endl;
-    leer(prueba, cad02);
-    imprimirDetalle(resultado, cad02); // "Esta cadena debería ser intercambiada con la anterior"
-    
-    resultado << "- Intercambio de cadenas:" << endl;
-    intercambiar(cad01, cad02);
-    imprimirDetalle(resultado, cad01);
-    imprimirDetalle(resultado, cad02);
-    
-    separacion(resultado, '=');
-}
-
-void pruebaSobrecarga(ofstream& resultado, ifstream& prueba) {
-    Cadena cad01, cad02, cad03, cad04, cad05, cad06, cad07;
-    
-    resultado << "Prueba de sobrecarga de operadores" << endl;
-    separacion(resultado, '-');
-    
-    resultado << "- Lectura e impresión usando operadores >> y <<" << endl;
-    prueba >> cad01;
-    resultado << cad01 << endl;
-    
-    resultado << " - Asignacion usando operador &" << endl;
-    cad02 & cad01;
-    imprimirDetalle(resultado, cad01);
-    imprimirDetalle(resultado, cad02);
-    
-    resultado << "- Agregación usando operador +=" << endl;
-    leer(prueba, cad03, '#');
-    imprimirDetalle(resultado, cad03);
-    leer(prueba, cad04);
-    imprimirDetalle(resultado, cad04);
-    cad03 += cad04;
-    imprimirDetalle(resultado, cad03);
-    
-    resultado << "- Agregación usando operador +" << endl;
-    leer(prueba, cad05, '#');
-    imprimirDetalle(resultado, cad05);
-    leer(prueba, cad06);
-    imprimirDetalle(resultado, cad06);
-    cad07 = cad05 + cad06;
-    imprimirDetalle(resultado, cad07);
-    
-    resultado << "- Comparación usando operadores ==, <, >" << endl;
-    resultado << "  - ¿cad01 == cad02? " << (cad01 == cad02) << endl;
-    resultado << "  - ¿cad03 < cad07? " << (cad03 < cad07) << endl;
-    resultado << "  - ¿cad05 > cad06? " << (cad05 > cad06) << endl;
-}
-
-void imprimirDetalle(ofstream& archivo, Cadena& cadena) {
-    archivo << "Cadena: \"";
-    imprimir(archivo, cadena);
-    archivo << "\" (longitud = " << longitud(cadena) << ")" << endl;
-}
-
-void separacion(ofstream& archivo, char car) {
-    for (int i = 0; i < MAX_LINEA; i++) {
-        archivo.put(car);
+void jpPruebaCadenas() {
+    ifstream prueba("files/Prueba.txt", ios::in);
+    if (!prueba) {
+        cerr << "No se pudo abrir el archivo de prueba de cadenas." << endl;
+        exit(1);
     }
-    archivo << endl;
+    ofstream reporte("files/Reporte.txt", ios::out);
+    if (!reporte) {
+        cerr << "No se pudo crear el reporte de prueba de cadenas." << endl;
+        exit(1);
+    }
+
+    Cadena cad01, cad02, cad03, cad04, cad05, cad06, cad07;
+
+    reporte << "Prueba de inicialización y longitud" << endl;
+    inicializa(cad01);
+    jpImprimirCadena(reporte, cad01, "Nada"); // (0)
+    inicializa(cad01, '*');
+    jpImprimirCadena(reporte, cad01, "100 guiones");
+    inicializa(cad01, '#', 20);
+    jpImprimirCadena(reporte, cad01, "20 numerales");
+    inicializa(cad01, '&', 120);
+    jpImprimirCadena(reporte, cad01, "Desbordamiento"); // (-1)
+    reporte << endl;
+
+    reporte << "Prueba de lectura y recorte de cadenas" << endl;
+    leer(prueba, cad01, '#');
+    jpImprimirCadena(reporte, cad01, "Antes del recorte"); // [ws]Juan[ws]Perez[ws]Lopez[ws] (64)
+    recortar(cad01);
+    jpImprimirCadena(reporte, cad01, "Despues del recorte"); // Juan Perez Lopez (16)
+    reporte << endl;
+
+    reporte << "Prueba de intercambiar cadenas" << endl;
+    leer(prueba, cad01, '#');
+    jpImprimirCadena(reporte, cad01, "Primera cadena"); // "Esta va a ser la primera cadena"
+    leer(prueba, cad02);
+    jpImprimirCadena(reporte, cad02, "Segunda cadena"); // "Esta cadena debería ser intercambiada con la anterior"
+    intercambiar(cad01, cad02);
+    jpImprimirCadena(reporte, cad01, "Primera cadena");
+    jpImprimirCadena(reporte, cad02, "Segunda cadena");
+    reporte << endl;
+
+    reporte << "Pruebas de lectura e impresión usando operadores >> y <<" << endl;
+    prueba >> cad01;
+    reporte << cad01 << endl << endl; // Esta cadena deberia leerse y luego copiarse usando sobrecarga de operadores
+
+    reporte << " Prueba de asignacion usando operador &" << endl;
+    (cad02)&(cad01);
+    jpImprimirCadena(reporte, cad01, "Primera cadena");
+    jpImprimirCadena(reporte, cad02, "Segunda cadena");
+    reporte << endl;
+
+    reporte << "Prueba de agregación usando operador +=" << endl;
+    leer(prueba, cad03, '#');
+    jpImprimirCadena(reporte, cad03, "Primera cadena"); // Esta es la primera parte de la primera cadena larga
+    leer(prueba, cad04);
+    jpImprimirCadena(reporte, cad04, "Segunda cadena"); // , y aqui se vienen mas caracteres
+    cad03 += cad04;
+    jpImprimirCadena(reporte, cad03, "Primera cadena"); // Esta es la primera parte de la primera cadena larga, y aqui se vienen mas caracteres
+    reporte << endl;
+
+    reporte << "Prueab de agregación usando operador +" << endl;
+    leer(prueba, cad05, '#');
+    jpImprimirCadena(reporte, cad05, "Primera cadena"); // Esta es la primera parte de la segunda cadena larga
+    leer(prueba, cad06);
+    jpImprimirCadena(reporte, cad06, "Segunda cadena"); // , y aqui se vienen mas caracteres
+    cad07 = cad05 + cad06;
+    jpImprimirCadena(reporte, cad07, "Tercera cadena"); // Esta es la primera parte de la segunda cadena larga, y aqui se vienen mas caracteres
+    reporte << endl;
+
+    reporte << "Prueba de comparación usando operadores ==, <, >" << endl;
+    jpImprimirComparacion(reporte, cad01 == cad02, "¿cad01 == cad02?"); // Verdadero
+    jpImprimirComparacion(reporte, cad04 == cad06, "¿cad04 == cad06?"); // Verdadero
+    jpImprimirComparacion(reporte, cad05 == cad07, "¿cad05 == cad07?"); // Falso
+    jpImprimirComparacion(reporte, cad03 < cad07, "¿cad03 < cad07?"); // Verdadero
+    jpImprimirComparacion(reporte, cad01 < cad03, "¿cad01 < cad03?"); // Verdadero
+    jpImprimirComparacion(reporte, cad04 < cad06, "¿cad04 < cad06?"); // Falso
+    jpImprimirComparacion(reporte, cad05 > cad06, "¿cad05 > cad06?"); // Verdadero
+    jpImprimirComparacion(reporte, cad07 > cad05, "¿cad07 > cad05?"); // Verdadero
+    jpImprimirComparacion(reporte, cad04 > cad06, "¿cad04 > cad06?"); // Falso
+}
+
+void jpImprimirCadena(ofstream& reporte, Cadena& cadena, const char* titulo) {
+    reporte << "- " << titulo << ": \"";
+    imprimir(reporte, cadena);
+    reporte << "\" (longitud = " << longitud(cadena) << ")" << endl;
+}
+
+void jpImprimirComparacion(ofstream& reporte, bool resultado, const char* titulo) {
+    reporte << "- " << titulo << ": " << ((resultado) ? "Verdadero" : "Falso") << endl;
 }
