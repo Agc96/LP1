@@ -1,95 +1,162 @@
-No   ESPECIALIDAD        CODIGO    CURSO                         CREDITOS  
- 1)  ESTADISTICA EST277 Metodologia de la investigacion en estadistica 3.00
- 2)  ESTADISTICA EST218 Estadistica para ingenieria 3.50
- 3)  ESTADISTICA EST280 Proyecto de tesis 1 2.00
- 4)  ESTADISTICA EST264 Analisis de supervivencia 4.50
- 5)  ESTADISTICA EST113 Estadistica aplicada 2 3.50
- 6)  ESTADISTICA EST008 Practica supervisada pre profesional 0.50
- 7)  ESTADISTICA EST271 Finanzas cuantitativas 4.50
- 8)  ESTADISTICA EST266 Mineria de datos 4.50
- 9)  ESTADISTICA EST261 Analisis de riesgos y seguros 4.50
-10)  ESTADISTICA EST273 Modelos de regresion avanzados 4.00
-11)  ESTADISTICA EST268 Series de tiempo 4.50
-12)  FISICA FIS247 Optica y fotonica 4.50
-13)  FISICA FIS220 Tecnicas computacionales en fisica 4.50
-14)  FISICA FIS240 Termodinamica y mecanica estadistica 4.50
-15)  FISICA FIS313 Fisica experimental 2 4.00
-16)  FISICA FIS218 Fisica moderna 4.50
-17)  FISICA FIS309 Mecanica cuantica 2 4.50
-18)  FISICA FIS255 Electromagnetismo 2 4.50
-19)  FISICA FIS312 Fisica experimental 1 4.00
-20)  FISICA FIS110 Trabajo de investigacion 1 4.00
-21)  FISICA FIS227 Particulas elementales 4.50
-22)  FISICA FIS308 Mecanica cuantica 1 4.50
-23)  INGENIERIA CIVIL CIV226 Concreto armado 1 4.50
-24)  INGENIERIA CIVIL CIV284 Planificacion de la construccion 3.50
-25)  INGENIERIA CIVIL CIV244 Mecanica de suelos 4.50
-26)  INGENIERIA CIVIL CIV239 Ingenieria de cimentaciones 4.50
-27)  INGENIERIA CIVIL CIV277 Laboratorio de hidraulica de canales abiertos 0.50
-28)  INGENIERIA CIVIL CIV294 Laboratorio de mecanica de suelos 1.00
-29)  INGENIERIA CIVIL CIV202 Primera practica supervisada pre profesional 0.50
-30)  INGENIERIA CIVIL CIV224 Analisis estructural 1 4.50
-31)  INGENIERIA CIVIL CIV102 Instalaciones en edificaciones 3.50
-32)  INGENIERIA CIVIL CIV276 Hidraulica de canales abiertos 3.50
-33)  INGENIERIA CIVIL CIV225 Analisis estructural 2 3.50
-34)  INGENIERIA CIVIL CIV259 Ingenieria de carreteras 1 4.00
-35)  INGENIERIA CIVIL CIV299 Campo de ingenieria de carreteras 1.50
-36)  INGENIERIA ELECTRONICA IEE232 Laboratorio de diseno electronico 1 1.00
-37)  INGENIERIA ELECTRONICA IEE229 Electronica digital 3.75
-38)  INGENIERIA ELECTRONICA IEE246 Teoria de control 1 5.00
-39)  INGENIERIA ELECTRONICA IEE272 Electricidad industrial 2.50
-40)  INGENIERIA ELECTRONICA IEE215 Maquinas electricas 1 4.50
-41)  INGENIERIA ELECTRONICA IEE222 Diseno electronico 1 4.50
-42)  INGENIERIA ELECTRONICA IEE2A5 Maquinas electricas 4.25
-43)  INGENIERIA ELECTRONICA IEE217 Sistemas electricos 3.50
-44)  INGENIERIA ELECTRONICA IEE240 Organizacion y arquitectura de computadoras 5.00
-45)  INGENIERIA ELECTRONICA IEE218 Laboratorio de sistemas electricos 1.00
-46)  INGENIERIA ELECTRONICA IEE233 Diseno electronico 2 4.50
-47)  INGENIERIA ELECTRONICA IEE216 Laboratorio de maquinas electricas 1 0.50
-48)  INGENIERIA INDUSTRIAL IND275 Control de gestion industrial 4.50
-49)  INGENIERIA INDUSTRIAL IND251 Gestion y direccion de empresas 3.50
-50)  INGENIERIA INDUSTRIAL IND231 Ingenieria economica 3.50
-51)  INGENIERIA INDUSTRIAL IND213 Ingenieria de plantas 3.50
-52)  INGENIERIA INDUSTRIAL IND276 Laboratorio de control integral de calidad 1.00
-53)  INGENIERIA INDUSTRIAL IND204 Primera practica supervisada Pre-Profesional 0.50
-54)  INGENIERIA INDUSTRIAL IND290 Seguridad integral 3.00
-55)  INGENIERIA INDUSTRIAL IND273 Investigacion operativa 1 4.00
-56)  INGENIERIA INDUSTRIAL IND270 Procesos industriales 3.00
-57)  INGENIERIA INDUSTRIAL IND214 Control integral de calidad 3.50
-58)  INGENIERIA INDUSTRIAL IND331 Sicologia industrial 3.00
-59)  INGENIERIA INFORMATICA INF250 Sistemas de informacion 2 5.00
-60)  INGENIERIA INFORMATICA INF265 Aplicaciones de Ciencias de la Computacion 4.00
-61)  INGENIERIA INFORMATICA INF281 Lenguaje de programacion 1 5.00
-62)  INGENIERIA INFORMATICA INF263 Algoritmia 3.75
-63)  INGENIERIA INFORMATICA INF239 Sistemas operativos 4.00
-64)  INGENIERIA INFORMATICA INF246 Bases de datos 3.75
-65)  INGENIERIA INFORMATICA INF282 Lenguaje de programacion 2 5.00
-66)  INGENIERIA INFORMATICA INF248 Sistemas de informacion 1 5.00
-67)  INGENIERIA INFORMATICA INF216 Estructura de datos y programacion metodica 4.50
-68)  INGENIERIA INFORMATICA INF291 Metodos y procedimientos 3.50
-69)  INGENIERIA MECANICA MEC209 Mecanica de fluidos 5.25
-70)  INGENIERIA MECANICA MEC270 Procesos de Manufactura 4.00
-71)  INGENIERIA MECANICA MEC288 Proyecto de Ingenieria mecanica 1 4.00
-72)  INGENIERIA MECANICA MEC245 Laboratorio de termodinamica general 1.00
-73)  INGENIERIA MECANICA MEC229 Procesos de manufactura 2 4.00
-74)  INGENIERIA MECANICA MEC202 Primera practica supervisada pre-profesional 0.50
-75)  INGENIERIA MECANICA MEC267 Ingenieria de materiales 4.00
-76)  INGENIERIA MECANICA MEC284 Control automatico 4.25
-77)  INGENIERIA MECANICA MEC2M1 Elementos de maquinas 1 4.50
-78)  INGENIERIA MECANICA MEC2M2 Elementos de maquinas 2 3.50
-79)  INGENIERIA MECANICA MEC227 Dibujo mecanico 2 3.00
-80)  INGENIERIA MECANICA MEC208 Termodinamica 2 4.50
-81)  INGENIERIA MECANICA MEC286 Transferencia de calor 4.25
-82)  MATEMATICAS MAT233 Analisis complejo 4.50
-83)  MATEMATICAS MAT230 Ecuaciones diferenciales parciales 3.50
-84)  MATEMATICAS MAT251 Geometria 4.50
-85)  MATEMATICAS MAT234 Ecuaciones diferenciales ordinarias 4.50
-86)  MATEMATICAS MAT237 Calculo numerico 3.50
-87)  MATEMATICAS MAT243 Algebra 3 4.50
-88)  MATEMATICAS MAT218 Ecuaciones diferenciales aplicadas 4.50
-89)  MATEMATICAS MAT231 Analisis real 1 4.50
-90)  MATEMATICAS MAT232 Analisis real 2 4.50
-91)  MATEMATICAS MAT244 Algebra lineal y multilineal 4.50
-92)  MATEMATICAS MAT253 Topologia 4.50
-93)  MATEMATICAS MAT124 Algebra 2 4.50
-94)  MATEMATICAS MAT245 Logica Matematica y Teoria de Conjuntos 3.50
+No   ESPECIALIDAD                  CODIGO    CURSO                                             CREDITOS  
+========================================================================================================================
+ 1)  ESTADISTICA                   EST277     Metodologia de la investigacion en estadistica     3.00
+ 2)  ESTADISTICA                   EST218     Estadistica para ingenieria                        3.50
+ 3)  ESTADISTICA                   EST280     Proyecto de tesis 1                                2.00
+------------------------------------------------------------------------------------------------------------------------
+                                                                           Total de créditos: 6.50
+========================================================================================================================
+ 4)  ESTADISTICA                   EST264     Analisis de supervivencia                          4.50
+ 5)  ESTADISTICA                   EST113     Estadistica aplicada 2                             3.50
+ 6)  ESTADISTICA                   EST008     Practica supervisada pre profesional               0.50
+ 7)  ESTADISTICA                   EST271     Finanzas cuantitativas                             4.50
+ 8)  ESTADISTICA                   EST266     Mineria de datos                                   4.50
+ 9)  ESTADISTICA                   EST261     Analisis de riesgos y seguros                      4.50
+10)  ESTADISTICA                   EST273     Modelos de regresion avanzados                     4.00
+11)  ESTADISTICA                   EST268     Series de tiempo                                   4.50
+12)  FISICA                        FIS247     Optica y fotonica                                  4.50
+------------------------------------------------------------------------------------------------------------------------
+                                                                           Total de créditos: 32.50
+========================================================================================================================
+13)  FISICA                        FIS220     Tecnicas computacionales en fisica                 4.50
+14)  FISICA                        FIS240     Termodinamica y mecanica estadistica               4.50
+15)  FISICA                        FIS313     Fisica experimental 2                              4.00
+------------------------------------------------------------------------------------------------------------------------
+                                                                           Total de créditos: 13.50
+========================================================================================================================
+16)  FISICA                        FIS218     Fisica moderna                                     4.50
+17)  FISICA                        FIS309     Mecanica cuantica 2                                4.50
+18)  FISICA                        FIS255     Electromagnetismo 2                                4.50
+19)  FISICA                        FIS312     Fisica experimental 1                              4.00
+20)  FISICA                        FIS110     Trabajo de investigacion 1                         4.00
+21)  FISICA                        FIS227     Particulas elementales                             4.50
+22)  FISICA                        FIS308     Mecanica cuantica 1                                4.50
+23)  INGENIERIA CIVIL              CIV226     Concreto armado 1                                  4.50
+24)  INGENIERIA CIVIL              CIV284     Planificacion de la construccion                   3.50
+25)  INGENIERIA CIVIL              CIV244     Mecanica de suelos                                 4.50
+26)  INGENIERIA CIVIL              CIV239     Ingenieria de cimentaciones                        4.50
+27)  INGENIERIA CIVIL              CIV277     Laboratorio de hidraulica de canales abiertos      0.50
+28)  INGENIERIA CIVIL              CIV294     Laboratorio de mecanica de suelos                  1.00
+29)  INGENIERIA CIVIL              CIV202     Primera practica supervisada pre profesional       0.50
+30)  INGENIERIA CIVIL              CIV224     Analisis estructural 1                             4.50
+31)  INGENIERIA CIVIL              CIV102     Instalaciones en edificaciones                     3.50
+32)  INGENIERIA CIVIL              CIV276     Hidraulica de canales abiertos                     3.50
+33)  INGENIERIA CIVIL              CIV225     Analisis estructural 2                             3.50
+34)  INGENIERIA CIVIL              CIV259     Ingenieria de carreteras 1                         4.00
+35)  INGENIERIA CIVIL              CIV299     Campo de ingenieria de carreteras                  1.50
+36)  INGENIERIA ELECTRONICA        IEE232     Laboratorio de diseno electronico 1                1.00
+------------------------------------------------------------------------------------------------------------------------
+                                                                           Total de créditos: 74.00
+========================================================================================================================
+37)  INGENIERIA ELECTRONICA        IEE229     Electronica digital                                3.75
+38)  INGENIERIA ELECTRONICA        IEE246     Teoria de control 1                                5.00
+------------------------------------------------------------------------------------------------------------------------
+                                                                           Total de créditos: 4.75
+========================================================================================================================
+39)  INGENIERIA ELECTRONICA        IEE272     Electricidad industrial                            2.50
+------------------------------------------------------------------------------------------------------------------------
+                                                                           Total de créditos: 5.00
+========================================================================================================================
+40)  INGENIERIA ELECTRONICA        IEE215     Maquinas electricas 1                              4.50
+41)  INGENIERIA ELECTRONICA        IEE222     Diseno electronico 1                               4.50
+42)  INGENIERIA ELECTRONICA        IEE2A5     Maquinas electricas                                4.25
+------------------------------------------------------------------------------------------------------------------------
+                                                                           Total de créditos: 11.50
+========================================================================================================================
+43)  INGENIERIA ELECTRONICA        IEE217     Sistemas electricos                                3.50
+44)  INGENIERIA ELECTRONICA        IEE240     Organizacion y arquitectura de computadoras        5.00
+45)  INGENIERIA ELECTRONICA        IEE218     Laboratorio de sistemas electricos                 1.00
+46)  INGENIERIA ELECTRONICA        IEE233     Diseno electronico 2                               4.50
+47)  INGENIERIA ELECTRONICA        IEE216     Laboratorio de maquinas electricas 1               0.50
+48)  INGENIERIA INDUSTRIAL         IND275     Control de gestion industrial                      4.50
+------------------------------------------------------------------------------------------------------------------------
+                                                                           Total de créditos: 18.75
+========================================================================================================================
+49)  INGENIERIA INDUSTRIAL         IND251     Gestion y direccion de empresas                    3.50
+50)  INGENIERIA INDUSTRIAL         IND231     Ingenieria economica                               3.50
+51)  INGENIERIA INDUSTRIAL         IND213     Ingenieria de plantas                              3.50
+52)  INGENIERIA INDUSTRIAL         IND276     Laboratorio de control integral de calidad         1.00
+------------------------------------------------------------------------------------------------------------------------
+                                                                           Total de créditos: 15.00
+========================================================================================================================
+53)  INGENIERIA INDUSTRIAL         IND204     Primera practica supervisada Pre-Profesional       0.50
+54)  INGENIERIA INDUSTRIAL         IND290     Seguridad integral                                 3.00
+------------------------------------------------------------------------------------------------------------------------
+                                                                           Total de créditos: 1.50
+========================================================================================================================
+55)  INGENIERIA INDUSTRIAL         IND273     Investigacion operativa 1                          4.00
+56)  INGENIERIA INDUSTRIAL         IND270     Procesos industriales                              3.00
+57)  INGENIERIA INDUSTRIAL         IND214     Control integral de calidad                        3.50
+58)  INGENIERIA INDUSTRIAL         IND331     Sicologia industrial                               3.00
+------------------------------------------------------------------------------------------------------------------------
+                                                                           Total de créditos: 13.50
+========================================================================================================================
+59)  INGENIERIA INFORMATICA        INF250     Sistemas de informacion 2                          5.00
+------------------------------------------------------------------------------------------------------------------------
+                                                                           Total de créditos: 3.00
+========================================================================================================================
+60)  INGENIERIA INFORMATICA        INF265     Aplicaciones de Ciencias de la Computacion         4.00
+------------------------------------------------------------------------------------------------------------------------
+                                                                           Total de créditos: 5.00
+========================================================================================================================
+61)  INGENIERIA INFORMATICA        INF281     Lenguaje de programacion 1                         5.00
+------------------------------------------------------------------------------------------------------------------------
+                                                                           Total de créditos: 4.00
+========================================================================================================================
+62)  INGENIERIA INFORMATICA        INF263     Algoritmia                                         3.75
+63)  INGENIERIA INFORMATICA        INF239     Sistemas operativos                                4.00
+64)  INGENIERIA INFORMATICA        INF246     Bases de datos                                     3.75
+65)  INGENIERIA INFORMATICA        INF282     Lenguaje de programacion 2                         5.00
+------------------------------------------------------------------------------------------------------------------------
+                                                                           Total de créditos: 16.50
+========================================================================================================================
+66)  INGENIERIA INFORMATICA        INF248     Sistemas de informacion 1                          5.00
+67)  INGENIERIA INFORMATICA        INF216     Estructura de datos y programacion metodica        4.50
+68)  INGENIERIA INFORMATICA        INF291     Metodos y procedimientos                           3.50
+------------------------------------------------------------------------------------------------------------------------
+                                                                           Total de créditos: 14.50
+========================================================================================================================
+69)  INGENIERIA MECANICA           MEC209     Mecanica de fluidos                                5.25
+------------------------------------------------------------------------------------------------------------------------
+                                                                           Total de créditos: 3.50
+========================================================================================================================
+70)  INGENIERIA MECANICA           MEC270     Procesos de Manufactura                            4.00
+------------------------------------------------------------------------------------------------------------------------
+                                                                           Total de créditos: 5.25
+========================================================================================================================
+71)  INGENIERIA MECANICA           MEC288     Proyecto de Ingenieria mecanica 1                  4.00
+------------------------------------------------------------------------------------------------------------------------
+                                                                           Total de créditos: 4.00
+========================================================================================================================
+72)  INGENIERIA MECANICA           MEC245     Laboratorio de termodinamica general               1.00
+73)  INGENIERIA MECANICA           MEC229     Procesos de manufactura 2                          4.00
+74)  INGENIERIA MECANICA           MEC202     Primera practica supervisada pre-profesional       0.50
+75)  INGENIERIA MECANICA           MEC267     Ingenieria de materiales                           4.00
+76)  INGENIERIA MECANICA           MEC284     Control automatico                                 4.25
+77)  INGENIERIA MECANICA           MEC2M1     Elementos de maquinas 1                            4.50
+------------------------------------------------------------------------------------------------------------------------
+                                                                           Total de créditos: 17.75
+========================================================================================================================
+78)  INGENIERIA MECANICA           MEC2M2     Elementos de maquinas 2                            3.50
+------------------------------------------------------------------------------------------------------------------------
+                                                                           Total de créditos: 4.50
+========================================================================================================================
+79)  INGENIERIA MECANICA           MEC227     Dibujo mecanico 2                                  3.00
+80)  INGENIERIA MECANICA           MEC208     Termodinamica 2                                    4.50
+81)  INGENIERIA MECANICA           MEC286     Transferencia de calor                             4.25
+82)  MATEMATICAS                   MAT233     Analisis complejo                                  4.50
+83)  MATEMATICAS                   MAT230     Ecuaciones diferenciales parciales                 3.50
+84)  MATEMATICAS                   MAT251     Geometria                                          4.50
+85)  MATEMATICAS                   MAT234     Ecuaciones diferenciales ordinarias                4.50
+86)  MATEMATICAS                   MAT237     Calculo numerico                                   3.50
+87)  MATEMATICAS                   MAT243     Algebra 3                                          4.50
+88)  MATEMATICAS                   MAT218     Ecuaciones diferenciales aplicadas                 4.50
+89)  MATEMATICAS                   MAT231     Analisis real 1                                    4.50
+90)  MATEMATICAS                   MAT232     Analisis real 2                                    4.50
+91)  MATEMATICAS                   MAT244     Algebra lineal y multilineal                       4.50
+92)  MATEMATICAS                   MAT253     Topologia                                          4.50
+93)  MATEMATICAS                   MAT124     Algebra 2                                          4.50
+94)  MATEMATICAS                   MAT245     Logica Matematica y Teoria de Conjuntos            3.50
+------------------------------------------------------------------------------------------------------------------------
+                                                                           Total de créditos: 70.75
+========================================================================================================================

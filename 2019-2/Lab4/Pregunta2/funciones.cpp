@@ -11,12 +11,6 @@
 #include <iomanip>
 #include <fstream>
 
-#define MAX_NUM 5
-#define MAX_ESPECIALIDAD 20
-#define MAX_CODIGO 10
-#define MAX_CURSO 30
-#define MAX_CREDITOS 10
-
 using namespace std;
 
 int leerArchivos(Cadena codigos[], Cadena cursos[], Cadena especialidades[],
@@ -86,6 +80,9 @@ void imprimirReporte(Cadena codigos[], Cadena cursos[], Cadena especialidades[],
         cerr << "No se pudo generar el archivo del reporte." << endl;
         exit(1);
     }
+    // Declaración de variables
+    Cadena codigoAnterior;
+    double sumaCreditos = 0;
     // Imprimir cabecera
     reporte << left << fixed << setprecision(2)
             << setw(MAX_NUM) << "No"
@@ -93,12 +90,42 @@ void imprimirReporte(Cadena codigos[], Cadena cursos[], Cadena especialidades[],
             << setw(MAX_CODIGO) << "CODIGO"
             << setw(MAX_CURSO) << "CURSO"
             << setw(MAX_CREDITOS) << "CREDITOS" << endl;
+    repetir(reporte, '=', MAX_LINEA, true);
     // Escribir los datos de cada registro en el reporte
     for (int i = 0; i < numRegistros; i++) {
         reporte << right << setw(MAX_NUM - 3) << (i+1) << ")  ";
-        reporte << especialidades[i] << ' ';
+        reporte << especialidades[i];
+        repetir(reporte, ' ', MAX_ESPECIALIDAD - longitud(especialidades[i]));
         reporte << codigos[i] << ' ';
+        repetir(reporte, ' ', MAX_CODIGO - longitud(codigos[i]));
         reporte << cursos[i] << ' ';
+        repetir(reporte, ' ', MAX_CURSO - longitud(cursos[i]));
         reporte << creditos[i] << endl;
+        if (codigos[i] > codigoAnterior) {
+            imprimirResumen(reporte, codigoAnterior, codigos[i], sumaCreditos);
+        }
+        sumaCreditos += creditos[i];
+    }
+    imprimirResumen(reporte, codigoAnterior, codigos[numRegistros - 1], sumaCreditos);
+}
+
+void imprimirResumen(ofstream& reporte, Cadena& codigoAnterior, Cadena& codigo,
+        double& sumaCreditos) {
+    if (longitud(codigoAnterior) > 0) {
+        repetir(reporte, '-', MAX_LINEA, true);
+        reporte << setw(MAX_NUM+MAX_ESPECIALIDAD+MAX_CODIGO+MAX_CURSO)
+                << "Total de créditos: " << sumaCreditos << endl;
+        repetir(reporte, '=', MAX_LINEA, true);
+    }
+    (codigoAnterior)&(codigo);
+    sumaCreditos = 0;
+}
+
+void repetir(ofstream& reporte, char c, int cantidad, bool cambioLinea) {
+    for (int i = 0; i < cantidad; i++) {
+        reporte.put(c);
+    }
+    if (cambioLinea) {
+        reporte << endl;
     }
 }
