@@ -1,0 +1,80 @@
+Código: 20160658  Nombre: Arca/Amezquita/Edric-Ronald                       Cred.: 21.50     Cred. Apro.: 21.50     Prom. Gene.: 18.00     
+Cursos aprobados: MEC209 MEC206 MAT218 MEC269 MAT111
+
+Código: 20119778  Nombre: Morales/Valverde/Ines-Martha                      Cred.: 48.00     Cred. Apro.: 48.00     Prom. Gene.: 13.54     
+Cursos aprobados: MAT218 MAT218 INF220 INF282 FIS204 MAT219 MAT111 FIS203 MAT111 FIS111 FIS111 INF263 FIS203
+
+Código: 5258      Nombre: Gavidia/Mendoza/Ronald-Johnny                     Cred.: 30.50     Cred. Apro.: 19.50     Prom. Gene.: 13.00     
+Cursos aprobados: MAT241 MAT219 MAT218 MAT241 INF248
+
+Código: 20150564  Nombre: Auris/Zimic/Javier-Daniel                         Cred.: 22.50     Cred. Apro.: 22.50     Prom. Gene.: 13.00     
+Cursos aprobados: FIS203 FIS208 MAT218 FIS111 MAT219 MAT111
+
+Código: 20080667  Nombre: Lozada/Yino/Martha                                Cred.: 26.50     Cred. Apro.: 26.50     Prom. Gene.: 12.71     
+Cursos aprobados: MAT218 MAT218 MAT111 FIS203 FIS111 MAT219 FIS208
+
+Código: 20127352  Nombre: Justino/Cruz/Williams                             Cred.: 48.00     Cred. Apro.: 43.50     Prom. Gene.: 14.33     
+Cursos aprobados: MAT218 MAT218 FIS203 FIS218 MEC209 MEC206 MEC206 FIS111 MAT218 MAT111 FIS208
+
+Código: 5395      Nombre: Alamo/Pairazaman/Miguel-Roberto                   Cred.: 37.00     Cred. Apro.: 37.00     Prom. Gene.: 13.90     
+Cursos aprobados: FIS218 MAT111 FIS208 INF263 FIS111 INF281 MAT241 FIS203 MAT111 INF238
+
+Código: 20120476  Nombre: Henriquez/Espino/Beatriz                          Cred.: 35.50     Cred. Apro.: 35.50     Prom. Gene.: 14.20     
+Cursos aprobados: FIS203 MAT219 FIS111 FIS208 INF220 INF248 FIS111 INF282 FIS203 FIS203
+
+Código: 20160119  Nombre: Paredes/Patino/Christian                          Cred.: 55.50     Cred. Apro.: 51.50     Prom. Gene.: 14.07     
+Cursos aprobados: INF263 INF220 INF239 MAT111 INF245 INF281 MAT241 INF246 INF238 INF246 MAT219 INF263 MAT218 INF282
+
+Código: 20109738  Nombre: Caro/Polo/Sandro                                  Cred.: 39.50     Cred. Apro.: 26.50     Prom. Gene.: 10.80     
+Cursos aprobados: MEC206 MEC209 FIS203 FIS218 FIS208 INF263 FIS111
+
+Código: 20003541  Nombre: Cabrera/Canales/Guillermo-Edric                   Cred.: 28.00     Cred. Apro.: 24.50     Prom. Gene.: 11.62     
+Cursos aprobados: FIS203 INF220 INF263 FIS111 FIS208 FIS218 MAT218
+
+Código: 4450      Nombre: Vega/Munoz/Gonzalo                                Cred.: 26.50     Cred. Apro.: 15.00     Prom. Gene.: 12.00     
+Cursos aprobados: FIS203 FIS111 FIS111 MEC269
+
+Código: 7613      Nombre: Cortez/Segura/Carmela-Ines                        Cred.: 34.00     Cred. Apro.: 22.00     Prom. Gene.: 12.00     
+Cursos aprobados: MAT219 FIS111 FIS203 FIS218 MAT219 FIS208
+
+Código: 20170596  Nombre: Portugal/Benavente/Johana-Gloria                  Cred.: 45.50     Cred. Apro.: 41.50     Prom. Gene.: 13.00     
+Cursos aprobados: MAT218 MEC209 MAT219 MAT241 MAT111 MAT241 MAT781 MAT219 MEC206 MEC209
+
+Código: 9442      Nombre: Florian/Morales/Ydali                             Cred.: 41.50     Cred. Apro.: 29.50     Prom. Gene.: 13.30     
+Cursos aprobados: MEC209 MAT781 MAT111 MEC206 MAT218 MEC286 MAT219
+
+Código: 2075      Nombre: Moya/Aranda/Johnny                                Cred.: 61.50     Cred. Apro.: 36.50     Prom. Gene.: 11.76     
+Cursos aprobados: INF282 MAT111 FIS203 MAT241 INF281 INF238 FIS111 INF248 INF238 INF220
+
+Código: 20083333  Nombre: Laura/Wong/Melvin-Henrry                          Cred.: 4.50      Cred. Apro.: 4.50      Prom. Gene.: 11.00     
+Cursos aprobados: MEC206
+
+Código: 6702      Nombre: Calixto/Tomasiche/Monica-Doris                    Cred.: 67.50     Cred. Apro.: 53.00     Prom. Gene.: 12.33     
+Cursos aprobados: FIS219 FIS220 FIS227 MAT218 MAT219 FIS208 FIS229 MAT111 FIS229 MAT241 MAT111 MAT781 MAT781 MAT241
+
+Código: 1994      Nombre: Ruiz/Gordillo/Carola-Erika                        Cred.: 52.00     Cred. Apro.: 44.50     Prom. Gene.: 12.07     
+Cursos aprobados: FIS208 FIS111 MAT219 FIS229 MAT218 FIS220 FIS219 FIS229 MAT218 MAT111 FIS208 MAT241
+
+Código: 20097877  Nombre: Coronel/Chumpitaz/Heli                            Cred.: 28.50     Cred. Apro.: 28.50     Prom. Gene.: 14.50     
+Cursos aprobados: FIS208 FIS219 FIS227 FIS111 FIS229 FIS218 MAT111 FIS220
+
+Código: 8528      Nombre: Zarate/Del_Pozo/Humberto-Antonio                  Cred.: 29.00     Cred. Apro.: 29.00     Prom. Gene.: 13.75     
+Cursos aprobados: MEC206 FIS208 FIS218 FIS111 FIS203 FIS219 FIS203 FIS208
+
+Código: 20164217  Nombre: Palomares/Vera/Henrry-Humberto                    Cred.: 3.50      Cred. Apro.: 0.00      Prom. Gene.: 10.00     
+
+Código: 6553      Nombre: Coronado/Figueroa/Johan                           Cred.: 37.00     Cred. Apro.: 22.00     Prom. Gene.: 10.60     
+Cursos aprobados: INF263 MAT219 INF220 FIS111 MAT218 MAT111
+
+Código: 1346      Nombre: Hijar/Pairazaman/Jenny-Delicia                    Cred.: 46.00     Cred. Apro.: 32.00     Prom. Gene.: 12.31     
+Cursos aprobados: MAT218 FIS220 FIS227 FIS229 FIS219 FIS227 FIS208 FIS111 FIS219
+
+Código: 20110165  Nombre: Landeo/Sueldo/Adolfo                              Cred.: 51.50     Cred. Apro.: 36.50     Prom. Gene.: 13.43     
+Cursos aprobados: FIS111 MAT219 FIS203 MAT218 FIS208 MAT111 FIS218 FIS203 FIS219 FIS208
+
+Código: 6965      Nombre: Antezano/Segura/Teresa-Delia                      Cred.: 32.00     Cred. Apro.: 28.00     Prom. Gene.: 13.75     
+Cursos aprobados: MAT111 MAT218 MAT218 MAT111 MAT219 MAT218 MAT111
+
+Código: 20167828  Nombre: Pasquel/Quio/Surami-Janet                         Cred.: 58.00     Cred. Apro.: 43.50     Prom. Gene.: 12.19     
+Cursos aprobados: FIS219 MAT111 FIS208 FIS220 MAT218 FIS111 FIS229 FIS219 FIS229 FIS218 FIS208 MAT111
+

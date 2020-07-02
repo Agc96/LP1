@@ -23,6 +23,7 @@ void actualizarAlumnoConsolidado(fstream&, int, double, int);
 void generarReporteConsolidado(const char*, const char*, const char*);
 void imprimirCabeceraReporte(ofstream&);
 void imprimirAlumnoReporte(ofstream&, int, char*, int, double, double, double, int);
+void actualizarEstadisticas(int&, int&, int&, int&, char, int, int);
 void imprimirResumenReporte(ofstream&, int, int, int, int);
 // Funciones auxiliares
 void validarArchivo(ios&, const char*);

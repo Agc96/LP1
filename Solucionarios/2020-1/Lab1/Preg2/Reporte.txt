@@ -1,0 +1,61 @@
+Impresión de la cola
+====================
+77763722  Farfan/Salazar/Margot                        34347      2.69  
+89314225  Rios/Durand/Carlos Edilberto                 34507      3.79  
+23842717  Henriquez/Espino/Beatriz                     34656      6.18  
+35297848  Astete/Chang/Guida                           34719      0.35  
+73357516  Trigueros/Jugo/Luz                           35073      5.19  
+50449903  Florian/Morales/Ydali                        35321      8.14  
+66811104  Pasquel/Quio/Surami Janet                    35368      3.22  
+53566003  Cabrera/Canales/Guillermo Edric              35561      7.00  
+47844324  Vilca/Lee/Nestor Hugo                        36146      4.71  
+48878256  Raffo/Coronado/Rolando                       36262      6.13  
+46923852  Hijar/Pairazaman/Jenny Delicia               36329      8.17  
+59121560  Lozada/Yino/Martha                           36776      6.05  
+71832810  Sueldo/Sedano/Adria                          37354      6.18  
+84074583  Coronel/Chumpitaz/Heli                       37632      3.01  
+71180497  Portugal/Benavente/Johana Gloria             37807      4.02  
+38362262  Coronado/Figueroa/Johan                      37903      6.96  
+26522329  Sanchez/Del_Castillo/Fiorella Rosario        37930      7.68  
+29851973  Cortez/Segura/Carmela Ines                   38266      7.94  
+13219606  Rodriguez/Moreno/Blanca Ofelia               38402      2.85  
+68167636  Landeo/Sueldo/Adolfo                         38477      7.78  
+48450395  Ramirez/Astete/Karina Estefania              38590      3.54  
+45043076  Vega/Vilcara/Carmela Teresa                  38824      5.19  
+32090869  Sueldo/Antezano/Luis Jesus                   39002      3.38  
+68310808  Cano/Polo/Milagros Isabel                    39027      2.41  
+88854166  Pinto/Rojas/Juvenal Francisco                39043      0.51  
+88000134  Ruiz/Gordillo/Carola Erika                   39127      5.97  
+66849703  Mercado/Coronel/Elia                         39344      1.75  
+68369891  Laura/Wong/Melvin Henrry                     39501      3.70  
+97849227  Prado/Espinoza/Milagros                      39539      7.31  
+63736112  Zamora/Zavaleta/Ronal Manuel                 39629      5.67  
+77982722  Justino/Cruz/Williams                        39662      1.04  
+54141214  Durand/Miranda/Miguel Juan                   39725      0.11  
+71457094  Arca/Amezquita/Edric Ronald                  40085      8.21  
+60422425  Palomares/Vera/Henrry Humberto               40086      2.30  
+62504139  Calixto/Tomasiche/Monica Doris               40295      5.98  
+38004399  Auris/Zimic/Javier Daniel Luis               40474      0.49  
+75945248  Mejia/Rodriguez/Ines Valentina               40642      6.52  
+53853385  Solis/Narvaez/Maria Madeleine                41181      0.09  
+64208029  Gavidia/Mendoza/Ronald Johnny                41345      0.41  
+62004867  Caro/Polo/Sandro                             41429      7.11  
+27185429  Solis/Chung/Rolando                          41684      2.62  
+80310768  Minaya/Berrocal/Heli                         41989      1.46  
+16477908  Baca/Camacho/Milagros Natalia                42348      2.94  
+79766395  Fuentes/Escalante/Patricia Elizabeth         42546      6.55  
+40237708  Vega/Munoz/Gonzalo                           42601      3.45  
+69494747  Mendoza/Romero/Virginia Ydali                42701      6.80  
+60335381  Diaz/Tang/Enrique                            42752      6.96  
+35912665  Martinez/Cruz/Evert Rony                     42940      6.79  
+76083813  Zarate/Del_Pozo/Humberto Antonio             43416      7.84  
+48175022  Alamo/Pairazaman/Miguel Roberto              43599      1.38  
+58992942  Narvaez/Castillo/Jesus Rafael                43628      7.79  
+84186239  Rivero/Coronado/Hector Alonso                43746      2.52  
+94149989  Antezano/Segura/Teresa Delia                 43848      2.43  
+17709280  Moya/Aranda/Johnny                           44062      2.00  
+31107104  Moscoso/Arias/Fiorella                       44482      6.53  
+48528209  Zavaleta/Coronado/Felicita Eloisa            44648      3.32  
+14467310  Paredes/Patino/Christian                     44981      7.80  
+15029228  Valverde/Maeireizo/Melvin Jair               45016      0.39  
+86577817  Morales/Valverde/Ines Martha                 45025      6.69  

@@ -10,8 +10,8 @@
 #define MAX_NOMBRE 35
 #define MAX_ESPEC 25
 #define MAX_FACU 5
-#define TAM_ALUMNO (2*sizeof(int) + sizeof(char) + MAX_NOMBRE + MAX_FACU + MAX_ESPEC)
-#define TAM_CONSOLIDADO (4*sizeof(int) + MAX_NOMBRE + 2*sizeof(double) + MAX_FACU)
+#define TAM_ALUMNO (2*sizeof(int) + (MAX_NOMBRE+MAX_FACU+MAX_ESPEC+1)*sizeof(char))
+#define TAM_CONSOLIDADO (4*sizeof(int) + (MAX_NOMBRE+MAX_FACU)*sizeof(char) + 2*sizeof(double))
 #define MIN_APROBATORIO 11
 #define MIN_EGRESADO 45
 #define MAX_COD 10
@@ -45,11 +45,11 @@ void transferirArchivoAlumnos(const char* nomArchBin, const char* nomArchTexto) 
         archTexto >> ws >> espec >> ws >> facu;
         // Guardar los datos del alumno
         archBin.write(reinterpret_cast<const char*>(&codigo), sizeof(int));
-        archBin.write(nombre, MAX_NOMBRE);
+        archBin.write(reinterpret_cast<const char*>(&nombre), sizeof(char)*MAX_NOMBRE);
         archBin.write(reinterpret_cast<const char*>(&tipo), sizeof(char));
         archBin.write(reinterpret_cast<const char*>(&carne), sizeof(int));
-        archBin.write(facu, MAX_FACU);
-        archBin.write(espec, MAX_ESPEC);
+        archBin.write(reinterpret_cast<const char*>(&facu), sizeof(char)*MAX_FACU);
+        archBin.write(reinterpret_cast<const char*>(&espec), sizeof(char)*MAX_ESPEC);
     }
 }
 
@@ -70,17 +70,17 @@ void crearArchivoConsolidado(const char* nomConsolidado, const char* nomAlumnos)
     for (int i = 0; i < cantAlumnos; i++) {
         alumnos.seekg(i * TAM_ALUMNO, ios::beg);
         alumnos.read(reinterpret_cast<char*>(&codigo), sizeof(int));
-        alumnos.read(nombre, MAX_NOMBRE);
+        alumnos.read(reinterpret_cast<char*>(&nombre), sizeof(char)*MAX_NOMBRE);
         alumnos.seekg(sizeof(char) + sizeof(int), ios::cur);
-        alumnos.read(facu, MAX_FACU);
+        alumnos.read(reinterpret_cast<char*>(&facu), sizeof(char)*MAX_FACU);
         // Guardar los datos en el archivo de consolidado
         consolidado.write(reinterpret_cast<const char*>(&codigo), sizeof(int));
-        consolidado.write(nombre, MAX_NOMBRE);
+        consolidado.write(reinterpret_cast<const char*>(&nombre), sizeof(char)*MAX_NOMBRE);
         consolidado.write(reinterpret_cast<const char*>(&dummyD), sizeof(double));
         consolidado.write(reinterpret_cast<const char*>(&dummyD), sizeof(double));
         consolidado.write(reinterpret_cast<const char*>(&dummyI), sizeof(int));
         consolidado.write(reinterpret_cast<const char*>(&dummyI), sizeof(int));
-        consolidado.write(facu, MAX_FACU);
+        consolidado.write(reinterpret_cast<const char*>(&facu), sizeof(char)*MAX_FACU);
         consolidado.write(reinterpret_cast<const char*>(&dummyI), sizeof(int));
     }
 }
@@ -93,14 +93,14 @@ void actualizarArchivoConsolidado(const char* nomConsolidado, const char* nomCur
     validarArchivo(consolidado, nomConsolidado);
     int cantAlumnos = obtenerCantArchBin(consolidado, TAM_CONSOLIDADO);
     // Declaración de variables
-    char curso[MAX_COD], semestre[MAX_COD];
-    int alumno, alumnoLeido, nota;
+    char curso[MAX_COD], c;
+    int alumno, alumnoLeido, nota, anho, periodo;
     double creditos;
     // Leer los datos de todos los cursos
     while (true) {
         cursos >> alumno;
         if (cursos.eof()) break;
-        cursos >> ws >> curso >> nota >> ws >> semestre >> creditos;
+        cursos >> ws >> curso >> nota >> ws >> anho >> c >> periodo >> creditos;
         // Buscar el código del alumno en el consolidado
         for (int i = 0; i < cantAlumnos; i++) {
             consolidado.seekg(i * TAM_CONSOLIDADO, ios::beg);
@@ -119,7 +119,7 @@ void actualizarAlumnoConsolidado(fstream& consolidado, int indiceAlumno,
     int sumaNotas, cantMaterias, egresado = 1;
     double credCursados, credAprobados;
     // Obtener los datos que se actualizarán
-    consolidado.seekg(MAX_NOMBRE, ios::cur);
+    consolidado.seekg(sizeof(char)*MAX_NOMBRE, ios::cur);
     consolidado.read(reinterpret_cast<char*>(&credCursados), sizeof(double));
     consolidado.read(reinterpret_cast<char*>(&credAprobados), sizeof(double));
     consolidado.read(reinterpret_cast<char*>(&sumaNotas), sizeof(int));
@@ -132,13 +132,13 @@ void actualizarAlumnoConsolidado(fstream& consolidado, int indiceAlumno,
         credAprobados += creditos;
     }
     // Grabar los datos actualizados en el consolidado
-    consolidado.seekg(indiceAlumno * TAM_CONSOLIDADO + sizeof(int) + MAX_NOMBRE, ios::beg);
+    consolidado.seekg(indiceAlumno*TAM_CONSOLIDADO + sizeof(int) + sizeof(char)*MAX_NOMBRE, ios::beg);
     consolidado.write(reinterpret_cast<const char*>(&credCursados), sizeof(double));
     consolidado.write(reinterpret_cast<const char*>(&credAprobados), sizeof(double));
     consolidado.write(reinterpret_cast<const char*>(&sumaNotas), sizeof(int));
     consolidado.write(reinterpret_cast<const char*>(&cantMaterias), sizeof(int));
     if (credAprobados >= MIN_EGRESADO) {
-        consolidado.seekg(MAX_FACU, ios::cur);
+        consolidado.seekg(sizeof(char)*MAX_FACU, ios::cur);
         consolidado.write(reinterpret_cast<const char*>(&egresado), sizeof(int));
     }
 }
@@ -167,32 +167,23 @@ void generarReporteConsolidado(const char* nomReporte, const char* nomArchAlumno
         // Leer los datos del archivo consolidado
         consolidado.seekg(i*TAM_CONSOLIDADO, ios::beg);
         consolidado.read(reinterpret_cast<char*>(&codigo), sizeof(int));
-        consolidado.read(nombre, MAX_NOMBRE);
+        consolidado.read(reinterpret_cast<char*>(&nombre), sizeof(char)*MAX_NOMBRE);
         consolidado.read(reinterpret_cast<char*>(&credCursados), sizeof(double));
         consolidado.read(reinterpret_cast<char*>(&credAprobados), sizeof(double));
         consolidado.read(reinterpret_cast<char*>(&sumaNotas), sizeof(int));
         consolidado.read(reinterpret_cast<char*>(&cantMaterias), sizeof(int));
-        consolidado.seekg(MAX_FACU, ios::cur);
+        consolidado.seekg(sizeof(char)*MAX_FACU, ios::cur);
         consolidado.read(reinterpret_cast<char*>(&estado), sizeof(int));
         // Leer los datos faltantes del archivo de alumnos
-        archAlumnos.seekg(i*TAM_ALUMNO + sizeof(int) + MAX_NOMBRE, ios::beg);
+        archAlumnos.seekg(i*TAM_ALUMNO + sizeof(int) + sizeof(char)*MAX_NOMBRE, ios::beg);
         archAlumnos.read(reinterpret_cast<char*>(&tipo), sizeof(char));
         archAlumnos.read(reinterpret_cast<char*>(&carne), sizeof(int));
         // Imprimir los datos requeridos
         imprimirAlumnoReporte(reporte, codigo, nombre, carne, credCursados,
                 credAprobados, (double)sumaNotas/cantMaterias, estado);
         // Calcular las estadísticas
-        if (tipo == 'R') {
-            totalRegulares++;
-        } else {
-            totalIntercambio++;
-            if (carne == 0) {
-                intercambioSinCarne++;
-            }
-        }
-        if (estado > 0) {
-            cantEgresados++;
-        }
+        actualizarEstadisticas(totalRegulares, totalIntercambio, intercambioSinCarne,
+                cantEgresados, tipo, carne, estado);
     }
     // Imprimir resumen
     imprimirResumenReporte(reporte, totalRegulares, totalIntercambio,
@@ -236,6 +227,22 @@ void imprimirAlumnoReporte(ofstream& reporte, int codigo, char* nombre, int carn
     espacios(reporte, TAM_ESPACIO);
     // Imprimir el estado del alumno
     reporte << (estado ? "EGRESADO" : "NO EGRESADO") << endl;
+}
+
+void actualizarEstadisticas(int& totalRegulares, int& totalIntercambio,
+        int& intercambioSinCarne, int& cantEgresados, char tipo, int carne,
+        int estado) {
+    if (tipo == 'R') {
+        totalRegulares++;
+    } else {
+        totalIntercambio++;
+        if (carne == 0) {
+            intercambioSinCarne++;
+        }
+    }
+    if (estado > 0) {
+        cantEgresados++;
+    }
 }
 
 void imprimirResumenReporte(ofstream& reporte, int totalRegulares,
