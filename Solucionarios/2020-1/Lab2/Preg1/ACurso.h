@@ -22,7 +22,7 @@ public:
     void SetOperacion(char);
 private:
     int codigo;
-    Curso curso;
+    Curso clcurso;
     char operacion;
 };
 

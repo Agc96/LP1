@@ -44,9 +44,7 @@ void Alumno::operator +(const ACurso& acurso) {
         return;
     }
     /* Insertar el curso en la lista del alumno */
-    int numcur = this->GetNumcur();
-    this->SetLcursoAt(numcur, acurso.GetCurso());
-    this->SetNumcur(++numcur);
+    this->lcurso[this->numcur++] = acurso.GetCurso();
 }
 
 void Alumno::operator *(const ACurso& acurso) {
@@ -93,7 +91,7 @@ void Alumno::operator -(const ACurso& acurso) {
             for (int j = i; j < numcur - 1; j++) {
                 lcurso[j] = lcurso[j + 1];
             }
-            --numcur;
+            numcur--;
             encontrado = true;
             break;
         }

@@ -1,0 +1,35 @@
+Codigo: 92419
+Nombre: LOZADA/YINO/MARTHA
+Distrito: San Isidro
+Escala: 4
+Especialidad: Ing. Mecanica
+Facultad: EEGGCC
+
+Codigo: 67560
+Nombre: CAMACHO/AGUERO/ELIA ROSA
+Distrito: El Agustino
+Escala: 2
+Especialidad: Ing. Civil
+Facultad: EEGGCC
+
+Codigo: 50139
+Nombre: CORREA/VIZCARDO/MIGUEL
+Distrito: Punta Hermosa
+Escala: 4
+Especialidad: Ing. Mecanica
+Facultad: EEGGCC
+
+Codigo: 98008
+Nombre: FERNANDEZ/ORTEGA/ELIZABETH ELIZABETH
+Distrito: Cieneguilla
+Escala: 3
+Especialidad: Ing. Mecanica
+Facultad: FCI
+
+Codigo: 98202
+Nombre: VASQUEZ/PAZ/ALEX MARTIN
+Distrito: Lurin
+Escala: 4
+Especialidad: Ing. Mecanica
+Facultad: EEGGCC
+

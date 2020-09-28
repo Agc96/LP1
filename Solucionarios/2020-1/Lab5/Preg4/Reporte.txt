@@ -1,0 +1,181 @@
+                                Reservas asignadas
+Aula: A01
+Capacidad: 4
+Codigo: 92419
+Nombre: LOZADA/YINO/MARTHA
+Tipo: A
+--------------------------------------------------------------------------------
+Aula: A02
+Capacidad: 4
+Codigo: 67560
+Nombre: CAMACHO/AGUERO/ELIA ROSA
+Tipo: A
+--------------------------------------------------------------------------------
+Aula: A03
+Capacidad: 6
+Codigo: 2506
+Nombre: SANTISTEBAN/MEZA/ROSA
+Tipo: P
+--------------------------------------------------------------------------------
+Aula: A04
+Capacidad: 6
+Codigo: 2160
+Nombre: MALDONADO/RAMIREZ/SILVANA
+Tipo: P
+--------------------------------------------------------------------------------
+Aula: A05
+Capacidad: 6
+Codigo: 2181
+Nombre: MEJIA/DIAZ/BLANCA MILAGROS
+Tipo: P
+--------------------------------------------------------------------------------
+Aula: A06
+Capacidad: 6
+Codigo: 7882
+Nombre: WONG/MARTEL/MADELEINE
+Tipo: P
+--------------------------------------------------------------------------------
+Aula: A07
+Capacidad: 4
+Codigo: 50139
+Nombre: CORREA/VIZCARDO/MIGUEL
+Tipo: A
+--------------------------------------------------------------------------------
+Aula: A08
+Capacidad: 4
+Codigo: 74926
+Nombre: HENRIQUEZ/ESPINO/BEATRIZ
+Tipo: A
+--------------------------------------------------------------------------------
+Aula: A09
+Capacidad: 4
+Codigo: 98008
+Nombre: FERNANDEZ/ORTEGA/ELIZABETH ELIZABETH
+Tipo: A
+--------------------------------------------------------------------------------
+Aula: A10
+Capacidad: 4
+Codigo: 98202
+Nombre: VASQUEZ/PAZ/ALEX MARTIN
+Tipo: A
+--------------------------------------------------------------------------------
+Aula: B01
+Capacidad: 5
+Codigo: 2489
+Nombre: HERNANDEZ/BARRIOS/EMILIO
+Tipo: P
+--------------------------------------------------------------------------------
+Aula: B02
+Capacidad: 5
+Codigo: 1354
+Nombre: PISCOYA/BRAVO/CESAR BRUNO
+Tipo: P
+--------------------------------------------------------------------------------
+Aula: B03
+Capacidad: 5
+Codigo: 8791
+Nombre: DIAZ/ANTEZANO/MAGALI SILVANA
+Tipo: P
+--------------------------------------------------------------------------------
+Aula: B04
+Capacidad: 5
+Codigo: 6113
+Nombre: SHIRAKAWA/MIRANDA/MADELEINE
+Tipo: P
+--------------------------------------------------------------------------------
+Aula: B05
+Capacidad: 8
+Codigo: 1677
+Nombre: ARROYO/GORDILLO/MARIA HELI
+Tipo: P
+--------------------------------------------------------------------------------
+Aula: B06
+Capacidad: 8
+Codigo: 6453
+Nombre: FORZANI/CARO/ALONSO
+Tipo: P
+--------------------------------------------------------------------------------
+Aula: B07
+Capacidad: 8
+Codigo: 5117
+Nombre: RAFFO/ARIAS/SURAMI ANNIE
+Tipo: P
+--------------------------------------------------------------------------------
+Aula: B08
+Capacidad: 8
+Codigo: 4399
+Nombre: DIAZ/CORREA/IRMA VIRGINIA
+Tipo: P
+--------------------------------------------------------------------------------
+Aula: B09
+Capacidad: 4
+Codigo: 69791
+Nombre: CARO/POLO/SANDRO
+Tipo: A
+--------------------------------------------------------------------------------
+Aula: B10
+Capacidad: 4
+Codigo: 36466
+Nombre: SALAS/AGUERO/DANIEL
+Tipo: A
+--------------------------------------------------------------------------------
+Aula: C01
+Capacidad: 4
+Codigo: 26685
+Nombre: LANDEO/SUELDO/ADOLFO
+Tipo: A
+--------------------------------------------------------------------------------
+Aula: C02
+Capacidad: 4
+Codigo: 55472
+Nombre: MEDINA/VELASQUEZ/MILENA JENNY
+Tipo: A
+--------------------------------------------------------------------------------
+Aula: C03
+Capacidad: 6
+Codigo: 7539
+Nombre: PINTO/CALIXTO/SHIRLEY
+Tipo: P
+--------------------------------------------------------------------------------
+Aula: C04
+Capacidad: 6
+Codigo: 3309
+Nombre: CERNA/PAIRAZAMAN/FIORELLA MARGOT
+Tipo: P
+--------------------------------------------------------------------------------
+Aula: C05
+Capacidad: 6
+Codigo: 4341
+Nombre: REYES/TANG/EDWARD
+Tipo: P
+--------------------------------------------------------------------------------
+Aula: C06
+Capacidad: 6
+Codigo: 6054
+Nombre: MENDOZA/EGUSQUIZA/ROSARIO
+Tipo: P
+--------------------------------------------------------------------------------
+Aula: C07
+Capacidad: 8
+Codigo: 3415
+Nombre: PRADO/FALCON/EDGAR RICHARD
+Tipo: P
+--------------------------------------------------------------------------------
+Aula: C08
+Capacidad: 8
+Codigo: 9248
+Nombre: CHUMPITAZ/IBEROS/RONAL
+Tipo: P
+--------------------------------------------------------------------------------
+Aula: C09
+Capacidad: 8
+Codigo: 4113
+Nombre: RAFFO/CHUNG/ADRIA GLORIA
+Tipo: P
+--------------------------------------------------------------------------------
+Aula: C10
+Capacidad: 8
+Codigo: 6939
+Nombre: ROMERO/PALOMARES/GLORIA TATIANA
+Tipo: P
+--------------------------------------------------------------------------------

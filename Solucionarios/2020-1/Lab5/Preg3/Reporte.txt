@@ -1,0 +1,174 @@
+Aula: A01
+Capacidad: 4
+Codigo: 0
+Nombre: (sin especificar)
+Tipo: S
+
+Aula: A02
+Capacidad: 4
+Codigo: 0
+Nombre: (sin especificar)
+Tipo: S
+
+Aula: A03
+Capacidad: 6
+Codigo: 0
+Nombre: (sin especificar)
+Tipo: S
+
+Aula: A04
+Capacidad: 6
+Codigo: 0
+Nombre: (sin especificar)
+Tipo: S
+
+Aula: A05
+Capacidad: 6
+Codigo: 0
+Nombre: (sin especificar)
+Tipo: S
+
+Aula: A06
+Capacidad: 6
+Codigo: 0
+Nombre: (sin especificar)
+Tipo: S
+
+Aula: A07
+Capacidad: 4
+Codigo: 0
+Nombre: (sin especificar)
+Tipo: S
+
+Aula: A08
+Capacidad: 4
+Codigo: 0
+Nombre: (sin especificar)
+Tipo: S
+
+Aula: A09
+Capacidad: 4
+Codigo: 0
+Nombre: (sin especificar)
+Tipo: S
+
+Aula: A10
+Capacidad: 4
+Codigo: 0
+Nombre: (sin especificar)
+Tipo: S
+
+Aula: B01
+Capacidad: 5
+Codigo: 0
+Nombre: (sin especificar)
+Tipo: S
+
+Aula: B02
+Capacidad: 5
+Codigo: 0
+Nombre: (sin especificar)
+Tipo: S
+
+Aula: B03
+Capacidad: 5
+Codigo: 0
+Nombre: (sin especificar)
+Tipo: S
+
+Aula: B04
+Capacidad: 5
+Codigo: 0
+Nombre: (sin especificar)
+Tipo: S
+
+Aula: B05
+Capacidad: 8
+Codigo: 0
+Nombre: (sin especificar)
+Tipo: S
+
+Aula: B06
+Capacidad: 8
+Codigo: 0
+Nombre: (sin especificar)
+Tipo: S
+
+Aula: B07
+Capacidad: 8
+Codigo: 0
+Nombre: (sin especificar)
+Tipo: S
+
+Aula: B08
+Capacidad: 8
+Codigo: 0
+Nombre: (sin especificar)
+Tipo: S
+
+Aula: B09
+Capacidad: 4
+Codigo: 0
+Nombre: (sin especificar)
+Tipo: S
+
+Aula: B10
+Capacidad: 4
+Codigo: 0
+Nombre: (sin especificar)
+Tipo: S
+
+Aula: C01
+Capacidad: 4
+Codigo: 0
+Nombre: (sin especificar)
+Tipo: S
+
+Aula: C02
+Capacidad: 4
+Codigo: 0
+Nombre: (sin especificar)
+Tipo: S
+
+Aula: C03
+Capacidad: 6
+Codigo: 0
+Nombre: (sin especificar)
+Tipo: S
+
+Aula: C04
+Capacidad: 6
+Codigo: 0
+Nombre: (sin especificar)
+Tipo: S
+
+Aula: C05
+Capacidad: 6
+Codigo: 0
+Nombre: (sin especificar)
+Tipo: S
+
+Aula: C06
+Capacidad: 6
+Codigo: 0
+Nombre: (sin especificar)
+Tipo: S
+
+Aula: C07
+Capacidad: 8
+Codigo: 0
+Nombre: (sin especificar)
+Tipo: S
+
+Aula: C08
+Capacidad: 8
+Codigo: 0
+Nombre: (sin especificar)
+Tipo: S
+
+Aula: C09
+Capacidad: 8
+Codigo: 0
+Nombre: (sin especificar)
+Tipo: S
+

@@ -11,13 +11,13 @@ ACurso::ACurso() {
 }
 
 ACurso::ACurso(const ACurso& orig) {
-    this->codigo = orig.codigo;
-    this->operacion = orig.operacion;
-    this->curso = orig.curso;
+    SetCodigo(orig.codigo);
+    SetCurso(orig.clcurso);
+    SetOperacion(orig.operacion);
 }
 
 ACurso::~ACurso() {
-    // C++ invoca al destructor de this->curso.
+    // C++ invoca al destructor de this->clcurso.
 }
 
 /* Encapsulamiento */
@@ -31,11 +31,11 @@ void ACurso::SetCodigo(int codigo) {
 }
 
 Curso ACurso::GetCurso() const {
-    return curso;
+    return clcurso;
 }
 
-void ACurso::SetCurso(const Curso& curso) {
-    this->curso = curso;
+void ACurso::SetCurso(const Curso& clcurso) {
+    this->clcurso = clcurso;
 }
 
 char ACurso::GetOperacion() const {
