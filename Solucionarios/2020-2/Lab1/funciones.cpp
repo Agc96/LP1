@@ -41,7 +41,7 @@ void procesarAlumno(int codigo) {
     imprimirCabeceraAlumno(codigo, anho, nombre);
     // Leer curso por curso
     while (true) {
-        c = cin.peek();
+        c = cin.get();
         if (c == '\n') break;
         contador++;
         procesarCursoAlumno(anho, contador, numCursos, credAprob, credDesaprob,
