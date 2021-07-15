@@ -1,0 +1,119 @@
+Conductor: LEYVA SAM DIANA DELIA
+Licencia No.: 50200823
+--------------------------------------------------------------------------------
+Monto de multas: 3634
+Puntos perdidos: 2200
+Meses sancionados: 0
+
+Conductor: AVILA DEL CASTILLO ANNIE
+Licencia No.: 54447051
+--------------------------------------------------------------------------------
+Monto de multas: 8295
+Puntos perdidos: 3500
+Meses sancionados: 6
+
+Conductor: EGUSQUIZA BERROCAL DORIS NANCY
+Licencia No.: 82031355
+--------------------------------------------------------------------------------
+Monto de multas: 4819
+Puntos perdidos: 2600
+Meses sancionados: 3
+
+Conductor: LEYVA LANDEO NANCY SONIA
+Licencia No.: 34248357
+--------------------------------------------------------------------------------
+Monto de multas: 12087
+Puntos perdidos: 5300
+Meses sancionados: 11
+
+Conductor: MERCADO CORONEL ELIA
+Licencia No.: 66849703
+--------------------------------------------------------------------------------
+Monto de multas: 2607
+Puntos perdidos: 1400
+Meses sancionados: 2
+
+Conductor: AVILA REYES TATIANA
+Licencia No.: 70414420
+--------------------------------------------------------------------------------
+Monto de multas: 2449
+Puntos perdidos: 3600
+Meses sancionados: 12
+
+Conductor: BACA CAMACHO MILAGROS NATALIA
+Licencia No.: 16477908
+--------------------------------------------------------------------------------
+Monto de multas: 6320
+Puntos perdidos: 3800
+Meses sancionados: 19
+
+Conductor: PRADO VERA JUAN
+Licencia No.: 88167677
+--------------------------------------------------------------------------------
+Monto de multas: 6004
+Puntos perdidos: 4300
+Meses sancionados: 0
+
+Conductor: CHAVEZ BERROCAL JOHAN
+Licencia No.: 51929951
+--------------------------------------------------------------------------------
+Monto de multas: 1501
+Puntos perdidos: 1200
+Meses sancionados: 0
+
+Conductor: CAMACHO PAIRAZAMAN YDALI LUCERO
+Licencia No.: 29989682
+--------------------------------------------------------------------------------
+Monto de multas: 5451
+Puntos perdidos: 2500
+Meses sancionados: 4
+
+Conductor: RETAMOSO SALAMANCA DELIA MARITZA
+Licencia No.: 30441350
+--------------------------------------------------------------------------------
+Monto de multas: 5135
+Puntos perdidos: 5200
+Meses sancionados: 14
+
+Conductor: RAFFO CORONADO ROLANDO
+Licencia No.: 48878256
+--------------------------------------------------------------------------------
+Monto de multas: 8690
+Puntos perdidos: 5500
+Meses sancionados: 6
+
+Conductor: BRAVO CORTES JANET FLOR
+Licencia No.: 15559308
+--------------------------------------------------------------------------------
+Monto de multas: 8690
+Puntos perdidos: 3400
+Meses sancionados: 6
+
+Conductor: FARFAN SALAZAR MARGOT
+Licencia No.: 77763722
+--------------------------------------------------------------------------------
+Monto de multas: 12561
+Puntos perdidos: 6300
+Meses sancionados: 24
+
+Conductor: DIAZ TANG ENRIQUE
+Licencia No.: 60335381
+--------------------------------------------------------------------------------
+Monto de multas: 11534
+Puntos perdidos: 5000
+Meses sancionados: 25
+
+Conductor: CANO POLO MILAGROS ISABEL
+Licencia No.: 68310808
+--------------------------------------------------------------------------------
+Monto de multas: 3871
+Puntos perdidos: 2300
+Meses sancionados: 1
+
+Conductor: NARVAEZ CASTILLO JESUS RAFAEL
+Licencia No.: 58992942
+--------------------------------------------------------------------------------
+Monto de multas: 1501
+Puntos perdidos: 1200
+Meses sancionados: 0
+

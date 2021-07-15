@@ -1,0 +1,127 @@
+ATENCION DE PACIENTES
+========================================================================================================================
+No.     DNI         Paciente                                Especialidad    Pago        Tipo
+  1)    13731806    Rony Gonzalo Valverde Berrocal              5152            0.00    Emergencia
+  2)    14956687    Alex Martin Vasquez Paz                     9384            0.00    Emergencia
+  3)    24965193    Milena Cinthia Zarate Acuna                 2315            0.00    Emergencia
+  4)    25121500    Edgar Munoz Vergel                          3886            0.00    Emergencia
+  5)    26015699    Julio Vilcara Jugo                          8009            0.00    Emergencia
+  6)    31176113    Walter Jolay Chumpitaz                      2315            0.00    Emergencia
+  7)    31284904    Elia Yolanda Sedano Retamoso                5152            0.00    Emergencia
+  8)    35347567    Annie Montero Montero                       2315            0.00    Emergencia
+  9)    36934113    Milagros Natalia Baca Camacho               6720            0.00    Emergencia
+ 10)    37282858    Lourdes Diana Sueldo Martinez               2315            0.00    Emergencia
+ 11)    40127069    Cesar Jaime Rodriguez Serrano               6720            0.00    Emergencia
+ 12)    43704548    Ericka Victoria Justino Forzani             5602            0.00    Emergencia
+ 13)    48308899    Zkenia Irma Chung Zuniga                    5152            0.00    Emergencia
+ 14)    50019279    Victor Edgar Garcia Astete                  5602            0.00    Emergencia
+ 15)    51873364    Johan Chavez Berrocal                       5602            0.00    Emergencia
+ 16)    52313890    Jesus Rafael Narvaez Castillo               9384            0.00    Emergencia
+ 17)    55140606    Victoria Milagros Shirakawa Saona           5152            0.00    Emergencia
+ 18)    58643376    Antonio Sueldo Ruiz                         9384            0.00    Emergencia
+ 19)    59561864    Gonzalo Vega Munoz                          8009            0.00    Emergencia
+ 20)    63640178    Richard Sandro Perez Farfan                 5602            0.00    Emergencia
+ 21)    65540456    Delicia Arca Aquino                         3886            0.00    Emergencia
+ 22)    66091742    Carlos Julian Prado Vergel                  5152            0.00    Emergencia
+ 23)    72973662    Maria Madeleine Solis Narvaez               5602            0.00    Emergencia
+ 24)    77324146    Lourdes Sonia Soma Pinto                    8009            0.00    Emergencia
+ 25)    77440060    Martin Juvenal Villa Sedano                 8009            0.00    Emergencia
+ 26)    81647285    Maritza Carbajal Salamanca                  5152            0.00    Emergencia
+ 27)    85395219    Irma Lourdes Corrales Tsukazan              6720            0.00    Emergencia
+ 28)    86836066    Alexander Zarate Perez                      3886            0.00    Emergencia
+ 29)    87522271    Ofelia Beatriz Montero Bolanos              5291            0.00    Emergencia
+ 30)    90367684    Heli Coronel Chumpitaz                      5291            0.00    Emergencia
+ 31)    90972561    Humberto Alberto Vargas Guevara             9384            0.00    Emergencia
+ 32)    91733306    Gustavo Alonso Del Castillo Mejia           8654            0.00    Emergencia
+ 33)    93231760    Carmela Teresa Vega Vilcara                 8654            0.00    Emergencia
+ 34)    93282118    Evert Figueroa Collado                      9384            0.00    Emergencia
+ 35)    93939698    Enrique Jorge Durand Valverde               8009            0.00    Emergencia
+ 36)    99774549    Rolando Solis Chung                         5152            0.00    Emergencia
+ 37)    99891737    Christian Paredes Patino                    8654            0.00    Emergencia
+ 38)    20688048    Humberto Alfonso Amezquita Contreras        5291          189.30    Urgencia
+ 39)    22679759    Francisco Arana Rondon                      5602          687.24    Urgencia
+ 40)    33647417    Wilmer Saenz Aranda                         8654          160.56    Urgencia
+ 41)    34417318    Delia Estefania Cabrera Moreno              5291           69.39    Urgencia
+ 42)    34697743    Madeleine Wong Martel                       2315           38.53    Urgencia
+ 43)    35852072    Beatriz Henriquez Espino                    6720          180.70    Urgencia
+ 44)    36471787    Annie Lourdes Merel Salazar                 5291          426.09    Urgencia
+ 45)    36803222    Ofelia Carmen Mercado Caro                  2315          323.90    Urgencia
+ 46)    39335774    Victoria Fiorella Cuba Pomajambo            6720           79.40    Urgencia
+ 47)    40730725    Janet Cinthia Aranda Minaya                 5291          117.58    Urgencia
+ 48)    41964357    Virginia Martha Salamanca Vega              5602          235.29    Urgencia
+ 49)    45914393    Maria Heli Arroyo Gordillo                  3886          456.71    Urgencia
+ 50)    46489838    Yliana Flor Ortiz Guevara                   8654          180.73    Urgencia
+ 51)    49357767    Juan Prado Vera                             6720           23.72    Urgencia
+ 52)    51465986    Carola Tatiana Loyola Casanova              3886          569.45    Urgencia
+ 53)    51642949    Magali Silvana Diaz Antezano                5291          233.83    Urgencia
+ 54)    53420926    Milagros Vilcara Gavidia                    5291          410.26    Urgencia
+ 55)    54149342    Teresa Delia Antezano Segura                9384          418.77    Urgencia
+ 56)    54815159    Annie Ofelia Asmad Acuna                    2315          237.11    Urgencia
+ 57)    56052414    Edilberto Jesus Mori Suarez                 9384          150.00    Urgencia
+ 58)    57112777    Emilio Emigdio Gonzales Aguirre             5152           53.50    Urgencia
+ 59)    57182371    Edgard Henry Velasquez Huayanay             3886          889.65    Urgencia
+ 60)    60300808    Jaime Julian Shirakawa Florian              5291          143.59    Urgencia
+ 61)    61061535    Guillermo Edric Cabrera Canales             5152           34.07    Urgencia
+ 62)    62287143    Cesar Adolfo Inga Flores                    5291          257.03    Urgencia
+ 63)    68114999    Williams Justino Cruz                       3886          396.85    Urgencia
+ 64)    68269451    Jorge Alfaro Ayala                          9384          334.84    Urgencia
+ 65)    70528214    Raul Collado Villa                          5291           65.51    Urgencia
+ 66)    73642310    Alfonso Waldemar Cabello Lam                9384          119.11    Urgencia
+ 67)    74635922    Delia Zarate Urbina                         6720           78.85    Urgencia
+ 68)    80694546    Madeleine Yliana Miyake Merel               5291           39.87    Urgencia
+ 69)    81539774    Alonso Florencio Coronado                   9384          290.85    Urgencia
+ 70)    86988155    Delia Lozada Forzani                        8654          440.66    Urgencia
+ 71)    89086443    Carmen Zamora Cabrera                       2315          240.58    Urgencia
+ 72)    93961840    Emigdio Francisco Escalante Espino          3886          446.37    Urgencia
+ 73)    95019198    Felicita Erika Del Castillo Chung           8654          284.78    Urgencia
+ 74)    95436102    Javier Edgard Landa Cabrera                 3886          355.71    Urgencia
+ 75)    95656771    Felicita Valentina Lozada Arguedas          5152           79.87    Urgencia
+ 76)    12484697    Angel Shirakawa Ortega                      6720          121.43    Ambulatorio
+ 77)    13633991    Alexander Portugal Raffo                    5152           72.45    Ambulatorio
+ 78)    15290194    David Edric Cerna Iparraguirre              6720           46.60    Ambulatorio
+ 79)    17299012    Sandro Arturo Piscoya Lee                   8654          679.77    Ambulatorio
+ 80)    19528702    Luz Sofia Jauregui Bravo                    5602          789.59    Ambulatorio
+ 81)    20371464    Felicita Villegas Leiva                     5152           81.76    Ambulatorio
+ 82)    20941063    Miguel Calixto Torres                       8009           58.69    Ambulatorio
+ 83)    22598563    Alonso Forzani Caro                         2315          308.93    Ambulatorio
+ 84)    25062013    Jair Arturo Mendoza Florencio               9384          326.05    Ambulatorio
+ 85)    27709566    Jose Rolando Cerna Hijar                    5602          623.80    Ambulatorio
+ 86)    28048124    Delicia Norabuena Zegarra                   8654          635.88    Ambulatorio
+ 87)    28992638    Eloy Jaime Ortega Landeo                    3886          371.61    Ambulatorio
+ 88)    30246960    Madeleine Shirakawa Miranda                 8654          137.72    Ambulatorio
+ 89)    32538825    Maribel Vizcardo Sinche                     3886          804.75    Ambulatorio
+ 90)    34571095    Ines Sam Yallico                            6720          170.05    Ambulatorio
+ 91)    35606314    Rolando Castro Suarez                       5152           86.64    Ambulatorio
+ 92)    37653308    Cinthia Milena Zegarra Cabello              2315           80.73    Ambulatorio
+ 93)    38639370    Johan Enrique Ayala Zevallos                6720          237.33    Ambulatorio
+ 94)    40729422    Miguel Alex Landeo Estrada                  8654          198.28    Ambulatorio
+ 95)    43810566    Francisco Zimic Salas                       5602          264.13    Ambulatorio
+ 96)    45201670    Rocio Yolanda Acuna Yino                    8654          717.38    Ambulatorio
+ 97)    55007531    Surami Heli Preciado Pinto                  8009           79.67    Ambulatorio
+ 98)    59596317    Edward Reyes Tang                           5152           50.83    Ambulatorio
+ 99)    60543714    Valentina Rocio Aquino Toro                 6720          259.38    Ambulatorio
+100)    61741647    Valentina Paula Urbina Antezano             5602          168.29    Ambulatorio
+101)    62126128    Javier Daniel Auris Zimic                   2315          355.18    Ambulatorio
+102)    64217731    Delicia Rosa Arca Leiva                     8009          208.80    Ambulatorio
+103)    65900901    Rosario Maribel Yep Zavaleta                2315          200.51    Ambulatorio
+104)    65912822    Ronal Cortez Mercado                        8654          257.05    Ambulatorio
+105)    66039166    Ines Adria Escalante Rojas                  5291          168.79    Ambulatorio
+106)    68509985    Fiorella Erika Florencio Polo               6720          125.56    Ambulatorio
+107)    69813995    Glenda Cabrera Mori                         2315           79.09    Ambulatorio
+108)    71422479    Alberto De La Haza Cabrera                  8009           87.43    Ambulatorio
+109)    72330000    Waldemar Edgard Durand Meza                 8009          205.96    Ambulatorio
+110)    74713744    Blanca Luz Acuna Ayllon                     2315          256.37    Ambulatorio
+111)    75100362    Alex Henriquez Portugal                     2315          136.84    Ambulatorio
+112)    77478682    Marina Natalia Garcia Inga                  5602          602.16    Ambulatorio
+113)    79100967    Wilver Alfonso Rivero Cortez                8009           91.10    Ambulatorio
+114)    81005191    Estefania Zegarra Casanova                  2315          333.47    Ambulatorio
+115)    83933477    Rosario Tabori Arias                        9384          594.85    Ambulatorio
+116)    91187814    Virginia Irma Benavente Ayala               5291          218.15    Ambulatorio
+117)    92275859    Roberto Infantes Hernandez                  3886          387.96    Ambulatorio
+118)    93882509    David Carlos Perez Antezano                 6720          164.93    Ambulatorio
+119)    94683380    Adria Sueldo Sedano                         3886          477.26    Ambulatorio
+120)    95062219    Lourdes Carmela Yallico Paredes             6720          113.46    Ambulatorio
+121)    97601811    Giovana Mejia Zegarra                       5602          597.62    Ambulatorio
+122)    98205039    Teresa Teresa Martel Mercado                5152           41.44    Ambulatorio
+========================================================================================================================
+Total cobrado: 22816.00

@@ -1,0 +1,17 @@
+Medico: Zamora/Cabrera/Carmen
+Codigo: EN4313
+Especialidad: Endocrinologia
+Honorarios por cita: 445.12
+==================================================
+Pacientes atendidos:
+--------------------------------------------------
+No.  Fecha       Paciente  Pago      Seguro  
+1)   17/01/2020  806874       53.10    392.02
+2)   12/02/2020  948643       99.75    345.37
+==================================================
+Pacientes por atender:
+--------------------------------------------------
+No.  Fecha       Paciente  
+==================================================
+Monto total recibido por pacientes:    152.85
+Monto a solicitar al seguro:           737.39

@@ -1,0 +1,5 @@
+EN4313   Zamora/Cabrera/Carmen   Endocrinologia   445.12
+13/01/2020    A    798429    Rocio/Ramirez    15.11
+17/01/2020    A    806874    Tatiana/Torres    11.93
+20/01/2020    R    647813    Heli/Coronel    65.71
+12/02/2020    R    948643    Carmela/Cortez    22.41
