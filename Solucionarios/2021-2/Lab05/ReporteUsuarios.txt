@@ -1,0 +1,29 @@
+CARNE     TIPO    NOMBRE
+17750908  E       Hernandez Barrios Emilio
+26916299  E       Diaz Antezano Magali Silvana 
+14268463  E       Raffo Chung Adria Gloria
+37500242  E       Vasquez Paz Alex Martin
+61212473  A       Castro Suarez Rolando
+65071478  E       Mejia Diaz Blanca Milagros
+96056368  A       Pasquel Quio Surami Janet
+99215341  E       Raffo Arias Surami Annie
+33958767  A       Aquino Toro Valentina Rocio
+72832218  A       Corrales Tsukazan Irma Lourdes
+63602514  A       Auris Zimic Javier Daniel
+49516360  D       Delgado Gonzales Guillermo Alfonso
+15129661  E       Wong Martel Madeleine
+87804471  A       Cerna Durand Martin
+37751890  D       Shirakawa Miranda Madeleine
+66152145  E       Salas Aguero Daniel
+33115577  E       Chumpitaz Iberos Ronal
+55917355  A       Valverde Flores Irma Ydali
+77001234  D       Diaz Correa Irma Virginia
+61039260  D       Mejia De La Haza Francisco Edgar
+54393647  A       Norabuena Preciado Cinthia
+45834351  A       Velasquez Huayanay Edgard Henry
+11750801  E       Shirakawa Ortega Angel
+83265244  D       Pairazaman Alamo Moises Miguel
+35030611  E       Inga Flores Cesar Adolfo
+50860318  E       Prado Vergel Carlos Julian
+81082011  D       Arroyo Gordillo Maria Heli
+92240876  E       Vega Garcia Janet Rebeca

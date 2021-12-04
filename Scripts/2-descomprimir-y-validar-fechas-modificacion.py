@@ -87,7 +87,7 @@ def save(students):
 		writer.writerows(students)
 	# Imprimir mensaje de confirmación
 	print('Se encontraron varias incidencias.')
-	print('Revise el archivo "{0}" para más detalles.'.format(filename))
+	print('Revise el archivo', filename, 'para más detalles.')
 
 if __name__ == '__main__':
 	main()

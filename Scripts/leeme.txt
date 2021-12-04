@@ -1,0 +1,47 @@
+Este script realiza varios procesos que facilitan la corrección de los trabajos
+subidos por los alumnos a través de la plataforma Paideia (la cual está basada
+en el LMS "Moodle"). Se realizan las siguientes actividades, en este orden:
+
+- Cambiar los nombres de las carpetas de los alumnos, de aquel generado por la
+  plataforma, a un formato ordenado de la forma [código] - [nombre].
+
+- Descomprimir los archivos ZIP subidos por los alumnos.
+
+- Verificar si existen archivos de interés contenidos en dichas carpetas, cuya
+  última fecha de modificación esté fuera del rango correspondiente para
+  resolver el laboratorio.
+
+- Verificar si existen comentarios autogenerados en los archivos de interés
+  contenidos en dichas carpetas, que denoten que se han creado fuera del rango
+  de fechas/horas correspondiente para resolver el laboratorio, por ejemplo:
+
+  /**
+   * Archivo: main.c
+   * Alumno:  Juan Jesús Pérez Flores (20201234)
+   *
+   * Creado el 11 de mayo de 2020, 7:55 p.m.
+   */
+
+Modo de uso: python corregir.py <alumnos.csv> <directorio> <fecha> <hora_inicio>
+             <hora_fin> [reporte.csv]
+
+Ejemplo: python corregir.py H101.csv INF101\2020-1\Lab1\H101
+
+* <alumnos.csv> es un archivo CSV con los datos principales de los alumnos.
+  El archivo debe contener como mínimo el código y nombre de cada alumno:
+
+  Alumno,Nombre,E-mail
+  20201234,"PEREZ FLORES, JUAN JESUS",juan.perez@mail.com
+  20205678,"FLORES DEL CAMPO, ZACARIAS",zacarias.flores@mail.com
+
+* <directorio> es un directorio padre que contiene las carpetas de los trabajos
+  de cada alumno. Las carpetas contenidas en el directorio deben tener nombres
+  similares al siguiente:
+
+  FLORES DEL CAMPO, ZACARIAS_2345678_assignsubmission_file_
+  PEREZ FLORES, JUAN JESUS_1234567_assignsubmission_file_
+
+* Las carpetas serán cambiadas de nombre al siguiente formato:
+
+  20201234 - PEREZ FLORES, JUAN JESUS
+  20205678 - FLORES DEL CAMPO, ZACARIAS

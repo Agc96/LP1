@@ -1,9 +1,23 @@
 """
-Este script permite cambiar los nombres de las carpetas de los trabajos subidos
-por los alumnos a través de Paideia (Moodle), en vez del nombre generado por la
-plataforma, a un formato ordenado de la forma [código] - [nombre].
+Este script realiza varios procesos que facilitan la corrección de los trabajos
+subidos por los alumnos a través de la plataforma Paideia (la cual está basada
+en el LMS "Moodle"). Se realizan las siguientes actividades, en este orden:
 
-Modo de uso: {python} {module} <alumnos.csv> <directorio>
+- Cambiar los nombres de las carpetas de los alumnos, de aquel generado por la
+  plataforma, a un formato ordenado de la forma [código] - [nombre].
+
+- Descomprimir los archivos ZIP subidos por los alumnos.
+
+- Verificar si existen archivos de interés contenidos en dichas carpetas, cuya
+  última fecha de modificación esté fuera del rango correspondiente para
+  resolver el laboratorio.
+
+- Verificar si existen comentarios autogenerados en los archivos de interés
+  contenidos en dichas carpetas, que denoten que se han creado fuera del rango
+  de fechas/horas correspondiente para resolver el laboratorio.
+
+Modo de uso: {python} {module} <alumnos.csv> <directorio> <fecha> <hora_inicio>
+             <hora_fin> [reporte.csv]
 
 Ejemplo: {python} {module} H101.csv INF101\\2020-1\\Lab1\\H101
 
@@ -12,7 +26,7 @@ Ejemplo: {python} {module} H101.csv INF101\\2020-1\\Lab1\\H101
 
   Alumno,Nombre,E-mail
   20201234,"PEREZ FLORES, JUAN JESUS",juan.perez@mail.com
-  20205678,"FLORES DEL CAMPO, ZACARIAS",zflores@mail.com
+  20205678,"FLORES DEL CAMPO, ZACARIAS",zacarias.flores@mail.com
 
 * <directorio> es un directorio padre que contiene las carpetas de los trabajos
   de cada alumno. Las carpetas contenidas en el directorio deben tener nombres
@@ -64,7 +78,10 @@ def main():
 def usage():
   # Imprimir modo de uso
   python = os.path.basename(sys.executable)
-  sys.stderr.write(__doc__.format(python=python, module=sys.argv[0]))
+  try:
+    os.system('more leeme.txt')
+  except:
+    sys.stderr.write(__doc__.format(python=python, module=sys.argv[0]))
   # Indicar que el programa no terminó correctamente
   sys.exit(1)
 
