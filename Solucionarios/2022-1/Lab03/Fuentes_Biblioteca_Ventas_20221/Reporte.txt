@@ -1,0 +1,43 @@
+                             PRODUCTOS ALMACENADOS
+No.  Codigo                Descripcion               Precio unitario   Descuento
+ 1)  ZWH973  YOGHURT_P_BEBER_FRUGGIS_FRESA_150GR           5.29           0.00
+ 2)  TBZ694  GELATINA_SABOR_PIÑA_LIGHT_LA_GLORIA_25GR      8.51          12.04
+ 3)  CEO644  CHAMYTO_BIG_114ML                             7.58           0.00
+ 4)  BXT767  GALLETAS_SUAVICREMAS_FRESA_158GR             13.85           0.00
+ 5)  PKY423  BEBIDA_NARANJA_BEBERE_470ML                   6.72          13.59
+
+   DNI                   Nombre
+71984468  IPARRAGUIRRE_VILLEGAS_NICOLAS_EDILBERTO
+Cliente frecuente
+No.  Codigo    Cantidad       Fecha
+ 1)  ZWH973      1.12      06/10/2019
+Monto total comprado: 5.92
+
+   DNI                   Nombre
+29847168  ALDAVE_ZEVALLOS_ROSARIO
+Cliente muy frecuente
+No.  Codigo    Cantidad       Fecha
+ 1)  TBZ694      3.79      01/01/2021
+Monto total comprado: 28.37
+
+   DNI                   Nombre
+79475585  RETTO_ARCA_ANNIE_MAGDA
+Cliente muy frecuente
+No.  Codigo    Cantidad       Fecha
+ 1)  CEO644      3.80      14/05/2020
+Monto total comprado: 28.80
+
+   DNI                   Nombre
+91897732  GAMARRA_ALCOCER_VIRGINIA
+Cliente nuevo
+No.  Codigo    Cantidad       Fecha
+ 1)  BXT767      6.44      20/07/2020
+Monto total comprado: 89.19
+
+   DNI                   Nombre
+33397650  RONDON_EGUSQUIZA_CARMELA_VALENTINA
+Cliente muy frecuente
+No.  Codigo    Cantidad       Fecha
+ 1)  PKY423     11.30      17/08/2019
+Monto total comprado: 65.62
+

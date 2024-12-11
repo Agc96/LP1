@@ -46,3 +46,11 @@
 
 ### Correcciones ###
 Correcciones/
+Corregidos/
+Originales/
+*.xlsx
+*.xlsm
+*.zip
+
+### Variables de entorno ###
+.env

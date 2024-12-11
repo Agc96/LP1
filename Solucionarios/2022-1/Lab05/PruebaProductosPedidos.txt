@@ -1,0 +1,283 @@
+LISTADO DE PRODUCTOS
+================================================================================
+CODIGO    DESCRIPCION                                      PRECIO      DESCUENTO
+FAY216    LECHE LALA SEMI DESLACTOSADA 1LT                  16.98           0.00
+MDA345    YOGHURT NATURAL LIGHT LALA 1KG                    25.86           4.70
+WCF779    LICUADO LALA CIRUELA PASA Y NUEZ 240GR            10.89           5.13
+FRM097    BEBIDA NARANJA BEBERE 470ML                        6.72          13.59
+LPP315    CHILE PUYA DE LOS ALTOS 100GR                     10.85           0.00
+HDH878    DONAS BIMBO 157.5GR 6 PZA PROMOCION               10.77           8.10
+RSU947    TE DE MANZANILLA NEBO 24 1GR                      13.81           0.00
+XFA701    FLAN LALA SABOR VAINILLA 100GR                     5.88           0.00
+DJC285    SEMILLA DE ACELGA MINA                            15.07           0.00
+TVM516    REBANADAS BIMBO 110GR                              8.73           7.42
+YHH034    BEBIDA DE SOYA ADES GUANABANA 946ML               18.07           8.37
+GKY372    GALLETAS CREMAX DE NIEVE VAINILLA 416GR           26.76           7.99
+OJC654    YOGHURT CON DURAZNO LALA 1KG                      25.15           0.00
+KPJ711    PALOMITAS POFETS FLAMIN HOT 28GR                   6.88           0.00
+JGP724    YOGHURT P BEBER FRUGGIS FRESA 150GR                5.29           0.00
+CPB299    POLVO PARA HORNEAR REXAL 15KILOS                 350.22           5.67
+DMO873    SANDWICH COMBINADA 3 FLORES 150GR                  8.23           3.18
+BNE007    CHAMYTO BIG 114ML                                  7.58           0.00
+CCQ309    CHILE PASILLA MULATO LARGO 100GR                  18.19          12.13
+WRW928    YOGHURT P BEBER LACTIGURT COCO 250G                9.87           0.00
+RRS386    ZENZO BAR FRESA 66GR                               4.05           9.41
+WIO334    PAPAYA                                            20.99           0.00
+VYH871    NESQUIK CHOCOLATE 200GR                           13.51           0.00
+ZYR094    VUALA CAJETA 84GR                                  5.25          11.43
+SMQ815    CONDIMENTO PARA BIRRIA CUCU.                      80.95          10.56
+RTU236    PAN DE MUERTO GRANDE                              25.42           2.63
+CTR563    VAINILLA MOLINA 500ML                             19.26          13.42
+TQU476    NESCAFE DOLCA 200GR                               42.01           6.26
+TCJ670    YOGHURT FRESA NESTLE 1KG                          23.27          12.73
+JGS495    MAIZENA NATURAL 750GR                             43.62           0.00
+AGB147    PALOMITAS POFETS FLAMIN HOT 28GR                   6.88           0.00
+EPT862    PINGUINOS MARINELA 40GR                            4.40           7.02
+LOA323    GELATINA SABOR PIÑA LIGHT LA GLORIA 25GR           8.51          12.04
+GFW165    YOGHURT CON DURAZNO LALA 1KG                      25.15           0.00
+VYG314    GELATINA DANY LIMON 125GR                          5.38           0.00
+OTD480    FRIJOLES REFRITOS ISADORA 430GR                   13.28           1.92
+RAV186    GALLETAS SUAVICREMAS FRESA 158GR                  13.85           0.00
+WXZ268    ALUBIAS ANTIQUA 540GR                             17.85           8.19
+ZNQ329    JUGO DE UVA MINUTE MAID 200ML                      4.39           8.24
+RGI240    BARRA DE HOGUELAS DE ARROZ Y TRIGO 24 GR           4.83           3.33
+YXQ457    LIMONADA H2O 250ML                                 8.58           4.82
+EWQ268    PALOMITAS POFETS FLAMIN HOT 28GR                   6.88           0.00
+ARQ044    MANGO ECUATORIANO                                 16.50          11.83
+LYQ603    NARANJA SIN SEMILLA                               10.24           0.00
+TYD312    NESCAFE DOLCA 200GR                               42.01           6.26
+ISG853    LECHE EN POLVO NIDO KINDER 400GR                  39.84           2.09
+TOP017    CROQUETAS PEDIGREE BENEFUL 10.1KG                270.88          12.84
+YNM350    PASTILLA PEPTO BISMOL                              3.15           2.41
+MWC081    YOGHURT NATURAL LIGHT LALA 1KG                    25.86           4.70
+GIX433    AGUA NIAGARA 500ML                                 5.64           0.94
+EZX531    ACHIOTE MARIN 130GR                                8.71           0.00
+KST413    CROQUETAS PEDIGREE BENEFUL 10.1KG                270.88          12.84
+JYF824    TANJERINA                                          5.58           0.00
+WNV654    PALOMITAS POFETS FLAMIN HOT 28GR                   6.88           0.00
+VNB505    TANJERINA                                          5.58           0.00
+BNG728    ACHIOTE LA EXTRA 1KG                              45.54           6.77
+UMH316    TOSTILOCOS PREPARADOS                             25.53           4.83
+GOV883    PINGUINOS MARINELA 40GR                            4.40           7.02
+OJO070    CHILES CHIPOTLES LA COSTENA 380GR                 18.53           0.00
+EZJ651    PAPA EN CUBOS DEL FUERTE 12 380GR.                 9.53           0.00
+TYP962    LICUADO LALA CIRUELA PASA Y NUEZ 240GR            10.89           5.13
+FDQ385    CHILE PASILLA MULATO LARGO 100GR                  18.19          12.13
+GJX975    CORAZONES DE OREJONA PZA                          10.79          14.32
+XIL352    YOGHURT P BEBER LACTIGURT COCO 250G                9.87           0.00
+MPS752    MEDIA CREMA NESTLE 1LT                            40.80           1.35
+QKA145    NARANJA SIN SEMILLA                               10.24           0.00
+IKV163    PAPA EN CUBOS DEL FUERTE 12 380GR.                 9.53           0.00
+GZM689    TANJERINA                                          5.58           0.00
+BPY520    TORTILLAS DE MAIZ 1KG                             14.93           7.91
+EAP247    TORTILLAS DE MAIZ 1KG                             14.93           7.91
+QAK642    SOPA MARUCHAN CAMARON 71GR                         7.68          10.53
+PIZ883    CORAZONES DE OREJONA PZA                          10.79          14.32
+QXS354    PINGUINOS MARINELA 40GR                            4.40           7.02
+KWQ868    PAPATINAS CHILIX 25GR                              4.71           0.00
+LSF152    CONDIMENTO PARA BIRRIA CUCU.                      80.95          10.56
+TUC054    ZENZO BAR FRESA 66GR                               4.05           9.41
+SRT338    MIEL DE ABEJA VIRGEN 1KG                          30.92           0.21
+PUU204    GALLETAS LORS SNACKS MARINELA 75GR                 9.54           8.69
+SYR212    OREO C TROZOS DE CHOCOLATE 473ML                  25.95           0.00
+CNI156    CONCHAS BIMBO 120GR                               15.55           0.00
+PKJ721    SOPA MARUCHAN POLLO 12 64GR                       66.70           0.00
+LTH458    SOPA MARUCHAN POLLO 12 64GR                       66.70           0.00
+BPO839    SABRITAS ORIGINAL SAL 490GR                       63.30           0.00
+ORQ738    SOPA MARUCHAN POLLO 12 64GR                       66.70           0.00
+DYT695    CORNETO CLASSIC LOVE                              19.45          10.33
+CFS987    SALSA TERIYAKI KIKKOMAN B.EN GRASA 296ML          14.41           0.00
+IDL789    GELATINA SABOR PIÑA LIGHT LA GLORIA 25GR           8.51          12.04
+VNU061    MAIZ POZOLERO TEASDALE 3.06KG                     50.55           0.00
+ZQW769    GELATINA DANY LIMON 125GR                          5.38           0.00
+NUD804    PAPA EN CUBOS DEL FUERTE 12 380GR.                 9.53           0.00
+IQR972    SABRITAS ORIGINAL SAL 490GR                       63.30           0.00
+QNX158    TORTILLAS DE HARINA DEL HOGAR 15PZAS              17.44           0.00
+QSL689    LECHUGA ROMANA                                    20.79           0.00
+QGJ663    PASTILLA PEPTO BISMOL                              3.15           2.41
+FLV982    ZAPOTE                                            28.39           3.71
+AFG743    TOSTADAS HORNEADAS DEL HOGAR 210GR                11.34           0.00
+JEU439    SOPA MARUCHAN CAMARON 71GR                         7.68          10.53
+AKL299    HARINA DE ARROZ DULCE 454GR                       21.13           0.00
+MLU539    ANIS VERDE                                        95.95           0.00
+BJZ001    FLAN LALA SABOR VAINILLA 100GR                     5.88           0.00
+FOL644    SAL BAJA PACIFIC BOLSA 1KGR                        5.26           5.11
+NTP470    SALSA DE CHILE PERON PURHEPECHA 260GR             14.47          11.51
+SDA460    PINGUINOS MARINELA 40GR                            4.40           7.02
+FLV754    EMPANIZADOR CONTADINA TRADICIONAL 283GR           16.50           0.00
+RTI494    MEDIA CREMA NESTLE 1LT                            40.80           1.35
+APF705    GALLETAS CREMAX DE NIEVE VAINILLA 416GR           26.76           7.99
+ZYK783    VINAGRE BLANCO CLEMENTE JACQUES 3.8LT             24.29           0.00
+ZGJ107    ALUBIAS ANTIQUA 540GR                             17.85           8.19
+GTH818    SAZONADOR SPECIAL VALUE 453G                      28.24           0.00
+LON946    YOGHURT LALA FRESA 240GR                           6.68           7.62
+LOT999    YOGHURT P BEBER FRUGGIS FRESA 150GR                5.29           0.00
+EIX109    ELOTE DORADO DEL MONTE 225GR                       5.92           0.00
+CPY121    NESQUIK CHOCOLATE 200GR                           13.51           0.00
+YVX708    CHAMPINIONES TROCITOS MONTEBLANCO 380GR           18.99           0.82
+URY351    JUGO DE UVA MINUTE MAID 200ML                      4.39           8.24
+IOF258    CHAMPINIONES TROCITOS MONTEBLANCO 380GR           18.99           0.82
+JZF150    YOGHURT FRESA NESTLE 1KG                          23.27          12.73
+EDK831    SABRITAS ORIGINAL SAL 490GR                       63.30           0.00
+QDA084    EMPANIZADOR CONTADINA TRADICIONAL 283GR           16.50           0.00
+RMD500    YOGHURT FRESA NESTLE 1KG                          23.27          12.73
+XQL366    TE LIPTON NATURAL 100 226GR                       71.68          14.57
+OEN154    ZENZO BAR FRESA 66GR                               4.05           9.41
+VIX712    SABRITAS ORIGINAL SAL 490GR                       63.30           0.00
+LVZ379    LICUADO LALA CIRUELA PASA Y NUEZ 240GR            10.89           5.13
+ABL244    LECHE LALA SEMI DESLACTOSADA 1LT                  16.98           0.00
+XLJ218    YOGHURT FRESA NESTLE 1KG                          23.27          12.73
+TSB522    CORAZONES DE OREJONA PZA                          10.79          14.32
+CAB090    ELOTE DORADO DEL MONTE 225GR                       5.92           0.00
+NBF044    MOLE SURTIDO CON ESPECIAS 250GR                   25.11           0.00
+RMK547    MAIZ POZOLERO TEASDALE 3.06KG                     50.55           0.00
+IYS769    LECHE YAQUI DESLACTOSADA 1LT                      19.31           0.00
+UKO483    YOGHURT NATURAL LIGHT LALA 1KG                    25.86           4.70
+TTB188    SEMILLAS DE CHILE HABANEROMANZANO.3GR             15.31           7.75
+BKG451    PAN DE MUERTO GRANDE                              25.42           2.63
+UFC690    FRIJOLES PUERCOS LILIS 500GR                      16.26           8.22
+OLT478    TAMPICO CITRUS PUNCH 3.78LTS                      29.35           4.30
+EKL497    YOGHURT FRESA NESTLE 1KG                          23.27          12.73
+ULW068    CHURROMAIS CON LIMON 38GR                          5.62           1.17
+
+LISTADO DE PEDIDOS
+================================================================================
+DNI            CODIGO         FECHA          CANTIDAD
+71984468       JGP724         06/10/2019           17
+71984468       MPS752         07/08/2019           15
+71984468       BJZ001         11/02/2022           12
+71984468       LON946         28/11/2021           17
+71984468       YVX708         05/03/2021           20
+71984468       EDK831         26/11/2020           10
+29847168       LOA323         01/01/2021           21
+29847168       TOP017         02/08/2021            1
+29847168       EAP247         04/03/2020           18
+29847168       QAK642         26/06/2020           11
+29847168       PKJ721         23/04/2021           25
+29847168       SDA460         30/12/2019           20
+29847168       IYS769         02/11/2021           18
+79475585       BNE007         14/05/2020           16
+79475585       ZYR094         07/09/2020           17
+79475585       AGB147         16/12/2019           19
+79475585       KWQ868         24/01/2021           20
+79475585       RTI494         18/07/2020           14
+79475585       URY351         30/04/2020            2
+91897732       RAV186         20/07/2020           13
+91897732       IKV163         09/11/2021           22
+91897732       QXS354         09/03/2021           19
+91897732       LSF152         04/10/2021            1
+91897732       LTH458         05/07/2021           15
+91897732       VIX712         17/12/2021           18
+91897732       EKL497         13/03/2019           23
+33397650       FRM097         17/08/2019           11
+33397650       TVM516         13/12/2020           13
+33397650       CPB299         01/01/2019            2
+33397650       WIO334         07/10/2020           11
+33397650       RGI240         01/02/2019           14
+33397650       EWQ268         05/06/2019           24
+33397650       ISG853         29/07/2019           10
+33397650       KST413         28/06/2019           10
+33397650       EZJ651         26/12/2021           13
+33397650       IDL789         15/01/2021            7
+33397650       XQL366         24/03/2021           13
+33397650       UKO483         11/11/2021            5
+83236386       WNV654         15/08/2019           23
+83236386       QSL689         03/08/2019           22
+83236386       LOT999         11/09/2020           16
+83236386       EIX109         13/07/2019           17
+83236386       CPY121         20/10/2021            5
+83236386       IOF258         06/08/2020            5
+32821689       MDA345         19/04/2020            8
+32821689       GIX433         28/04/2020            4
+32821689       EZX531         19/10/2021            5
+32821689       JYF824         10/10/2020           16
+32821689       SYR212         01/01/2021            6
+32821689       OEN154         10/02/2020           16
+32821689       BKG451         01/07/2021           25
+45783712       YHH034         05/01/2019           23
+45783712       RRS386         01/07/2019           20
+45783712       OTD480         02/10/2020           21
+45783712       QKA145         27/09/2019            7
+45783712       QNX158         06/07/2020            9
+48184351       XFA701         02/02/2022           18
+48184351       EPT862         25/07/2019           17
+48184351       GFW165         29/03/2022           14
+48184351       TYD312         02/06/2019           25
+48184351       YNM350         31/12/2020           14
+48184351       FDQ385         29/09/2021           23
+48184351       NUD804         31/05/2020           23
+48184351       XLJ218         18/04/2019           15
+48184351       NBF044         17/04/2020            3
+33713901       WCF779         19/04/2020           19
+33713901       HDH878         02/09/2021           23
+33713901       GKY372         03/12/2019            8
+33713901       LYQ603         05/08/2020           12
+33713901       BPY520         26/01/2020            6
+33713901       ZGJ107         06/05/2019           13
+33713901       QDA084         19/03/2019            4
+33713901       TSB522         02/12/2019            5
+76388967       WRW928         09/05/2020           13
+76388967       SMQ815         21/04/2019            4
+76388967       TYP962         29/11/2020           10
+76388967       ORQ738         03/02/2019           20
+76388967       ZYK783         05/01/2019           20
+81114108       RTU236         06/10/2020           24
+81114108       JGS495         05/06/2020           22
+81114108       GOV883         10/07/2019           21
+81114108       XIL352         24/01/2022            1
+81114108       TUC054         05/02/2022           20
+81114108       ZQW769         05/11/2020            9
+81114108       QGJ663         09/03/2020            9
+81114108       FLV982         21/09/2020           16
+81114108       FOL644         13/07/2021            9
+81114108       JZF150         19/05/2019           14
+57263719       KPJ711         01/01/2022           24
+57263719       ZNQ329         19/05/2020           13
+57263719       GZM689         25/09/2020           20
+57263719       CNI156         22/11/2021           16
+57263719       CFS987         06/01/2022            7
+57263719       CAB090         27/07/2020           14
+57263719       RMK547         10/10/2021            7
+79140840       LPP315         15/04/2021           12
+79140840       CTR563         20/05/2021            3
+79140840       TCJ670         18/05/2019           14
+79140840       BPO839         28/05/2021            6
+79140840       VNU061         17/07/2021           21
+79140840       AFG743         21/02/2022            6
+79140840       RMD500         29/05/2019           15
+71378466       FAY216         26/10/2020           19
+71378466       MWC081         19/03/2020           13
+71378466       PUU204         17/01/2021            4
+71378466       AKL299         04/01/2021           19
+71378466       LVZ379         19/12/2021           22
+71378466       TTB188         29/05/2020           24
+71378466       ULW068         24/04/2019           13
+17913944       DMO873         20/10/2019            9
+17913944       VYH871         29/11/2021           19
+17913944       TQU476         28/12/2019           14
+17913944       VYG314         23/09/2019            7
+17913944       YXQ457         13/08/2020           25
+17913944       UMH316         15/10/2020            1
+17913944       SRT338         22/04/2021           12
+17913944       DYT695         29/11/2020            1
+17913944       IQR972         05/02/2021           15
+17913944       ABL244         04/07/2021           14
+17913944       OLT478         22/03/2021           10
+62566305       CCQ309         23/11/2020            4
+62566305       GJX975         27/02/2021            2
+62566305       NTP470         30/07/2020            3
+62566305       APF705         23/01/2022           17
+46462527       RSU947         18/10/2019           19
+46462527       DJC285         26/07/2019           14
+46462527       OJC654         14/07/2020           14
+46462527       WXZ268         16/08/2020            6
+46462527       ARQ044         09/10/2019           21
+46462527       VNB505         12/10/2019            6
+46462527       BNG728         27/12/2021            7
+46462527       OJO070         03/10/2021           19
+46462527       PIZ883         16/03/2021            2
+46462527       JEU439         06/06/2021           13
+46462527       MLU539         29/05/2021           12
+46462527       FLV754         12/03/2020            2
+46462527       GTH818         27/05/2019            9
+46462527       UFC690         23/08/2021           19

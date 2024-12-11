@@ -1,0 +1,609 @@
+                                          EMPRESA PRESTADORA DE SALUD EPS-LP1
+========================================================================================================================
+                                                    STAFF DE MEDICOS
+                         CODIGO    NOMBRE                                  ESPECIALIDAD
+                     1)  LF50611   EDGAR MUNOZ VERGEL                      Urologia
+                     2)  JY15092   LUZ SOFIA JAUREGUI BRAVO                Dermatologia
+                     3)  YM60184   SURAMI HELI PRECIADO PINTO              Traumatologia
+                     4)  EG90798   GIOVANA MEJIA ZEGARRA                   Traumatologia
+                     5)  LI80786   ROSARIO MARIBEL YEP ZAVALETA            Ginecologia
+                     6)  PX70233   CINTHIA MILENA ZEGARRA CABELLO          Ginecologia
+                     7)  RY89213   DELIA ZARATE URBINA                     Gastroenterologia
+                     8)  EP90907   FIORELLA ERIKA FLORENCIO POLO           Dermatologia
+                     9)  RN60934   OFELIA CARMEN MERCADO CARO              Neumologia
+                    10)  KG14787   WALTER JOLAY CHUMPITAZ                  Traumatologia
+                    11)  ST60049   HUMBERTO ALBERTO VARGAS GUEVARA         Gastroenterologia
+                    12)  NI70269   DELICIA ARCA AQUINO                     Dermatologia
+                    13)  LZ53556   VALENTINA PAULA URBINA ANTEZANO         Pediatria
+                    14)  LK70612   ZKENIA IRMA CHUNG ZUNIGA                Traumatologia
+                    15)  IM64405   LOURDES CARMELA YALLICO PAREDES         Oftalmologia
+                    16)  KT90929   DELICIA ROSA ARCA LEIVA                 Oftalmologia
+                    17)  IH70367   DELIA ESTEFANIA CABRERA MORENO          Urologia
+                    18)  VJ18708   WILMER SAENZ ARANDA                     Ginecologia
+                    19)  RC80138   GUSTAVO ALONSO DEL CASTILLO MEJIA       Geriatria
+                    20)  PW35451   JAVIER EDGARD LANDA CABRERA             Pediatria
+                    21)  GO70992   OFELIA BEATRIZ MONTERO BOLANOS          Gastroenterologia
+                    22)  PY49768   MARINA NATALIA GARCIA INGA              Cardiologia
+                    23)  XN33687   BLANCA LUZ ACUNA AYLLON                 Oftalmologia
+                    24)  PJ70789   VICTORIA MILAGROS SHIRAKAWA SAONA       Pediatria
+                    25)  OW18262   EMILIO EMIGDIO GONZALES AGUIRRE         Urologia
+                    26)  BF14655   GLENDA CABRERA MORI                     Oncologia
+                    27)  IM80227   TERESA TERESA MARTEL MERCADO            Pediatria
+                    28)  JL34115   MIGUEL ALEX LANDEO ESTRADA              Cardiologia
+                    29)  MB80040   DAVID CARLOS PEREZ ANTEZANO             Endocrinologia
+                    30)  CQ25448   CARMEN ZAMORA CABRERA                   Endocrinologia
+                    31)  ZD40414   YLIANA FLOR ORTIZ GUEVARA               Ginecologia
+                    32)  EU90562   HUMBERTO ALFONSO AMEZQUITA CONTRERAS    Dermatologia
+                    33)  RQ91509   RAUL COLLADO VILLA                      Cardiologia
+                    34)  OL30557   JAIME JULIAN SHIRAKAWA FLORIAN          Neumologia
+                    35)  LE20189   FRANCISCO ZIMIC SALAS                   Endocrinologia
+                    36)  YR30082   ALFONSO WALDEMAR CABELLO LAM            Cardiologia
+                    37)  ES50718   ESTEFANIA ZEGARRA CASANOVA              Pediatria
+                    38)  HW52063   MILENA CINTHIA ZARATE ACUNA             Traumatologia
+                    39)  GY80063   VICTORIA FIORELLA CUBA POMAJAMBO        Gastroenterologia
+                    40)  JL19777   ROSARIO TABORI ARIAS                    Oftalmologia
+========================================================================================================================
+                                                 PACIENTES REGISTRADOS
+                         DNI       NOMBRE                        GASTOS POR MEDICINAS
+                     1)  43704548  Vizcardo Maribel                        538.90
+                     2)  36471787  Pena Glenda                             590.75
+                     3)  71422479  Lozada Felicita                         754.80
+                     4)  51465986  Sam Ines                                756.50
+                     5)  20371464  Lozada Heli                             918.85
+                     6)  36934113  Serrano Arturo                         1103.30
+                     7)  15290194  Hernandez Guillermo                    1344.70
+                     8)  85395219  Fuentes Patricia                        523.60
+                     9)  93961840  Pairazaman Tatiana                     1295.40
+                    10)  61061535  Solis Maria                             510.00
+                    11)  62126128  Durand Enrique                          966.45
+                    12)  54815159  Patino Delicia                         1225.70
+                    13)  91187814  Narvaez Jesus                           342.55
+                    14)  51642949  Miranda Alfonso                         872.95
+                    15)  45201670  Guevara Milena                          580.55
+                    16)  31284904  Sakaguchi Carlos                        335.75
+                    17)  93282118  Zambrano Ofelia                        1055.70
+                    18)  34697743  Ayala Ericka                            368.90
+                    19)  68114999  Rios Ines                               776.05
+                    20)  95656771  Raffo Rolando                           431.80
+                    21)  54149342  Leyva Diana                             870.40
+                    22)  99891737  Contreras Johana                       1026.80
+                    23)  93939698  Henriquez Silvana                       674.90
+                    24)  32538825  Hijar Martin                            384.20
+                    25)  63640178  Rodriguez Blanca                        392.70
+                    26)  35852072  Jauregui Victor                        1205.30
+                    27)  72330000  Vega Carmela                            761.60
+                    28)  80694546  Ramirez Karina                          413.95
+                    29)  81647285  Vega Henrry                             626.45
+                    30)  72973662  Vargas Daniel                           372.30
+                    31)  93231760  Zarate Alexander                        293.25
+                    32)  77324146  Moscoso Janet                          1077.80
+                    33)  51873364  Calixto Erick                           492.15
+                    34)  45914393  Lozada Antonio                          705.50
+                    35)  35347567  Sedano Elia                             277.95
+                    36)  34571095  Infantes Luis                           171.70
+                    37)  49357767  Solis Rolando                           469.20
+                    38)  13731806  Salamanca Virginia                      860.20
+                    39)  22679759  Bravo Janet                             310.25
+                    40)  94683380  Farfan Margot                           288.15
+                    41)  92275859  Egusquiza Doris                          34.00
+                    42)  35606314  Mercado Elia                            276.25
+                    43)  65912822  Camacho Ydali                           118.15
+                    44)  59561864  Rosemberg Julio                         153.00
+                    45)  59596317  Justino Virginia                        454.75
+                    46)  52313890  Rivero Wilver                           312.80
+                    47)  37282858  Soma Lourdes                            647.70
+                    48)  27709566  Ortiz Raul                              442.85
+                    49)  41964357  Arca Magali                             317.90
+                    50)  14956687  Luna Waldemar                            96.90
+                    51)  77440060  Escalante Emigdio                       662.15
+                    52)  62287143  Wong Beatriz                           1250.35
+                    53)  28992638  Trigueros Luz                           174.25
+                    54)  53420926  Prado Juan                              120.70
+                    55)  86988155  Cerna Cinthia                           585.65
+                    56)  90367684  Sinche Yvonne                           569.50
+                    57)  22598563  Sueldo Adria                            441.15
+                    58)  30246960  Escalante Ines                          411.40
+                    59)  58643376  Arroyo Natalia                          345.10
+                    60)  81539774  Alfaro Erick                             37.40
+                    61)  17299012  Suarez Amaru                            179.35
+                    62)  12484697  Diaz Enrique                            600.10
+                    63)  57182371  Moscoso Fiorella                        189.55
+                    64)  66039166  Chavez Johan                             58.65
+                    65)  68269451  Asmad Adria                             429.25
+                    66)  75100362  Arca Lucero                             193.80
+                    67)  66091742  Baca Milagros                           433.50
+========================================================================================================================
+                                                   MEDICINAS EN STOCK
+                         CODIGO    DESCRIPCION                             PRECIO
+                     1)  59121     DESLORATADINA 5MG 10T                    81.60
+                     2)  46919     VITAMINA C C20 TAB 100MG                  5.95
+                     3)  92517     ISOCONAZOL CR 20GR GI                    11.90
+                     4)  22232     LEVETIRACETAM                            69.70
+                     5)  26484     DILTIAZEM 30 TAB 30 MG                   29.75
+                     6)  76596     CEFADROXILO 250MG SUSP                    9.35
+                     7)  18672     TINIDAZOL 500MG 8T                       15.30
+                     8)  75565     MICONAZOL 20 GR CRA                      46.75
+                     9)  37007     DIFENHIDRAMINA 250MG JBE 120ML           47.60
+                    10)  22842     AMIKACINA 500MG C 1 AMP                  47.60
+                    11)  24522     LEVOFLOXACINO 500MG C 7 TAB              43.35
+                    12)  44253     PROGESTERONA+ESTRADIOL 50 5 AMP          36.55
+                    13)  68730     MELOXICAM 7 5 MG C 14                     0.85
+                    14)  31389     BETAMETASONA 4 MG ML                     52.70
+                    15)  92628     KETOPROFENO 100MG C15                    45.90
+                    16)  33390     CORTILONA CRA 30GR                       28.90
+                    17)  73174     VITAMINA P DIABETICOS 30T                41.65
+                    18)  30690     VITAMINAS EMBARAZO 9 MESES C30           41.65
+                    19)  39172     IBUPROFENO 400MG T10                     41.65
+                    20)  81960     CEFALEXINA 500MG C 20 CAP                81.60
+                    21)  27447     OXIDO DE ZINC TUBO PASTA 30GR            59.50
+                    22)  61039     NISTATINA GI C 12 TAB                    78.20
+                    23)  61211     OFLOXACINO 400 MG C 8                    78.20
+                    24)  17645     KETOKONAZOL CRA 30GR                     22.95
+                    25)  86476     KETOTIFENO C 30                          11.05
+                    26)  70024     METILDOPA 250 MG 30 TAB                  68.85
+                    27)  48244     CLORANFENICOL SOL OFT 10ML               25.50
+                    28)  77466     RAMIPRIL 16 TAB 5 MG                      5.95
+                    29)  30430     PRUEBA DE EMBARAZO                       22.10
+                    30)  58259     SULFADIAZINA DE PLATA CRA 28GR           85.00
+                    31)  96031     CETIRIZINA 10 MG TABS C 10               45.90
+                    32)  65536     NEOM POLIMIX GRAMIC 15 ML GTS             1.70
+                    33)  60086     METAMISOL 500 MG T10                     23.80
+                    34)  36208     ENALAPRIL T 30 10MG                      63.75
+                    35)  14075     CLOTRIMAZOL C 6 CPR VAG                   9.35
+                    36)  16681     SIBUTRAMINA 10 MG C15                    22.10
+                    37)  16813     VANCOMICINA 500MG SOL INY                 5.95
+                    38)  91653     SAL DE UVAS PICOT                        40.80
+                    39)  26506     ITRACONAZOL 100 MG C 15                  28.05
+                    40)  70950     LIDOCAINA 10% 115ML SPRAY                45.05
+                    41)  55439     FUMARATO FERROSO SUSP 120ML              72.25
+                    42)  86681     HIDROCLOROTIAZIDA 25 MG 20TAB             8.50
+                    43)  46000     HIDROX--MAGNESIO+ALUMINIO 240ML          50.15
+                    44)  86451     TRIMEBUTINA 100MG 5ML SUSP               21.25
+                    45)  84555     PARACETAMOL 300MG C 5 SUP                 4.25
+                    46)  17790     DICLOFENACO 100MG 20T                    17.00
+                    47)  48557     NAPROXENO SODICO 100 2 5 SUSP            59.50
+                    48)  34027     DANAZOL 100MG 50T                        79.05
+                    49)  28992     ALUMUMINIO+MAGNESIO SUSP 240ML           64.60
+                    50)  67784     LOSARTAN 50MG C 10T                      73.95
+                    51)  43222     AMBROXOL GOTAS 30ML                      11.05
+                    52)  47734     MICRODACYN 60 SOL 240ML                  39.10
+                    53)  98261     ACICLOVIR 200 MG C 25 CPR                70.55
+                    54)  80839     CARBAMAZEPINA 120ML SUSP                 51.00
+                    55)  47697     CLINDAMICINA 300 MG C 16                 14.45
+                    56)  55021     AMOXICILINA 500MG 5ML SUSP               82.45
+                    57)  79189     CLORFENAMINA 4MG T20                     73.10
+                    58)  79996     LANSOPRAZOL 15 MG C 14                   31.45
+                    59)  95196     DIGOXINA 0 250 MG C 24                   62.05
+                    60)  77203     ONDANSETRON 8MG C10T                     80.75
+                    61)  53166     ASTEMIZOL SUSP 200MG                      5.95
+                    62)  57036     OXOLAMINA JBE 100ML                      38.25
+                    63)  49685     PINAVERIO BROMURO DE 100 MG 14T          45.05
+                    64)  64347     DIFENHIDRAMINA 25MG C30                  65.45
+                    65)  82528     LORATADINA T 10 10MG                     19.55
+                    66)  98679     DOXICICLINA 100MG 10 CAPS                41.65
+                    67)  30796     PROPANOLOL 40 MG C 20 TAB                54.40
+                    68)  30428     PROPAFENONA 150 MG 20 TAB                19.55
+                    69)  58200     FLUCONAZOL 150MG  1C                     56.10
+                    70)  94429     TIAMAZOL 5MG 20T                         52.70
+                    71)  31189     CEFADROXILO 500MG C 16CAP                40.80
+                    72)  28892     GLIMEPIRIDA 2MG C30                      26.35
+                    73)  96554     PIROXICAM 20MG T20                        4.25
+                    74)  26360     VITAMINAS A C Y D 3AMP 3ML ING            8.50
+                    75)  42053     TRETINOINA 30G CREMA 0 05%               10.20
+                    76)  33311     ALBENDAZOL 200MG C 6 TAB                 20.40
+                    77)  26920     HIDRALAZINA 20T 10MG                     45.05
+                    78)  19397     ORLISTAT   21 CAP 120 MG                 37.40
+                    79)  61295     QUINFAMIDA 100 MG 3TAB                   84.15
+                    80)  72969     ISOSORBIDE 10MG T 20                     58.65
+                    81)  34066     SULINDACO 200MG 20 TAB                   51.85
+                    82)  83510     FUROSEMIDA 40 MG C 20                    22.95
+                    83)  33200     GLUCOSAMINA 30C 500MG                    76.50
+                    84)  70225     CEFTRIAXONA 1 0GR IM G I                 47.60
+                    85)  77358     LOPERAMIDA T 12 2MG                      61.20
+                    86)  37549     TOPIRAMATO 100MG 20T                     44.20
+                    87)  31883     ACIDO NALIDIXICO SUSP                    67.15
+                    88)  44215     DICICLOVERINA 10MG 30T                   33.15
+                    89)  36711     TIBOLONA 2 5MG 30T                       84.15
+                    90)  42861     BENCIDAMIDA CRA 5% 60GR                  23.80
+                    91)  43633     ERITROMICINA T 250 MG C 20               39.10
+                    92)  76247     FLUOCINOLONA CREMA 30G                   59.50
+                    93)  70303     AZITROMICINA SUSP                        72.25
+                    94)  65985     LAMOTRIGINA 100MG TAB 28                 79.90
+                    95)  36622     TEOFILINA 20 TAB 100 MG                  57.80
+                    96)  89325     DIMENHIDRINATO 24 T 50MG                 79.05
+                    97)  42856     FELODIPINO 5 MG 20T                      10.20
+                    98)  30220     AMOXICILINA+BROMEXINA C12                39.95
+                    99)  55701     EUCALIPTO GUAYACOL PERLAS30              46.75
+                   100)  58252     KETOTIFENO SOL 120ML                     34.85
+                   101)  26754     SILDENAFIL 50MG C 1-TAB                  68.00
+                   102)  28219     NITAZOXANIDA 200 MG T6                   82.45
+                   103)  60685     NITROFURANTOINA C40 100MG                79.90
+                   104)  68860     METFORMINA 850MG T30                     59.50
+                   105)  95540     NAPROXENO 500 MG C 10 TAB                28.05
+                   106)  86828     FENAZOPIRIDINA 100 MG C 20 TAB           32.30
+                   107)  30228     METOPROLOL 20T 100                       12.75
+                   108)  65667     SUBSALICILATO BISMUTO SUSP 120ML         61.20
+                   109)  93578     SUCRALFATO 40 TAB 1G                     55.25
+                   110)  76238     BEZOCAINA 10GR GEL                       56.95
+                   111)  81695     LECHE DE MAGNESIA 180ML                  15.30
+                   112)  40997     ELECTROLIT PED FRESA 625ML               41.65
+                   113)  49644     HIDROCORTISONA CRA 30GR                  73.95
+                   114)  51148     PANTOPRAZOL 40MG C 14                    56.10
+                   115)  73972     VITAMINA E 400 MG C90 CAPS               54.40
+                   116)  15098     LISINA CLOHRIDRATO 125MG T10             81.60
+                   117)  81821     AMIODARONA 200MG T20                     61.20
+                   118)  70807     LINCOMICINA 600 MG INY C 3               22.95
+                   119)  25684     DEXAMETASONA 0 5MG T 30                  84.15
+                   120)  53846     CLENBUTEROL  02MG 50T                    47.60
+                   121)  58036     PENTOXIFILINA 400MG T30                  33.15
+                   122)  84766     CIPROFLOXACINO SOL OFT 5MG               79.90
+                   123)  41995     DIMETICONA SUSP 100MG 30ML               25.50
+                   124)  48039     TRAMADOL 100MG 5AMP                      11.90
+                   125)  52072     BROMOCRIPTINA 2 5MG C 14TAB              63.75
+                   126)  90198     NITROFURAL 6MG 6 OV                      44.20
+                   127)  39088     NORFLOXACINO T20 400MG                   11.90
+                   128)  72939     VITIS VINIFERA (UVA) 60C                 76.50
+                   129)  34070     FEXOFENADINA C 10 180MG                  73.10
+                   130)  70113     TETRACICLINA 250MG 10T                   30.60
+                   131)  89528     CLORMADINONA 2MG 20T                     13.60
+                   132)  60888     CAPTOPRIL 25MG 30T                        7.65
+                   133)  88266     PREDNISONA 20MG C30 TAB GI               73.95
+                   134)  62008     LISINOPRIL T 30 10 MG                    17.85
+                   135)  17845     GINKO YANG CAPS C 30                      5.10
+                   136)  36822     CLARITROMICINA 125MG SUSP                 9.35
+                   137)  30007     DICLOFENACO SODICO 1MG GTS 5 ML           0.85
+                   138)  85865     PLANTAGO PSYLLIUM 400GR  GI               8.50
+                   139)  85641     TAMOXIFENO 10MG 30T                      28.90
+                   140)  85325     AMOXICILINA 250MG C12                    56.10
+                   141)  49157     RANITIDINA 300 MG C 10                   66.30
+                   142)  82469     GUAYACOL AMPOLLETA 1ML                   60.35
+                   143)  88994     FENITOINA SODICA 7 5MG 120ML             39.10
+                   144)  81062     PAROXETINA T 10 20MG                      9.35
+                   145)  68539     METENAMINA 30T 500MG                      5.10
+                   146)  53200     VITAMINA+OMEGA 3 30T                     68.85
+                   147)  70226     CALCIO+VITAMINA D SUSP                   39.95
+                   148)  11592     TERBINAFINA 1% CRA 20 GR                 68.00
+                   149)  70116     LACTULOSA 125ML                          23.80
+                   150)  92560     EXALVER FENILEFRINA PED  30 ML           28.90
+                   151)  57505     ESPIRONOLACTONA 25MG 20T                 43.35
+                   152)  22553     FLUCINOLONA+NEOMICINA CRA 30G            39.10
+                   153)  61508     DEXTROMETORFANO 300MG JBE 120 ML          4.25
+                   154)  94459     VALPROATO DE MAGNESIO SUSP               53.55
+                   155)  57269     SIMVASTATINA 10 MG C14                   34.00
+                   156)  40862     YODOPOVIDONA 120ML                       76.50
+                   157)  55813     SALBUTAMOL 4MG T30                       22.95
+                   158)  86158     SENOSIDOS A y B C20                      47.60
+                   159)  16299     AZITROMICINA 500MG C 3T                  49.30
+                   160)  81333     CARNITINA C 30                           40.80
+                   161)  12388     PROTEINAS+CREATINA 500 GR 30T            76.50
+                   162)  97465     GLIBENCLAMIDA 5 MG C 50                   4.25
+                   163)  62302     BEZAFIBRATO 200MG C 30TAB                41.65
+                   164)  68610     CALCITRIOL 0 25MCG 50 CAP                51.85
+                   165)  31311     METILPREDNISOLONA 500MG                  65.45
+                   166)  33276     INDOMETACINA C30                         11.05
+                   167)  90300     FLUOXETINA 20 MG C 14                    40.80
+                   168)  40645     VERAPAMILO 80 MG 20 TAB                   4.25
+                   169)  74680     FENITOINA T50 100MG                      56.10
+                   170)  45814     ERITROMICINA 250MG SUSP                  35.70
+                   171)  54692     NAFAZOLINA SOL OFT 15 ml                 28.90
+                   172)  17804     PIROXICAM 30 GM CRA                      10.20
+                   173)  80830     COMPLEJO B T30                           78.20
+                   174)  32486     BENZOCAINA FRAMBUESA C 24                24.65
+                   175)  84771     BETAMETASONA CREMA 30GR                  39.10
+                   176)  89839     ACIDO MEFENAMICO 500MG C10 TAB           73.95
+                   177)  60509     AMPICILINA 125MG SUSP 90ML               58.65
+                   178)  77534     METRONIDAZOL 500 MG T30                  38.25
+                   179)  59395     VITAMINICO GERIATRICO C30                16.15
+                   180)  22306     NIMESULIDA 25MG 20ML                     76.50
+                   181)  96881     GABAPENTINA 300 MG C 15                   7.65
+                   182)  14962     HIERRO DEXTRANO AMP4                     46.75
+                   183)  41403     VITAMINAS Y MINERALES 30-30T             43.35
+                   184)  11370     KETOROLACO 4T 30MG SUBLINGUAL             2.55
+                   185)  38648     PENICILINA V POT 400000U 20T             69.70
+                   186)  83801     CEFACLOR 125 MG SUSP                     37.40
+                   187)  53084     MINOCICLINA 100MG 10T                     0.85
+                   188)  74924     TAMSULOSINA 0 4 MG CAPS 20               37.40
+                   189)  94415     PRAVASTATINA 10 MG C 15                  68.85
+                   190)  36649     CITALOPRAM 20MG 14T                      79.05
+                   191)  49756     PREDNISOLONA 5MG SOL OFT 5 ML            52.70
+                   192)  88681     NIFEDIPINO 30 MG 30 CPS                  53.55
+                   193)  67415     FINASTERIDA 5MG 30T                      52.70
+                   194)  72495     ACIDO GLUTAMICO 600 MG C 100             43.35
+                   195)  16359     NAPROXENO 250 MG TAB C 30                75.65
+                   196)  16055     AMBROXOL C 20 TAB                        45.90
+                   197)  34080     ELECTROLIT FRESA 500ML                   60.35
+                   198)  63555     FAMOTIDINA 20MG 30C                      43.35
+                   199)  68346     TOLBUTAMIDA 50T 500MG                    10.20
+                   200)  39779     OMEPRAZOL 20 MG C 14                     85.00
+                   201)  27016     ACECLOFENACO 100MG 10T                   51.00
+                   202)  28409     RIFAMPICINA 300 MG C 16 CAP               4.25
+                   203)  24733     CALCIO+MAGNESIO 30T                      59.50
+                   204)  50450     SERTRALINA 50MG C 14 T                   74.80
+                   205)  72061     DEFLAZACORT 30MG 10T                     51.00
+                   206)  91282     LEVONORGESTREL 1 5MG  1 TAB               6.80
+                   207)  76360     DICLOXACILINA 250 MG C20                 32.30
+========================================================================================================================
+                                                 RELACION DE CONSULTAS
+      PACIENTE  MEDICO   ESPECIALIDAD        FECHA       CANTIDAD DE MEDICINAS    CODIGOS DE MEDICAMENTOS
+  1)  43704548  RY89213  Gastroenterologia   09/09/2022              1            59121
+  2)  36471787  ST60049  Gastroenterologia   16/01/2023              5            46919  92517  22232  26484  76596
+  3)  71422479  IH70367  Urologia            17/08/2022              3            18672  75565  37007
+  4)  51465986  PX70233  Ginecologia         05/08/2022              1            22842
+  5)  20371464  KG14787  Traumatologia       28/08/2022              5            24522  44253  68730  31389  92628
+  6)  36934113  PY49768  Cardiologia         17/08/2022              5            37007  33390  73174  30690  39172
+  7)  15290194  RY89213  Gastroenterologia   09/02/2023              4            81960  27447  61039  61211
+  8)  20371464  JL19777  Oftalmologia        12/08/2022              1            17645
+  9)  85395219  HW52063  Traumatologia       26/01/2023              5            86476  70024  48244  77466  30430
+ 10)  93961840  LE20189  Endocrinologia      02/10/2022              5            58259  96031  65536  60086  36208
+ 11)  61061535  PY49768  Cardiologia         02/08/2022              1            92517
+ 12)  62126128  EP90907  Dermatologia        28/02/2023              3            61211  14075  16681
+ 13)  85395219  RQ91509  Cardiologia         17/08/2022              4            18672  30690  73174  16813
+ 14)  54815159  NI70269  Dermatologia        03/08/2022              5            91653  26506  46919  70950  55439
+ 15)  91187814  JL34115  Cardiologia         27/08/2022              1            86681
+ 16)  71422479  IM80227  Pediatria           01/10/2022              5            46000  46000  37007  86451  84555
+ 17)  51642949  ST60049  Gastroenterologia   09/02/2023              1            17790
+ 18)  45201670  LZ53556  Pediatria           18/03/2023              5            48557  86681  34027  28992  67784
+ 19)  31284904  PY49768  Cardiologia         26/08/2022              3            43222  47734  98261
+ 20)  71422479  GY80063  Gastroenterologia   19/08/2022              1            80839
+ 21)  93282118  PY49768  Cardiologia         06/08/2022              4            47697  34027  55021  79189
+ 22)  34697743  KT90929  Oftalmologia        05/08/2022              2            22842  79996
+ 23)  68114999  PX70233  Ginecologia         14/08/2022              4            95196  77203  53166  57036
+ 24)  95656771  VJ18708  Ginecologia         06/02/2023              4            49685  64347  22232  82528
+ 25)  54149342  EU90562  Dermatologia        30/08/2022              2            98261  98679
+ 26)  99891737  OW18262  Urologia            15/08/2022              5            30796  30428  58200  22842  61039
+ 27)  54815159  EG90798  Traumatologia       27/10/2022              3            94429  31189  28892
+ 28)  93939698  JL19777  Oftalmologia        29/08/2022              4            96554  26360  42053  33311
+ 29)  62126128  NI70269  Dermatologia        01/08/2022              3            42053  26920  47734
+ 30)  32538825  EP90907  Dermatologia        20/08/2022              1            96031
+ 31)  63640178  IM80227  Pediatria           04/10/2022              5            19397  61295  72969  34066  83510
+ 32)  35852072  ST60049  Gastroenterologia   14/12/2022              4            33200  68730  70225  77358
+ 33)  72330000  NI70269  Dermatologia        26/08/2022              1            37549
+ 34)  93961840  PW35451  Pediatria           13/08/2022              2            31883  44215
+ 35)  93939698  JY15092  Dermatologia        04/04/2023              4            84555  77203  36711  42861
+ 36)  36934113  LZ53556  Pediatria           01/09/2022              4            26920  65536  86681  43633
+ 37)  80694546  PX70233  Ginecologia         29/08/2022              2            36711  49685
+ 38)  63640178  LF50611  Urologia            14/01/2023              1            76247
+ 39)  68114999  KT90929  Oftalmologia        26/08/2022              4            37549  42053  70303  65985
+ 40)  81647285  LK70612  Traumatologia       15/03/2023              5            36622  91653  89325  43222  30690
+ 41)  72973662  GY80063  Gastroenterologia   19/08/2022              3            80839  49685  42856
+ 42)  31284904  MB80040  Endocrinologia      17/11/2022              2            30220  47734
+ 43)  54815159  LE20189  Endocrinologia      12/02/2023              5            22232  31189  48244  55701  43222
+ 44)  72973662  CQ25448  Endocrinologia      09/02/2023              3            17790  28992  58252
+ 45)  93231760  BF14655  Oncologia           27/10/2022              1            94429
+ 46)  77324146  CQ25448  Endocrinologia      25/10/2022              5            26754  28219  76247  58252  75565
+ 47)  72330000  EU90562  Dermatologia        09/02/2023              5            60685  42861  36711  68860  95540
+ 48)  61061535  ZD40414  Ginecologia         29/08/2022              2            26484  86828
+ 49)  72973662  EG90798  Traumatologia       29/12/2022              4            30428  58200  30228  65667
+ 50)  51873364  NI70269  Dermatologia        22/10/2022              5            30228  53166  36208  28992  92517
+ 51)  45914393  JL19777  Oftalmologia        21/08/2022              3            79189  92517  93578
+ 52)  35347567  RN60934  Neumologia          07/04/2023              2            76238  81695
+ 53)  34571095  RC80138  Geriatria           02/04/2023              3            40997  49644  51148
+ 54)  54149342  ES50718  Pediatria           26/08/2022              2            43222  79996
+ 55)  36934113  EP90907  Dermatologia        27/11/2022              5            58200  26360  60685  73972  15098
+ 56)  49357767  ST60049  Gastroenterologia   12/03/2023              4            28992  30220  26754  81821
+ 57)  13731806  RC80138  Geriatria           08/11/2022              5            93578  42856  70225  70807  25684
+ 58)  22679759  VJ18708  Ginecologia         07/03/2023              3            53846  58036  31189
+ 59)  94683380  RC80138  Geriatria           17/08/2022              1            84766
+ 60)  92275859  IH70367  Urologia            02/08/2022              2            77466  26506
+ 61)  35606314  IM64405  Oftalmologia        04/04/2023              2            84555  24522
+ 62)  51465986  IM80227  Pediatria           17/08/2022              2            37007  41995
+ 63)  93282118  YM60184  Traumatologia       30/08/2022              2            41995  64347
+ 64)  20371464  JL34115  Cardiologia         13/09/2022              4            48039  52072  84766  41995
+ 65)  65912822  PW35451  Pediatria           06/08/2022              2            47697  90198
+ 66)  91187814  LI80786  Ginecologia         16/08/2022              3            39088  24522  51148
+ 67)  59561864  LI80786  Ginecologia         17/12/2022              1            72939
+ 68)  54149342  YR30082  Cardiologia         18/03/2023              2            34070  26506
+ 69)  62126128  MB80040  Endocrinologia      17/10/2022              2            51148  27447
+ 70)  59596317  RY89213  Gastroenterologia   16/12/2022              1            77358
+ 71)  51642949  PJ70789  Pediatria           16/02/2023              3            65985  70113  89528
+ 72)  20371464  JL19777  Oftalmologia        07/04/2023              2            76238  28219
+ 73)  52313890  RN60934  Neumologia          17/08/2022              3            60888  30430  81821
+ 74)  32538825  MB80040  Endocrinologia      10/03/2023              1            88266
+ 75)  54815159  GO70992  Gastroenterologia   23/02/2023              1            62008
+ 76)  37282858  YR30082  Cardiologia         29/08/2022              3            96554  37007  17845
+ 77)  27709566  RC80138  Geriatria           23/08/2022              5            36822  30007  91653  85865  26484
+ 78)  45914393  RY89213  Gastroenterologia   19/08/2022              5            80839  30220  30430  84766  85641
+ 79)  43704548  KG14787  Traumatologia       01/08/2022              3            85325  37549  55021
+ 80)  62126128  EP90907  Dermatologia        17/08/2022              5            60888  42856  49644  33311  14075
+ 81)  93231760  RN60934  Neumologia          27/03/2023              2            89528  49157
+ 82)  80694546  MB80040  Endocrinologia      11/04/2023              4            82469  76596  30228  88994
+ 83)  36934113  YM60184  Traumatologia       04/12/2022              4            70225  26484  59121  28992
+ 84)  35852072  VJ18708  Ginecologia         16/01/2023              4            81062  26360  89325  37007
+ 85)  93961840  YR30082  Cardiologia         01/09/2022              5            26920  18672  42856  68539  95540
+ 86)  41964357  LK70612  Traumatologia       16/08/2022              4            53200  70226  49157  17645
+ 87)  13731806  NI70269  Dermatologia        11/01/2023              2            11592  55021
+ 88)  14956687  LZ53556  Pediatria           18/04/2023              1            70116
+ 89)  32538825  JL34115  Cardiologia         01/09/2022              4            92560  16681  47697  26506
+ 90)  85395219  RN60934  Neumologia          29/12/2022              5            30428  33311  57505  52072  22232
+ 91)  77440060  LE20189  Endocrinologia      22/10/2022              3            30228  36622  46000
+ 92)  45914393  JL34115  Cardiologia         24/01/2023              4            22553  73972  61508  19397
+ 93)  62126128  KT90929  Oftalmologia        01/08/2022              4            42053  94459  98261  77203
+ 94)  62287143  KT90929  Oftalmologia        12/02/2023              3            22232  57269  40997
+ 95)  59561864  YR30082  Cardiologia         03/08/2022              1            40862
+ 96)  27709566  GO70992  Gastroenterologia   28/03/2023              4            88994  86681  55813  75565
+ 97)  31284904  EU90562  Dermatologia        27/08/2022              4            86681  16681  44253  86451
+ 98)  93231760  KG14787  Traumatologia       16/08/2022              1            47734
+ 99)  81647285  RN60934  Neumologia          18/04/2023              2            70116  79996
+100)  28992638  JL19777  Oftalmologia        17/08/2022              5            18672  15098  86158  42053  82528
+101)  45201670  EG90798  Traumatologia       21/08/2022              5            79189  79189  22553  30430  26360
+102)  53420926  JL34115  Cardiologia         06/08/2022              1            47697
+103)  99891737  VJ18708  Ginecologia         09/09/2022              1            59121
+104)  81647285  EP90907  Dermatologia        01/08/2022              4            90198  58036  16299  33390
+105)  86988155  CQ25448  Endocrinologia      14/09/2022              1            81333
+106)  61061535  JY15092  Dermatologia        28/03/2023              4            88994  12388  97465  67784
+107)  68114999  EG90798  Traumatologia       01/09/2022              3            92560  62302  57505
+108)  61061535  XN33687  Oftalmologia        20/08/2022              3            96031  52072  60086
+109)  95656771  KT90929  Oftalmologia        24/01/2023              1            22553
+110)  86988155  LF50611  Urologia            29/12/2022              2            30428  58259
+111)  90367684  EG90798  Traumatologia       04/08/2022              3            28219  49644  92517
+112)  77440060  LI80786  Ginecologia         26/04/2023              5            68610  44215  92517  34027  46919
+113)  80694546  LE20189  Endocrinologia      30/08/2022              3            41995  81821  42861
+114)  51873364  JY15092  Dermatologia        29/12/2022              4            30428  42861  26360  31311
+115)  94683380  HW52063  Traumatologia       06/09/2022              1            33276
+116)  22598563  JL34115  Cardiologia         08/11/2022              3            93578  96554  93578
+117)  30246960  LE20189  Endocrinologia      29/08/2022              2            90300  28219
+118)  94683380  GO70992  Gastroenterologia   01/02/2023              4            40645  48244  53200  40997
+119)  36934113  OW18262  Urologia            29/08/2022              4            36711  82469  68539  74680
+120)  58643376  GO70992  Gastroenterologia   26/08/2022              1            43222
+121)  36471787  PJ70789  Pediatria           14/08/2022              5            44215  48557  45814  54692  81333
+122)  81539774  ES50718  Pediatria           04/10/2022              1            19397
+123)  93961840  YM60184  Traumatologia       06/02/2023              3            17804  42856  16299
+124)  90367684  RQ91509  Cardiologia         27/11/2022              2            12388  70303
+125)  36934113  HW52063  Traumatologia       30/10/2022              3            70113  55813  90198
+126)  45201670  LE20189  Endocrinologia      14/08/2022              2            95196  17790
+127)  63640178  NI70269  Dermatologia        09/08/2022              1            80830
+128)  90367684  LZ53556  Pediatria           17/09/2022              2            97465  64347
+129)  15290194  PJ70789  Pediatria           04/04/2023              5            84555  43222  32486  34066  84771
+130)  58643376  PX70233  Ginecologia         03/03/2023              3            28892  89839  40862
+131)  62287143  GO70992  Gastroenterologia   20/10/2022              5            68860  85325  70303  33311  77358
+132)  59596317  CQ25448  Endocrinologia      27/04/2023              2            60509  60086
+133)  51465986  GY80063  Gastroenterologia   30/03/2023              2            73174  77534
+134)  49357767  GY80063  Gastroenterologia   04/08/2022              3            70024  59395  31311
+135)  93961840  PJ70789  Pediatria           01/08/2022              3            62302  22306  70303
+136)  53420926  RC80138  Geriatria           01/08/2022              1            42053
+137)  30246960  JY15092  Dermatologia        29/11/2022              4            32486  30428  61508  16681
+138)  41964357  ZD40414  Ginecologia         15/03/2023              4            36622  42856  96881  70226
+139)  17299012  GO70992  Gastroenterologia   27/10/2022              4            94429  26506  14962  68610
+140)  32538825  ST60049  Gastroenterologia   18/11/2022              1            41403
+141)  12484697  CQ25448  Endocrinologia      16/09/2022              4            15098  68539  22842  11370
+142)  86988155  RQ91509  Cardiologia         01/09/2022              4            26920  38648  53166  40645
+143)  35347567  EP90907  Dermatologia        23/08/2022              5            79996  40997  38648  37007  18672
+144)  20371464  EG90798  Traumatologia       30/08/2022              3            98261  68730  70226
+145)  90367684  HW52063  Traumatologia       15/03/2023              1            36622
+146)  57182371  KT90929  Oftalmologia        26/10/2022              1            68730
+147)  66039166  LK70612  Traumatologia       25/08/2022              2            48244  58036
+148)  32538825  RQ91509  Cardiologia         29/08/2022              4            96554  83801  30690  90198
+149)  62126128  OL30557  Neumologia          17/08/2022              3            84766  77358  70303
+150)  13731806  IM64405  Oftalmologia        16/11/2022              2            61039  17845
+151)  68269451  GY80063  Gastroenterologia   01/08/2022              2            53084  47734
+152)  80694546  KT90929  Oftalmologia        02/08/2022              3            77466  81062  74924
+153)  65912822  YM60184  Traumatologia       16/01/2023              1            46919
+154)  72330000  HW52063  Traumatologia       09/08/2022              4            33311  48244  46000  77534
+155)  62287143  LK70612  Traumatologia       27/11/2022              5            12388  31389  46919  73174  28992
+156)  68269451  MB80040  Endocrinologia      16/08/2022              4            53200  53084  86158  72969
+157)  30246960  PX70233  Ginecologia         17/09/2022              2            97465  73972
+158)  99891737  LK70612  Traumatologia       06/12/2022              5            34027  15098  30430  94415  77358
+159)  15290194  NI70269  Dermatologia        06/09/2022              4            33276  52072  36649  62302
+160)  93282118  PW35451  Pediatria           19/09/2022              2            98679  81960
+161)  93961840  YR30082  Cardiologia         29/08/2022              5            58252  14962  22232  98679  49756
+162)  51465986  YR30082  Cardiologia         22/10/2022              5            30228  68730  26360  86158  88681
+163)  93939698  RN60934  Neumologia          01/08/2022              2            53084  22842
+164)  77440060  PJ70789  Pediatria           20/08/2022              5            96031  68860  24522  62008  81333
+165)  61061535  KT90929  Oftalmologia        18/08/2022              1            26506
+166)  90367684  HW52063  Traumatologia       26/10/2022              1            68730
+167)  37282858  GY80063  Gastroenterologia   13/09/2022              3            48039  31189  26754
+168)  53420926  CQ25448  Endocrinologia      22/12/2022              2            67415  72495
+169)  12484697  PX70233  Ginecologia         14/01/2023              1            76247
+170)  22679759  VJ18708  Ginecologia         21/01/2023              3            70303  91653  16359
+171)  51465986  PW35451  Pediatria           27/08/2022              1            16055
+172)  77324146  OL30557  Neumologia          29/12/2022              4            33390  12388  61039  31311
+173)  37282858  JL34115  Cardiologia         09/02/2023              5            17790  81821  96881  44253  34080
+174)  68114999  LE20189  Endocrinologia      25/10/2022              1            26754
+175)  57182371  IM64405  Oftalmologia        18/04/2023              1            70116
+176)  20371464  LI80786  Ginecologia         04/08/2022              2            68539  60685
+177)  54149342  EG90798  Traumatologia       04/08/2022              3            28219  90300  60509
+178)  54815159  OW18262  Urologia            17/09/2022              4            61508  58252  28219  73174
+179)  14956687  IH70367  Urologia            21/08/2022              1            79189
+180)  90367684  JL34115  Cardiologia         27/03/2023              5            89528  63555  68346  22842  76596
+181)  62287143  ST60049  Gastroenterologia   12/03/2023              4            28992  96031  79996  88994
+182)  81647285  PX70233  Ginecologia         16/01/2023              5            46919  91653  88266  17645  30690
+183)  54149342  JL34115  Cardiologia         12/03/2023              5            58036  95196  17804  70226  76247
+184)  51642949  LE20189  Endocrinologia      27/11/2022              2            12388  76238
+185)  86988155  YR30082  Cardiologia         13/08/2022              3            31883  76247  53846
+186)  99891737  KT90929  Oftalmologia        07/03/2023              5            53846  58259  30228  42856  76247
+187)  77324146  LE20189  Endocrinologia      22/11/2022              3            74680  72969  43222
+188)  54815159  MB80040  Endocrinologia      29/08/2022              4            96554  70116  26920  92517
+189)  15290194  NI70269  Dermatologia        29/08/2022              2            26484  26920
+190)  51873364  LE20189  Endocrinologia      03/08/2022              5            91653  16299  46919  24522  40862
+191)  93961840  BF14655  Oncologia           01/10/2022              5            46000  41995  89325  37549  81333
+192)  20371464  JY15092  Dermatologia        01/10/2022              2            46000  75565
+193)  12484697  RC80138  Geriatria           10/08/2022              4            74924  43633  74680  75565
+194)  61061535  ST60049  Gastroenterologia   15/12/2022              2            43633  73174
+195)  34697743  LF50611  Urologia            01/09/2022              3            14962  90198  70807
+196)  43704548  YR30082  Cardiologia         27/01/2023              5            39779  36649  77358  47734  17804
+197)  68269451  EP90907  Dermatologia        25/08/2022              2            42861  34070
+198)  99891737  JY15092  Dermatologia        04/04/2023              1            84555
+199)  75100362  ST60049  Gastroenterologia   30/08/2022              4            41995  25684  94415  18672
+200)  13731806  VJ18708  Ginecologia         24/08/2022              4            27016  28409  46919  47697
+201)  91187814  IM80227  Pediatria           15/10/2022              5            57036  40997  40862  53084  64347
+202)  31284904  EP90907  Dermatologia        07/03/2023              1            53846
+203)  51642949  PJ70789  Pediatria           03/08/2022              1            91653
+204)  27709566  LF50611  Urologia            01/12/2022              2            45814  72495
+205)  59596317  RQ91509  Cardiologia         01/09/2022              3            26920  98679  51148
+206)  99891737  ZD40414  Ginecologia         11/04/2023              4            82469  30428  62008  24733
+207)  68269451  HW52063  Traumatologia       18/08/2022              2            61295  86828
+208)  35606314  PW35451  Pediatria           03/04/2023              1            14075
+209)  85395219  OL30557  Neumologia          26/01/2023              1            86476
+210)  36471787  EP90907  Dermatologia        03/04/2023              1            14075
+211)  35606314  RY89213  Gastroenterologia   27/01/2023              2            39779  70807
+212)  57182371  LF50611  Urologia            21/11/2022              4            81821  76238  92517  58252
+213)  93282118  KG14787  Traumatologia       26/10/2022              5            68730  86681  85325  68610  47734
+214)  59596317  CQ25448  Endocrinologia      14/12/2022              4            33200  92628  83510  83510
+215)  68114999  CQ25448  Endocrinologia      19/08/2022              5            96881  39088  25684  17645  49644
+216)  66091742  BF14655  Oncologia           23/09/2022              5            75565  74924  60086  70950  31389
+217)  20371464  PW35451  Pediatria           29/11/2022              2            32486  44253
+218)  15290194  OW18262  Urologia            14/08/2022              2            44215  50450
+219)  30246960  KG14787  Traumatologia       01/09/2022              3            26920  90300  34070
+220)  22598563  JY15092  Dermatologia        29/08/2022              1            26484
+221)  51642949  RC80138  Geriatria           12/02/2023              4            22232  28409  88994  40862
+222)  49357767  BF14655  Oncologia           02/10/2022              1            58259
+223)  13731806  HW52063  Traumatologia       08/08/2022              1            85641
+224)  27709566  MB80040  Endocrinologia      18/03/2023              3            48557  31389  70950
+225)  34697743  GO70992  Gastroenterologia   04/08/2022              5            68539  91653  19397  72061  62302
+226)  93939698  PJ70789  Pediatria           29/11/2022              4            32486  16359  11592  90300
+227)  35852072  OL30557  Neumologia          06/12/2022              5            34027  34070  58259  57505  81821
+228)  22598563  LF50611  Urologia            10/08/2022              2            36649  86158
+229)  95656771  JL19777  Oftalmologia        03/08/2022              4            91653  77358  88994  34066
+230)  37282858  KT90929  Oftalmologia        11/01/2023              5            11592  59121  70113  26920  95196
+231)  54149342  PX70233  Ginecologia         20/08/2022              3            96031  55701  77358
+232)  72330000  PJ70789  Pediatria           01/09/2022              1            26920
+233)  45914393  PY49768  Cardiologia         20/12/2022              4            67784  58252  95196  83801
+234)  93961840  BF14655  Oncologia           13/11/2022              2            91282  54692
+235)  36471787  JL19777  Oftalmologia        02/02/2023              5            55701  82528  85325  46000  25684
+236)  62126128  OW18262  Urologia            27/08/2022              1            16055
+237)  51642949  OL30557  Neumologia          30/03/2023              5            92628  36622  83510  49685  28992
+238)  41964357  PJ70789  Pediatria           17/09/2022              1            97465
+239)  20371464  RY89213  Gastroenterologia   30/03/2023              1            73174
+240)  93282118  LI80786  Ginecologia         29/08/2022              5            60086  70303  39779  30690  40862
+241)  52313890  JY15092  Dermatologia        27/11/2022              5            58200  72969  57036  42053  88681
+242)  93961840  GO70992  Gastroenterologia   14/09/2022              2            81333  16299
+243)  86988155  BF14655  Oncologia           22/11/2022              2            74680  39779
+244)  85395219  MB80040  Endocrinologia      06/02/2023              2            17804  37007
+245)  71422479  BF14655  Oncologia           23/09/2022              5            75565  86476  31189  22232  70116
+246)  77440060  MB80040  Endocrinologia      26/08/2022              3            43222  76238  36711
+247)  62126128  VJ18708  Ginecologia         06/02/2023              2            49685  77466
+248)  35606314  GO70992  Gastroenterologia   11/01/2023              2            11592  63555
+249)  54815159  IM80227  Pediatria           18/03/2023              4            34070  73174  82469  39779
+250)  77324146  RC80138  Geriatria           28/03/2023              4            88994  34066  16359  67415
+251)  65912822  IM80227  Pediatria           18/03/2023              1            88681
+252)  22598563  LK70612  Traumatologia       29/08/2022              1            58252
+253)  12484697  EU90562  Dermatologia        13/09/2022              3            48039  94429  93578
+254)  72330000  ES50718  Pediatria           30/03/2023              4            92628  70116  53200  30430
+255)  93939698  NI70269  Dermatologia        15/09/2022              3            72061  95196  26754
+256)  66091742  EG90798  Traumatologia       03/08/2022              5            40862  90198  41403  43633  32486
+257)  35852072  RN60934  Neumologia          11/04/2023              5            82469  25684  47697  81960  72495
+258)  13731806  GY80063  Gastroenterologia   24/08/2022              4            36208  26484  80830  75565
+259)  15290194  IM80227  Pediatria           09/08/2022              5            38648  90198  49157  68610  40997
+260)  51642949  VJ18708  Ginecologia         18/12/2022              3            16299  88994  41403
+261)  22598563  OL30557  Neumologia          28/02/2023              3            61211  37007  81062
+262)  93231760  LZ53556  Pediatria           30/03/2023              4            92628  86476  70116  90300
+263)  35852072  LK70612  Traumatologia       19/08/2022              4            80839  31189  84555  40862
+264)  71422479  YR30082  Cardiologia         22/08/2022              4            76360  55439  22842  40862
+265)  15290194  LI80786  Ginecologia         18/04/2023              1            70116
+266)  54149342  GO70992  Gastroenterologia   10/03/2023              1            88266
+267)  62287143  BF14655  Oncologia           18/08/2022              1            61295
+268)  58643376  HW52063  Traumatologia       27/08/2022              5            16055  79996  54692  46919  70950
+269)  13731806  VJ18708  Ginecologia         08/08/2022              2            77203  11370
+270)  51465986  JL19777  Oftalmologia        09/09/2022              3            59121  81821  55439
+271)  15290194  NI70269  Dermatologia        18/08/2022              5            26506  88994  95540  65667  36711
+272)  54815159  EP90907  Dermatologia        22/11/2022              4            74680  86828  36622  70225
+273)  94683380  XN33687  Oftalmologia        09/09/2022              2            30690  81695
+274)  72330000  VJ18708  Ginecologia         26/10/2022              4            68730  59395  36649  53166
+275)  52313890  NI70269  Dermatologia        16/08/2022              1            17845
+276)  77324146  RQ91509  Cardiologia         01/12/2022              5            45814  81695  30007  48557  77203
+277)  35852072  NI70269  Dermatologia        18/03/2023              2            88681  55813
+278)  93282118  JL34115  Cardiologia         18/03/2023              3            25684  53846  17845
+279)  62287143  YR30082  Cardiologia         04/08/2022              3            94459  16359  73174
+280)  12484697  LZ53556  Pediatria           12/08/2022              2            17645  81960
+281)  51465986  OL30557  Neumologia          15/12/2022              4            43633  94415  47697  16299
+282)  62287143  IM64405  Oftalmologia        16/09/2022              2            15098  40862

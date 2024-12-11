@@ -1,0 +1,713 @@
+Codigo de Alumno:           202123703
+Detalle de Cursos:
+Cursados Aprobados  1ra Vez   2da Vez   3ra Vez 
+    4         2         2         0         0
+Cursos matriculados:
+ 1    MEC270    202302   14
+ 2    INF263    202302    9
+ 3    MAT241    202202   13
+ 4    INF263    202301    9
+
+
+Codigo de Alumno:           202119153
+Detalle de Cursos:
+Cursados Aprobados  1ra Vez   2da Vez   3ra Vez 
+    2         2         2         0         0
+Cursos matriculados:
+ 1    MEC270    202201   16
+ 2    FIS220    202201   15
+
+
+Codigo de Alumno:           202113758
+Detalle de Cursos:
+Cursados Aprobados  1ra Vez   2da Vez   3ra Vez 
+    0         0         0         0         0
+
+
+Codigo de Alumno:           202123373
+Detalle de Cursos:
+Cursados Aprobados  1ra Vez   2da Vez   3ra Vez 
+    1         0         0         0         0
+Cursos matriculados:
+ 1    INF246    202202    7
+
+
+Codigo de Alumno:           202127660
+Detalle de Cursos:
+Cursados Aprobados  1ra Vez   2da Vez   3ra Vez 
+    1         1         1         0         0
+Cursos matriculados:
+ 1    INF263    202302   12
+
+
+Codigo de Alumno:           202112598
+Detalle de Cursos:
+Cursados Aprobados  1ra Vez   2da Vez   3ra Vez 
+    0         0         0         0         0
+
+
+Codigo de Alumno:           202224569
+Detalle de Cursos:
+Cursados Aprobados  1ra Vez   2da Vez   3ra Vez 
+    4         4         4         0         0
+Cursos matriculados:
+ 1    MEC270    202301   20
+ 2    INF263    202201   13
+ 3    MEC206    202202   14
+ 4    FIS220    202302   17
+
+
+Codigo de Alumno:           202214628
+Detalle de Cursos:
+Cursados Aprobados  1ra Vez   2da Vez   3ra Vez 
+    0         0         0         0         0
+
+
+Codigo de Alumno:           202121791
+Detalle de Cursos:
+Cursados Aprobados  1ra Vez   2da Vez   3ra Vez 
+    1         1         1         0         0
+Cursos matriculados:
+ 1    MAT241    202202   16
+
+
+Codigo de Alumno:           202224918
+Detalle de Cursos:
+Cursados Aprobados  1ra Vez   2da Vez   3ra Vez 
+    2         2         2         0         0
+Cursos matriculados:
+ 1    INF246    202202   13
+ 2    MAT241    202201   12
+
+
+Codigo de Alumno:           202115802
+Detalle de Cursos:
+Cursados Aprobados  1ra Vez   2da Vez   3ra Vez 
+    4         3         2         1         0
+Cursos matriculados:
+ 1    MEC206    202201   16
+ 2    INF263    202301   18
+ 3    MEC206    202102    7
+ 4    MEC289    202201   20
+
+
+Codigo de Alumno:           202318072
+Detalle de Cursos:
+Cursados Aprobados  1ra Vez   2da Vez   3ra Vez 
+    1         1         1         0         0
+Cursos matriculados:
+ 1    INF263    202302   14
+
+
+Codigo de Alumno:           202112887
+Detalle de Cursos:
+Cursados Aprobados  1ra Vez   2da Vez   3ra Vez 
+    0         0         0         0         0
+
+
+Codigo de Alumno:           202313065
+Detalle de Cursos:
+Cursados Aprobados  1ra Vez   2da Vez   3ra Vez 
+    1         1         1         0         0
+Cursos matriculados:
+ 1    INF263    202202   16
+
+
+Codigo de Alumno:           202129611
+Detalle de Cursos:
+Cursados Aprobados  1ra Vez   2da Vez   3ra Vez 
+    0         0         0         0         0
+
+
+Codigo de Alumno:           202214712
+Detalle de Cursos:
+Cursados Aprobados  1ra Vez   2da Vez   3ra Vez 
+    2         2         2         0         0
+Cursos matriculados:
+ 1    INF246    202302   12
+ 2    MAT241    202202   19
+
+
+Codigo de Alumno:           202126490
+Detalle de Cursos:
+Cursados Aprobados  1ra Vez   2da Vez   3ra Vez 
+    1         1         1         0         0
+Cursos matriculados:
+ 1    MEC206    202302   11
+
+
+Codigo de Alumno:           202313249
+Detalle de Cursos:
+Cursados Aprobados  1ra Vez   2da Vez   3ra Vez 
+    7         2         0         0         2
+Cursos matriculados:
+ 1    FIS220    202302   17
+ 2    FIS220    202202    4
+ 3    INF246    202102    4
+ 4    INF246    202101    5
+ 5    MAT241    202202    9
+ 6    FIS220    202301    2
+ 7    INF246    202201   11
+
+
+Codigo de Alumno:           202114739
+Detalle de Cursos:
+Cursados Aprobados  1ra Vez   2da Vez   3ra Vez 
+    2         2         2         0         0
+Cursos matriculados:
+ 1    MAT241    202202   15
+ 2    MEC206    202302   20
+
+
+Codigo de Alumno:           202319927
+Detalle de Cursos:
+Cursados Aprobados  1ra Vez   2da Vez   3ra Vez 
+    1         1         1         0         0
+Cursos matriculados:
+ 1    MAT241    202301   20
+
+
+Codigo de Alumno:           202221155
+Detalle de Cursos:
+Cursados Aprobados  1ra Vez   2da Vez   3ra Vez 
+    0         0         0         0         0
+
+
+Codigo de Alumno:           202315724
+Detalle de Cursos:
+Cursados Aprobados  1ra Vez   2da Vez   3ra Vez 
+    3         2         2         0         0
+Cursos matriculados:
+ 1    MEC270    202202    5
+ 2    MAT241    202202   12
+ 3    INF246    202202   17
+
+
+Codigo de Alumno:           202125775
+Detalle de Cursos:
+Cursados Aprobados  1ra Vez   2da Vez   3ra Vez 
+    4         3         2         1         0
+Cursos matriculados:
+ 1    FIS220    202202   19
+ 2    MEC206    202201   18
+ 3    FIS220    202201    3
+ 4    MEC270    202301   20
+
+
+Codigo de Alumno:           202315643
+Detalle de Cursos:
+Cursados Aprobados  1ra Vez   2da Vez   3ra Vez 
+    2         2         2         0         0
+Cursos matriculados:
+ 1    MEC270    202202   13
+ 2    INF246    202201   17
+
+
+Codigo de Alumno:           202127344
+Detalle de Cursos:
+Cursados Aprobados  1ra Vez   2da Vez   3ra Vez 
+    4         2         1         0         1
+Cursos matriculados:
+ 1    MEC270    202102    2
+ 2    INF263    202202   16
+ 3    MEC270    202101    1
+ 4    MEC270    202201   14
+
+
+Codigo de Alumno:           202318320
+Detalle de Cursos:
+Cursados Aprobados  1ra Vez   2da Vez   3ra Vez 
+    6         4         2         2         0
+Cursos matriculados:
+ 1    MAT241    202302   19
+ 2    MEC289    202302   16
+ 3    FIS220    202202   11
+ 4    MEC289    202301    9
+ 5    INF263    202301   20
+ 6    INF263    202202    5
+
+
+Codigo de Alumno:           202315318
+Detalle de Cursos:
+Cursados Aprobados  1ra Vez   2da Vez   3ra Vez 
+    2         2         2         0         0
+Cursos matriculados:
+ 1    INF246    202302   17
+ 2    MAT241    202201   17
+
+
+Codigo de Alumno:           202227316
+Detalle de Cursos:
+Cursados Aprobados  1ra Vez   2da Vez   3ra Vez 
+    3         1         0         0         1
+Cursos matriculados:
+ 1    MEC289    202202   12
+ 2    MEC289    202102    3
+ 3    MEC289    202201    9
+
+
+Codigo de Alumno:           202225778
+Detalle de Cursos:
+Cursados Aprobados  1ra Vez   2da Vez   3ra Vez 
+    3         3         3         0         0
+Cursos matriculados:
+ 1    MEC270    202201   16
+ 2    MAT241    202301   12
+ 3    INF246    202301   19
+
+
+Codigo de Alumno:           202313754
+Detalle de Cursos:
+Cursados Aprobados  1ra Vez   2da Vez   3ra Vez 
+    3         1         0         1         0
+Cursos matriculados:
+ 1    INF246    202201   20
+ 2    INF246    202102    6
+ 3    MEC270    202202    5
+
+
+Codigo de Alumno:           202217030
+Detalle de Cursos:
+Cursados Aprobados  1ra Vez   2da Vez   3ra Vez 
+    1         1         1         0         0
+Cursos matriculados:
+ 1    INF263    202302   18
+
+
+Codigo de Alumno:           202214204
+Detalle de Cursos:
+Cursados Aprobados  1ra Vez   2da Vez   3ra Vez 
+    4         2         0         2         0
+Cursos matriculados:
+ 1    INF246    202301    6
+ 2    MEC289    202202   20
+ 3    MEC289    202201    4
+ 4    INF246    202302   16
+
+
+Codigo de Alumno:           202318383
+Detalle de Cursos:
+Cursados Aprobados  1ra Vez   2da Vez   3ra Vez 
+    3         2         1         1         0
+Cursos matriculados:
+ 1    INF246    202202   16
+ 2    INF263    202201   12
+ 3    INF246    202201    9
+
+
+Codigo de Alumno:           202122715
+Detalle de Cursos:
+Cursados Aprobados  1ra Vez   2da Vez   3ra Vez 
+    0         0         0         0         0
+
+
+Codigo de Alumno:           202213745
+Detalle de Cursos:
+Cursados Aprobados  1ra Vez   2da Vez   3ra Vez 
+    1         1         1         0         0
+Cursos matriculados:
+ 1    INF246    202201   12
+
+
+Codigo de Alumno:           202113223
+Detalle de Cursos:
+Cursados Aprobados  1ra Vez   2da Vez   3ra Vez 
+    1         1         1         0         0
+Cursos matriculados:
+ 1    MEC270    202202   16
+
+
+Codigo de Alumno:           202211325
+Detalle de Cursos:
+Cursados Aprobados  1ra Vez   2da Vez   3ra Vez 
+    3         2         1         1         0
+Cursos matriculados:
+ 1    INF263    202301    6
+ 2    INF263    202302   19
+ 3    MAT241    202201   11
+
+
+Codigo de Alumno:           202315763
+Detalle de Cursos:
+Cursados Aprobados  1ra Vez   2da Vez   3ra Vez 
+    1         1         1         0         0
+Cursos matriculados:
+ 1    MAT241    202202   20
+
+
+Codigo de Alumno:           202129785
+Detalle de Cursos:
+Cursados Aprobados  1ra Vez   2da Vez   3ra Vez 
+    1         1         1         0         0
+Cursos matriculados:
+ 1    MAT241    202201   12
+
+
+Codigo de Alumno:           202216995
+Detalle de Cursos:
+Cursados Aprobados  1ra Vez   2da Vez   3ra Vez 
+    0         0         0         0         0
+
+
+Codigo de Alumno:           202115400
+Detalle de Cursos:
+Cursados Aprobados  1ra Vez   2da Vez   3ra Vez 
+    1         1         1         0         0
+Cursos matriculados:
+ 1    FIS220    202201   15
+
+
+Codigo de Alumno:           202311247
+Detalle de Cursos:
+Cursados Aprobados  1ra Vez   2da Vez   3ra Vez 
+    2         2         2         0         0
+Cursos matriculados:
+ 1    MEC270    202302   19
+ 2    MAT241    202302   15
+
+
+Codigo de Alumno:           202122742
+Detalle de Cursos:
+Cursados Aprobados  1ra Vez   2da Vez   3ra Vez 
+    1         1         1         0         0
+Cursos matriculados:
+ 1    FIS220    202301   17
+
+
+Codigo de Alumno:           202312000
+Detalle de Cursos:
+Cursados Aprobados  1ra Vez   2da Vez   3ra Vez 
+    4         1         0         1         0
+Cursos matriculados:
+ 1    MEC206    202301    8
+ 2    MEC289    202302   18
+ 3    FIS220    202201    7
+ 4    MEC289    202301    2
+
+
+Codigo de Alumno:           202313122
+Detalle de Cursos:
+Cursados Aprobados  1ra Vez   2da Vez   3ra Vez 
+    5         3         2         0         1
+Cursos matriculados:
+ 1    MAT241    202201   11
+ 2    MEC289    202101    4
+ 3    MEC289    202102    9
+ 4    MEC206    202202   18
+ 5    MEC289    202201   11
+
+
+Codigo de Alumno:           202219773
+Detalle de Cursos:
+Cursados Aprobados  1ra Vez   2da Vez   3ra Vez 
+    2         2         2         0         0
+Cursos matriculados:
+ 1    MAT241    202202   13
+ 2    INF246    202302   18
+
+
+Codigo de Alumno:           202316015
+Detalle de Cursos:
+Cursados Aprobados  1ra Vez   2da Vez   3ra Vez 
+    2         2         2         0         0
+Cursos matriculados:
+ 1    INF246    202301   18
+ 2    FIS220    202202   13
+
+
+Codigo de Alumno:           202116038
+Detalle de Cursos:
+Cursados Aprobados  1ra Vez   2da Vez   3ra Vez 
+    2         2         2         0         0
+Cursos matriculados:
+ 1    INF246    202202   11
+ 2    MAT241    202201   20
+
+
+Codigo de Alumno:           202114285
+Detalle de Cursos:
+Cursados Aprobados  1ra Vez   2da Vez   3ra Vez 
+    1         1         1         0         0
+Cursos matriculados:
+ 1    MEC289    202301   19
+
+
+Codigo de Alumno:           202316517
+Detalle de Cursos:
+Cursados Aprobados  1ra Vez   2da Vez   3ra Vez 
+    0         0         0         0         0
+
+
+Codigo de Alumno:           202119958
+Detalle de Cursos:
+Cursados Aprobados  1ra Vez   2da Vez   3ra Vez 
+    3         3         3         0         0
+Cursos matriculados:
+ 1    MAT241    202302   17
+ 2    MEC270    202202   19
+ 3    INF246    202201   17
+
+
+Codigo de Alumno:           202111260
+Detalle de Cursos:
+Cursados Aprobados  1ra Vez   2da Vez   3ra Vez 
+    2         2         2         0         0
+Cursos matriculados:
+ 1    MEC289    202202   15
+ 2    INF246    202301   11
+
+
+Codigo de Alumno:           202129735
+Detalle de Cursos:
+Cursados Aprobados  1ra Vez   2da Vez   3ra Vez 
+    3         3         3         0         0
+Cursos matriculados:
+ 1    FIS220    202201   19
+ 2    MEC289    202201   13
+ 3    INF263    202302   16
+
+
+Codigo de Alumno:           202215067
+Detalle de Cursos:
+Cursados Aprobados  1ra Vez   2da Vez   3ra Vez 
+    2         2         2         0         0
+Cursos matriculados:
+ 1    MEC206    202201   18
+ 2    MEC289    202202   11
+
+
+Codigo de Alumno:           202319103
+Detalle de Cursos:
+Cursados Aprobados  1ra Vez   2da Vez   3ra Vez 
+    4         3         3         0         0
+Cursos matriculados:
+ 1    MAT241    202301   16
+ 2    INF263    202202   13
+ 3    INF246    202202    7
+ 4    FIS220    202302   17
+
+
+Codigo de Alumno:           202111935
+Detalle de Cursos:
+Cursados Aprobados  1ra Vez   2da Vez   3ra Vez 
+    0         0         0         0         0
+
+
+Codigo de Alumno:           202226249
+Detalle de Cursos:
+Cursados Aprobados  1ra Vez   2da Vez   3ra Vez 
+    2         2         2         0         0
+Cursos matriculados:
+ 1    MEC270    202202   20
+ 2    MEC289    202201   15
+
+
+Codigo de Alumno:           202312501
+Detalle de Cursos:
+Cursados Aprobados  1ra Vez   2da Vez   3ra Vez 
+    2         2         2         0         0
+Cursos matriculados:
+ 1    MEC270    202201   13
+ 2    MEC206    202302   16
+
+
+Codigo de Alumno:           202125607
+Detalle de Cursos:
+Cursados Aprobados  1ra Vez   2da Vez   3ra Vez 
+    2         2         2         0         0
+Cursos matriculados:
+ 1    FIS220    202202   14
+ 2    MEC206    202201   19
+
+
+Codigo de Alumno:           202215494
+Detalle de Cursos:
+Cursados Aprobados  1ra Vez   2da Vez   3ra Vez 
+    6         3         1         1         1
+Cursos matriculados:
+ 1    MEC206    202202    3
+ 2    MEC206    202301   19
+ 3    FIS220    202302   14
+ 4    MEC270    202101    1
+ 5    MEC270    202102    2
+ 6    MEC270    202201   16
+
+
+Codigo de Alumno:           202219437
+Detalle de Cursos:
+Cursados Aprobados  1ra Vez   2da Vez   3ra Vez 
+    3         1         0         1         0
+Cursos matriculados:
+ 1    MEC289    202302   17
+ 2    MEC289    202301    7
+ 3    MEC270    202202    8
+
+
+Codigo de Alumno:           202116963
+Detalle de Cursos:
+Cursados Aprobados  1ra Vez   2da Vez   3ra Vez 
+    3         3         3         0         0
+Cursos matriculados:
+ 1    FIS220    202302   20
+ 2    MEC206    202301   14
+ 3    MEC289    202302   20
+
+
+Codigo de Alumno:           202113179
+Detalle de Cursos:
+Cursados Aprobados  1ra Vez   2da Vez   3ra Vez 
+    0         0         0         0         0
+
+
+Codigo de Alumno:           202123402
+Detalle de Cursos:
+Cursados Aprobados  1ra Vez   2da Vez   3ra Vez 
+    2         1         0         1         0
+Cursos matriculados:
+ 1    INF246    202201    5
+ 2    INF246    202202   16
+
+
+Codigo de Alumno:           202223508
+Detalle de Cursos:
+Cursados Aprobados  1ra Vez   2da Vez   3ra Vez 
+    3         1         0         1         0
+Cursos matriculados:
+ 1    MEC206    202202   15
+ 2    FIS220    202302    8
+ 3    MEC206    202201    2
+
+
+Codigo de Alumno:           202311748
+Detalle de Cursos:
+Cursados Aprobados  1ra Vez   2da Vez   3ra Vez 
+    2         1         1         0         0
+Cursos matriculados:
+ 1    INF246    202302   18
+ 2    FIS220    202302    5
+
+
+Codigo de Alumno:           202226929
+Detalle de Cursos:
+Cursados Aprobados  1ra Vez   2da Vez   3ra Vez 
+    4         2         1         0         1
+Cursos matriculados:
+ 1    FIS220    202301   13
+ 2    MEC270    202201    6
+ 3    MEC270    202301   15
+ 4    MEC270    202201    6
+
+
+Codigo de Alumno:           202318318
+Detalle de Cursos:
+Cursados Aprobados  1ra Vez   2da Vez   3ra Vez 
+    2         2         2         0         0
+Cursos matriculados:
+ 1    INF246    202301   12
+ 2    INF263    202201   17
+
+
+Codigo de Alumno:           202312360
+Detalle de Cursos:
+Cursados Aprobados  1ra Vez   2da Vez   3ra Vez 
+    6         4         3         0         1
+Cursos matriculados:
+ 1    MEC270    202301   14
+ 2    INF246    202201    5
+ 3    INF246    202301   12
+ 4    INF246    202202    5
+ 5    MEC289    202202   19
+ 6    FIS220    202301   14
+
+
+Codigo de Alumno:           202312050
+Detalle de Cursos:
+Cursados Aprobados  1ra Vez   2da Vez   3ra Vez 
+    5         1         1         0         0
+Cursos matriculados:
+ 1    MEC206    202301   17
+ 2    INF263    202301    5
+ 3    MAT241    202302   10
+ 4    MAT241    202202    2
+ 5    MAT241    202301    7
+
+
+Codigo de Alumno:           202314919
+Detalle de Cursos:
+Cursados Aprobados  1ra Vez   2da Vez   3ra Vez 
+    3         2         1         1         0
+Cursos matriculados:
+ 1    MAT241    202201    7
+ 2    FIS220    202301   20
+ 3    MAT241    202202   18
+
+
+Codigo de Alumno:           202119707
+Detalle de Cursos:
+Cursados Aprobados  1ra Vez   2da Vez   3ra Vez 
+    4         1         0         0         1
+Cursos matriculados:
+ 1    INF246    202202    4
+ 2    MEC289    202202    7
+ 3    INF246    202302   17
+ 4    INF246    202301    5
+
+
+Codigo de Alumno:           202216453
+Detalle de Cursos:
+Cursados Aprobados  1ra Vez   2da Vez   3ra Vez 
+    6         2         1         0         1
+Cursos matriculados:
+ 1    MEC206    202201   10
+ 2    MAT241    202201    4
+ 3    MEC270    202201   16
+ 4    MAT241    202301   11
+ 5    MAT241    202202    3
+ 6    MEC206    202102    8
+
+
+Codigo de Alumno:           202313627
+Detalle de Cursos:
+Cursados Aprobados  1ra Vez   2da Vez   3ra Vez 
+    0         0         0         0         0
+
+
+Codigo de Alumno:           202129719
+Detalle de Cursos:
+Cursados Aprobados  1ra Vez   2da Vez   3ra Vez 
+    4         3         2         1         0
+Cursos matriculados:
+ 1    INF246    202201   16
+ 2    MEC270    202201    4
+ 3    MEC270    202202   15
+ 4    FIS220    202201   16
+
+
+Codigo de Alumno:           202222447
+Detalle de Cursos:
+Cursados Aprobados  1ra Vez   2da Vez   3ra Vez 
+    1         1         1         0         0
+Cursos matriculados:
+ 1    INF263    202302   17
+
+
+Codigo de Alumno:           202111397
+Detalle de Cursos:
+Cursados Aprobados  1ra Vez   2da Vez   3ra Vez 
+    4         1         0         1         0
+Cursos matriculados:
+ 1    MEC270    202201    1
+ 2    FIS220    202202    6
+ 3    FIS220    202201    1
+ 4    MEC270    202202   19
+
+
+Codigo de Alumno:           202315527
+Detalle de Cursos:
+Cursados Aprobados  1ra Vez   2da Vez   3ra Vez 
+    2         1         1         0         0
+Cursos matriculados:
+ 1    INF263    202302   11
+ 2    INF246    202301    7
+
+

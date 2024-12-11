@@ -1,0 +1,230 @@
+LISTADO DE CURSOS
+------------------------------------------------------------------------------------------------------------------------------------------------------
+Codigo  Nombre                                                      Creditos  Docente   Nombre Docente                          Num. Alu  Ingresos
+INF263  Algoritmia                                                      3.75  35030611  Inga Flores Cesar Adolfo                      17      0.00
+MEC270  Procesos De Manufactura                                         4.00  83265244  Pairazaman Alamo Moises Miguel                21      0.00
+MEC289  Turbomaquinas Y Maquinas De Desplazamiento Positivo             4.25  49516360  Delgado Gonzales Guillermo Alfonso            15      0.00
+MAT241  Metodos Numericos En Ingenieria                                 3.00  17750908  Hernandez Barrios Emilio                      23      0.00
+MEC206  Termodinamica 1                                                 4.50  66152145  Salas Aguero Daniel                           15      0.00
+INF246  Bases De Datos                                                  3.75  65071478  Mejia Diaz Blanca Milagros                    25      0.00
+FIS220  Tecnicas Computacionales En Fisica                              4.50  37500242  Vasquez Paz Alex Martin                       21      0.00
+======================================================================================================================================================
+LISTADO DE ALUMNOS
+------------------------------------------------------------------------------------------------------------------------------------------------------
+Semestre  Codigo  Nombre                                  Modalidad       % Virt  Escala  Creditos  Costo sem.
+20211     5802    Minaya Amezquita Rhony Jaime            PRESENCIAL        0.00       5     12.50        0.00
+20231     2050    Loyola Hijar Nicolas Oscar              VIRTUAL           0.00       4     11.25        0.00
+20212     7660    Chang Arguedas Henry Antonio            SEMIPRESENCIAL    0.25       4      3.75        0.00
+20231     5527    Justino Collado Luz Delicia             SEMIPRESENCIAL    0.30       3      7.50        0.00
+20231     8320    Norabuena Rivera Gloria Yessica         VIRTUAL           0.00       5     15.50        0.00
+20212     9735    Mendoza Correa Jesus Christian          SEMIPRESENCIAL    0.50       5     12.50        0.00
+20231     8072    Rivera Montero Gloria Ofelia            VIRTUAL           0.00       3      3.75        0.00
+20231     8383    Gordillo Bolanos Arturo Gonzalo         PRESENCIAL        0.00       3      7.50        0.00
+20221     7030    Luna Polo Sonia                         VIRTUAL           0.00       3      3.75        0.00
+20222     4569    Rivera Pasquel Ofelia Cinthia           PRESENCIAL        0.00       5     16.75        0.00
+20231     8318    Tokeshi Gonzales Martin                 SEMIPRESENCIAL    0.50       1      7.50        0.00
+20212     7344    Del Pozo Quio Cesar                     VIRTUAL           0.00       3      7.75        0.00
+20231     9103    Lee Vasquez Jenny                       VIRTUAL           0.00       4     15.00        0.00
+20231     3065    Rett Serrano Rafael Rhony               VIRTUAL           0.00       2      3.75        0.00
+20222     2447    Vilca Justino Melvin                    VIRTUAL           0.00       1      3.75        0.00
+20212     3703    Gamarra Tabori Paul Ronal               SEMIPRESENCIAL    0.30       5     10.75        0.00
+20221     1325    Mori Arroyo Shirley                     PRESENCIAL        0.00       3      6.75        0.00
+20231     5724    Vega Saenz Alexander Richard            SEMIPRESENCIAL    0.50       4     10.75        0.00
+20222     6249    Wong Gallo Janet Madeleine              SEMIPRESENCIAL    0.30       1      8.25        0.00
+20231     5643    Iberos Zambrano Gonzalo                 PRESENCIAL        0.00       2      7.75        0.00
+20231     2501    Cortes Reyes Maribel                    VIRTUAL           0.00       2      8.50        0.00
+20231     2360    Vilca Barrera Cesar Edgar               SEMIPRESENCIAL    0.50       5     16.50        0.00
+20212     5775    Prado Paredes Juan                      SEMIPRESENCIAL    0.50       3     13.00        0.00
+20222     5778    Munoz Zimic Rocio Delicia               SEMIPRESENCIAL    0.50       2     10.75        0.00
+20211     1397    Zevallos Prado Ricardo                  SEMIPRESENCIAL    0.50       2      8.50        0.00
+20231     3754    Malca Saavedra Doris Milagros           SEMIPRESENCIAL    0.30       3      7.75        0.00
+20221     5494    De La Haza Castro Emigdio Johnny        SEMIPRESENCIAL    0.30       2     13.00        0.00
+20222     6929    Bolanos Fuentes Jorge                   SEMIPRESENCIAL    0.50       2      8.50        0.00
+20221     6453    Minaya Vizcarra Juvenal                 SEMIPRESENCIAL    0.25       3     11.50        0.00
+20212     9719    Maeireizo Vasquez Lourdes Silvia        PRESENCIAL        0.00       2     12.25        0.00
+20211     3223    Diaz Sedano Yvonne                      SEMIPRESENCIAL    0.30       4      4.00        0.00
+20211     9958    Quispe Berrocal Antonio Alvaro Daniel   PRESENCIAL        0.00       3     10.75        0.00
+20221     9437    Zimic Paredes Shirley                   SEMIPRESENCIAL    0.25       4      8.25        0.00
+20211     9153    Mendoza Arias Henry                     PRESENCIAL        0.00       4      8.50        0.00
+20231     1247    Serrano Jolay Rhony Rolando             PRESENCIAL        0.00       5      7.00        0.00
+20221     5067    Jauregui Aguero Hector Henry            SEMIPRESENCIAL    0.50       4      8.75        0.00
+20221     4204    Diaz Iberos Glenda Yessica              SEMIPRESENCIAL    0.50       4      8.00        0.00
+20211     4285    Chavarri Aldave Fernando Martin         SEMIPRESENCIAL    0.25       2      4.25        0.00
+20231     3122    Cuba Narvaez Paul John                  PRESENCIAL        0.00       2     11.75        0.00
+20222     7316    Rivero Rett Rony Antonio                SEMIPRESENCIAL    0.30       2      4.25        0.00
+20211     1260    Gordillo Castro Ronal                   PRESENCIAL        0.00       2      8.00        0.00
+20231     2000    Landa Cueva Johan                       VIRTUAL           0.00       4     13.25        0.00
+20211     6963    Cortez Leiva Surami Silvia              SEMIPRESENCIAL    0.30       4     13.25        0.00
+20211     9707    Miranda Larriega Juvenal Nestor         SEMIPRESENCIAL    0.30       2      8.00        0.00
+20231     3249    Norabuena Pairazaman Julian             PRESENCIAL        0.00       3     11.25        0.00
+20222     4918    Portugal Guevara Heli Johana            SEMIPRESENCIAL    0.50       5      6.75        0.00
+20211     4739    Velasquez Cano Fernando                 SEMIPRESENCIAL    0.50       4      7.50        0.00
+20231     9927    Patino Meza Manuel                      VIRTUAL           0.00       3      3.00        0.00
+20212     9785    Farfan Raraz Waldemar                   SEMIPRESENCIAL    0.50       4      3.00        0.00
+20231     5763    Correa Aguirre Moises                   SEMIPRESENCIAL    0.30       2      3.00        0.00
+20231     5318    Florencio Lam Paul Ronald               PRESENCIAL        0.00       3      6.75        0.00
+20221     9773    Sanchez Cuba Natalia Estefania          SEMIPRESENCIAL    0.50       5      6.75        0.00
+20212     1791    Gonzales Velasquez Walter               SEMIPRESENCIAL    0.25       1      3.00        0.00
+20231     4919    Cortes Calixto Rosario                  SEMIPRESENCIAL    0.50       5      7.50        0.00
+20211     6038    Saona Arias Alberto                     SEMIPRESENCIAL    0.25       4      6.75        0.00
+20221     4712    Casanova Chumpitaz Alonso               VIRTUAL           0.00       2      6.75        0.00
+20212     5607    Pozo Jugo Isabel                        PRESENCIAL        0.00       2      9.00        0.00
+20212     6490    Tavera Correa Fernando                  SEMIPRESENCIAL    0.50       2      4.50        0.00
+20222     3508    Auris Jolay Henry Edilberto             SEMIPRESENCIAL    0.50       5      9.00        0.00
+20212     3402    Vizcardo Mori Lucero Zkenia             PRESENCIAL        0.00       1      3.75        0.00
+20221     3745    Caro Quispe Jorge                       VIRTUAL           0.00       1      3.75        0.00
+20231     1748    Patino Fuentes Milagros Mariella        VIRTUAL           0.00       4      8.25        0.00
+20212     3373    Escalante Raraz Blanca                  PRESENCIAL        0.00       3      3.75        0.00
+20231     6015    Alfaro Fuentes Magda                    VIRTUAL           0.00       3      8.25        0.00
+20212     2742    Zavaleta Lopez Karin Virginia           PRESENCIAL        0.00       5      4.50        0.00
+20211     5400    Santisteban Jugo Nestor                 SEMIPRESENCIAL    0.30       1      4.50        0.00
+======================================================================================================================================================
+LISTADO DE CLASES
+------------------------------------------------------------------------------------------------------------------------------------------------------
+Curso   Semestre  Alumno
+INF263  20211     5802
+INF263  20231     2050
+INF263  20212     7660
+INF263  20231     5527
+INF263  20231     8320
+INF263  20212     9735
+INF263  20231     8072
+INF263  20231     8383
+INF263  20221     7030
+INF263  20222     4569
+INF263  20231     8318
+INF263  20212     7344
+INF263  20231     9103
+INF263  20231     3065
+INF263  20222     2447
+INF263  20212     3703
+INF263  20221     1325
+MEC270  20231     5724
+MEC270  20222     6249
+MEC270  20231     5643
+MEC270  20231     2501
+MEC270  20212     3703
+MEC270  20231     2360
+MEC270  20212     5775
+MEC270  20222     5778
+MEC270  20211     1397
+MEC270  20231     3754
+MEC270  20221     5494
+MEC270  20222     6929
+MEC270  20221     6453
+MEC270  20212     9719
+MEC270  20211     3223
+MEC270  20222     4569
+MEC270  20211     9958
+MEC270  20212     7344
+MEC270  20221     9437
+MEC270  20211     9153
+MEC270  20231     1247
+MEC289  20221     5067
+MEC289  20221     4204
+MEC289  20211     4285
+MEC289  20231     3122
+MEC289  20222     7316
+MEC289  20221     9437
+MEC289  20211     1260
+MEC289  20231     8320
+MEC289  20231     2360
+MEC289  20231     2000
+MEC289  20211     6963
+MEC289  20211     5802
+MEC289  20222     6249
+MEC289  20211     9707
+MEC289  20212     9735
+MAT241  20231     1247
+MAT241  20231     3249
+MAT241  20222     4918
+MAT241  20211     4739
+MAT241  20222     5778
+MAT241  20231     9927
+MAT241  20212     9785
+MAT241  20231     5763
+MAT241  20231     5318
+MAT241  20221     9773
+MAT241  20211     9958
+MAT241  20221     1325
+MAT241  20231     3122
+MAT241  20231     5724
+MAT241  20212     1791
+MAT241  20231     2050
+MAT241  20212     3703
+MAT241  20221     6453
+MAT241  20231     8320
+MAT241  20231     4919
+MAT241  20231     9103
+MAT241  20211     6038
+MAT241  20221     4712
+MEC206  20222     4569
+MEC206  20221     5494
+MEC206  20221     6453
+MEC206  20211     6963
+MEC206  20231     2000
+MEC206  20212     5607
+MEC206  20212     6490
+MEC206  20212     5775
+MEC206  20231     2501
+MEC206  20222     3508
+MEC206  20211     4739
+MEC206  20231     2050
+MEC206  20211     5802
+MEC206  20221     5067
+MEC206  20231     3122
+INF246  20231     2360
+INF246  20231     5724
+INF246  20212     3402
+INF246  20211     6038
+INF246  20231     8318
+INF246  20211     1260
+INF246  20231     9103
+INF246  20222     5778
+INF246  20221     3745
+INF246  20231     5527
+INF246  20231     8383
+INF246  20231     3249
+INF246  20231     1748
+INF246  20221     9773
+INF246  20212     9719
+INF246  20212     3373
+INF246  20221     4204
+INF246  20211     9958
+INF246  20231     5643
+INF246  20222     4918
+INF246  20231     3754
+INF246  20231     6015
+INF246  20231     5318
+INF246  20221     4712
+INF246  20211     9707
+FIS220  20231     2000
+FIS220  20231     3249
+FIS220  20231     2360
+FIS220  20222     4569
+FIS220  20231     8320
+FIS220  20211     6963
+FIS220  20212     2742
+FIS220  20211     9153
+FIS220  20212     5775
+FIS220  20212     9719
+FIS220  20211     1397
+FIS220  20231     6015
+FIS220  20231     1748
+FIS220  20212     9735
+FIS220  20231     9103
+FIS220  20222     6929
+FIS220  20231     4919
+FIS220  20211     5400
+FIS220  20222     3508
+FIS220  20212     5607
+FIS220  20221     5494
+======================================================================================================================================================
+LISTADO DE ESCALAS
+------------------------------------------------------------------------------------------------------------------------------------------------------
+Monto
+282.30
+362.00
+454.20
+556.70
+666.90

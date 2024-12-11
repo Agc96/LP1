@@ -1,0 +1,122 @@
+                                       EMPRESA PRESTADORA DE SALUD
+=========================================================================================================
+INGRESO DE LOS MEDICOS POR LAS CITAS:
+=========================================================================================================
+No.  Codigo    Nombre                                  Especialidad            Tarifa   Total de ingresos
+=========================================================================================================
+ 1)  506117    EDGAR MUNOZ VERGEL                      Urologia                337.03             2022.18
+ 2)  150928    LUZ SOFIA JAUREGUI BRAVO                Dermatologia            756.45             6051.60
+ 3)  601846    SURAMI HELI PRECIADO PINTO              Traumatologia           738.90             2955.60
+ 4)  907988    GIOVANA MEJIA ZEGARRA                   Traumatologia           758.51             6068.08
+ 5)  807862    ROSARIO MARIBEL YEP ZAVALETA            Ginecologia             997.38             5984.28
+ 6)  702339    CINTHIA MILENA ZEGARRA CABELLO          Ginecologia             902.38             7219.04
+ 7)  892133    DELIA ZARATE URBINA                     Gastroenterologia       389.91             2339.46
+ 8)  909077    FIORELLA ERIKA FLORENCIO POLO           Dermatologia            470.72             4707.20
+ 9)  609349    OFELIA CARMEN MERCADO CARO              Neumologia              526.45             3685.15
+10)  147871    WALTER JOLAY CHUMPITAZ                  Traumatologia           298.45             1492.25
+11)  600493    HUMBERTO ALBERTO VARGAS GUEVARA         Gastroenterologia       780.49             6243.92
+12)  702694    DELICIA ARCA AQUINO                     Dermatologia            523.53             6282.36
+13)  535567    VALENTINA PAULA URBINA ANTEZANO         Pediatria               410.37             2462.22
+14)  706122    ZKENIA IRMA CHUNG ZUNIGA                Traumatologia           842.24             5895.68
+15)  644057    LOURDES CARMELA YALLICO PAREDES         Oftalmologia            232.61              930.44
+16)  909295    DELICIA ROSA ARCA LEIVA                 Oftalmologia            405.69             4056.90
+17)  703676    DELIA ESTEFANIA CABRERA MORENO          Urologia                781.15             2343.45
+18)  187089    WILMER SAENZ ARANDA                     Ginecologia             176.60             1766.00
+19)  801383    GUSTAVO ALONSO DEL CASTILLO MEJIA       Geriatria               319.80             2558.40
+20)  354519    JAVIER EDGARD LANDA CABRERA             Pediatria               897.50             5385.00
+21)  709926    OFELIA BEATRIZ MONTERO BOLANOS          Gastroenterologia       525.59             5255.90
+22)  497687    MARINA NATALIA GARCIA INGA              Cardiologia             197.06              985.30
+23)  336876    BLANCA LUZ ACUNA AYLLON                 Oftalmologia            654.46             1308.92
+24)  707896    VICTORIA MILAGROS SHIRAKAWA SAONA       Pediatria                19.29              173.61
+25)  182620    EMILIO EMIGDIO GONZALES AGUIRRE         Urologia                981.29             4906.45
+26)  146552    GLENDA CABRERA MORI                     Oncologia               940.91             7527.28
+27)  802270    TERESA TERESA MARTEL MERCADO            Pediatria               170.85             1195.95
+28)  341150    MIGUEL ALEX LANDEO ESTRADA              Cardiologia             893.34             8933.40
+29)  800404    DAVID CARLOS PEREZ ANTEZANO             Endocrinologia            4.56               41.04
+30)  254488    CARMEN ZAMORA CABRERA                   Endocrinologia          496.87             3974.96
+31)  404143    YLIANA FLOR ORTIZ GUEVARA               Ginecologia              55.48              166.44
+32)  905627    HUMBERTO ALFONSO AMEZQUITA CONTRERAS    Dermatologia            869.33             3477.32
+33)  915098    RAUL COLLADO VILLA                      Cardiologia             146.35              878.10
+34)  305578    JAIME JULIAN SHIRAKAWA FLORIAN          Neumologia              169.44             1186.08
+35)  201895    FRANCISCO ZIMIC SALAS                   Endocrinologia          854.93             8549.30
+36)  300822    ALFONSO WALDEMAR CABELLO LAM            Cardiologia             184.46             1844.60
+37)  507183    ESTEFANIA ZEGARRA CASANOVA              Pediatria               264.21              792.63
+38)  520631    MILENA CINTHIA ZARATE ACUNA             Traumatologia           792.07             7128.63
+39)  800631    VICTORIA FIORELLA CUBA POMAJAMBO        Gastroenterologia       256.05             1792.35
+40)  197775    ROSARIO TABORI ARIAS                    Oftalmologia            977.98             7823.84
+---------------------------------------------------------------------------------------------------------
+Total ingresado:                                                                                148391.31
+=========================================================================================================
+GASTOS DE LOS PACIENTES POR LAS CITAS:
+=========================================================================================================
+No.  DNI       Nombre                   Numero de citas     Total de gastos
+=========================================================================================================
+ 1)  43704548  Vizcardo/Maribel                  3                872.82
+ 2)  36471787  Pena/Glenda                       4               2248.48
+ 3)  71422479  Lozada/Felicita                   5               2333.42
+ 4)  51465986  Sam/Ines                          7               3558.66
+ 5)  20371464  Lozada/Heli                       9               6947.50
+ 6)  36934113  Serrano/Arturo                    6               3590.41
+ 7)  15290194  Hernandez/Guillermo               8               4129.31
+ 8)  85395219  Fuentes/Patricia                  5               1638.87
+ 9)  93961840  Pairazaman/Tatiana                9               5286.95
+10)  61061535  Solis/Maria                       6               2849.63
+11)  62126128  Durand/Enrique                    8               3202.55
+12)  54815159  Patino/Delicia                    8               4289.98
+13)  91187814  Narvaez/Jesus                     3               2061.57
+14)  51642949  Miranda/Alfonso                   7               2339.84
+15)  45201670  Guevara/Milena                    3               2023.81
+16)  31284904  Sakaguchi/Carlos                  4               1541.67
+17)  93282118  Zambrano/Ofelia                   6               4022.63
+18)  34697743  Ayala/Ericka                      3               1268.31
+19)  68114999  Rios/Ines                         5               3418.38
+20)  95656771  Raffo/Rolando                     3               1560.27
+21)  54149342  Leyva/Diana                       7               4397.82
+22)  99891737  Contreras/Johana                  6               3217.75
+23)  93939698  Henriquez/Silvana                 5               2803.70
+24)  32538825  Hijar/Martin                      5               2295.46
+25)  63640178  Rodriguez/Blanca                  3               1031.41
+26)  35852072  Jauregui/Victor                   6               3018.75
+27)  72330000  Vega/Carmela                      6               2645.03
+28)  80694546  Ramirez/Karina                    4               2167.56
+29)  81647285  Vega/Henrry                       4               2741.79
+30)  72973662  Vargas/Daniel                     3               1511.43
+31)  93231760  Zarate/Alexander                  4               2176.18
+32)  77324146  Moscoso/Janet                     5               1987.39
+33)  51873364  Calixto/Erick                     3               2134.91
+34)  45914393  Lozada/Antonio                    4               2458.29
+35)  35347567  Sedano/Elia                       2                997.17
+36)  34571095  Infantes/Luis                     1                319.80
+37)  49357767  Solis/Rolando                     3               1977.45
+38)  13731806  Salamanca/Virginia                7               2477.26
+39)  22679759  Bravo/Janet                       2                353.20
+40)  94683380  Farfan/Margot                     4               2291.92
+41)  92275859  Egusquiza/Doris                   1                781.15
+42)  35606314  Mercado/Elia                      4               2045.61
+43)  65912822  Camacho/Ydali                     3               1807.25
+44)  59561864  Rosemberg/Julio                   2               1181.84
+45)  59596317  Justino/Virginia                  4               1530.00
+46)  52313890  Rivero/Wilver                     3               1806.43
+47)  37282858  Soma/Lourdes                      4               1739.54
+48)  27709566  Ortiz/Raul                        4               1186.98
+49)  41964357  Arca/Magali                       3                917.01
+50)  14956687  Luna/Waldemar                     2               1191.52
+51)  77440060  Escalante/Emigdio                 4               1876.16
+52)  62287143  Wong/Beatriz                      7               3911.99
+53)  28992638  Trigueros/Luz                     1                977.98
+54)  53420926  Prado/Juan                        3               1710.01
+55)  86988155  Cerna/Cinthia                     5               2105.62
+56)  90367684  Sinche/Yvonne                     6               3792.71
+57)  22598563  Sueldo/Adria                      5               2998.50
+58)  30246960  Escalante/Ines                    4               2812.21
+59)  58643376  Arroyo/Natalia                    3               2220.04
+60)  81539774  Alfaro/Erick                      1                264.21
+61)  17299012  Suarez/Amaru                      1                525.59
+62)  12484697  Diaz/Enrique                      5               2998.75
+63)  57182371  Moscoso/Fiorella                  3                975.33
+64)  66039166  Chavez/Johan                      1                842.24
+65)  68269451  Asmad/Adria                       4               1523.40
+66)  75100362  Arca/Lucero                       1                780.49
+67)  66091742  Baca/Milagros                     2               1699.42
+=========================================================================================================
+Total gastado:                                                 148391.31

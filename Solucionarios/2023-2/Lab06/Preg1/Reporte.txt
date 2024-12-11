@@ -1,0 +1,11 @@
+16552775  YALLICO PAREDES LOURDES CARMELA                   960176666       0.00    NO SE LE ENTREGARON PRODUCTOS
+
+AWB-345   Deshumedecedor DM-189H                                          800.37         1
+NO SE ATENDIERON PEDIDOS
+NO HAY CLIENTES SIN ATENDER
+
+16552775  YALLICO PAREDES LOURDES CARMELA                   960176666     800.37    Productos entregados:   AWB-345
+
+AWB-345   Deshumedecedor DM-189H                                          800.37         0
+Clientes atendidos:     16552775
+Clientes no atendidos:  16552775

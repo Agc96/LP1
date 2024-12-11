@@ -1,0 +1,18 @@
+79464412  PORTUGAL RAFFO ALEXANDER                                       3902394      0.00  Productos entregados:  JXD-139   MTF-868             
+16552775  YALLICO PAREDES LOURDES CARMELA                              960176666      0.00  Productos entregados:  AWB-345   CNN-411   
+
+AWB-345   Deshumedecedor DM-189H                                          800.37    5
+Clientes atendidos:        16552775
+NO HAY CLIENTES SIN ATENDER
+
+CNN-411   Congeladora Side by Side                                       2296.29   23
+Clientes atendidos:        16552775
+NO HAY CLIENTES SIN ATENDER
+
+JXD-139   Terma Evolucion Soltu                                           586.02    0
+Clientes atendidos:        44229880  79464412  26976877  89298238  35565959
+Clientes no atendidos:     79140840
+
+MTF-868   Impresora Monocromatica WorkForce M205                          971.59   11
+Clientes atendidos:        79464412
+NO HAY CLIENTES SIN ATENDER
